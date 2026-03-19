@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 681-700)",
+  "description": "Test your knowledge of words 681 to 700",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "sedentary",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Involving little exercise or physical activity",
+      "options": [
+        {
+          "text": "Involving little exercise or physical activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very active and energetic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Related to old age",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tending to spend a lot of money",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bulwark",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A strong wall built for defense; something that protects or supports",
+      "options": [
+        {
+          "text": "A strong wall built for defense; something that protects or supports",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small stream of water",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of bird found in forests",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A colorful garden flower",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "antithesis",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) The exact opposite of something",
+      "options": [
+        {
+          "text": "The exact opposite of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A similar copy of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small part of a larger thing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The middle point between two extremes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "frugal",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Careful about spending money; using only what is necessary",
+      "options": [
+        {
+          "text": "Careful about spending money; using only what is necessary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Wasteful and careless with money",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very rich and wealthy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always wanting to buy new things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "embellish",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To make something more attractive by adding decorations or details",
+      "options": [
+        {
+          "text": "To make something more attractive by adding decorations or details",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something smaller or less important",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To break something into pieces",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide or cover something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "altruistic",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Showing a selfless concern for the welfare of others",
+      "options": [
+        {
+          "text": "Showing a selfless concern for the welfare of others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Thinking only about oneself",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being very clever and smart",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having great artistic talent",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "coterie",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A small group of people with shared interests who spend time together",
+      "options": [
+        {
+          "text": "A small group of people with shared interests who spend time together",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A large crowd of strangers",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A formal business meeting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A family gathering for a celebration",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cache",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A hidden storage place for valuable things",
+      "options": [
+        {
+          "text": "A hidden storage place for valuable things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of computer program",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A loud argument or disagreement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sudden, unexpected event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "virtuosity",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Great skill or ability in the arts, especially in playing music",
+      "options": [
+        {
+          "text": "Great skill or ability in the arts, especially in playing music",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The quality of being honest and truthful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Physical strength and power",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cupidity",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) Greed for money or possessions",
+      "options": [
+        {
+          "text": "Greed for money or possessions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A strong desire to learn",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Fear of being in crowded places",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Great generosity and kindness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "amorous",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Showing, feeling, or relating to love or sexual desire",
+      "options": [
+        {
+          "text": "Showing, feeling, or relating to love or sexual desire",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Angry and hostile towards others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Indifferent or not caring about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely sad and depressed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "temerity",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) Excessive confidence or boldness; recklessness",
+      "options": [
+        {
+          "text": "Excessive confidence or boldness; recklessness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great wisdom and intelligence",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extreme fear and anxiety",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complete honesty and openness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "saturate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To completely soak or fill something so it can hold no more",
+      "options": [
+        {
+          "text": "To completely soak or fill something so it can hold no more",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something dry and remove all moisture",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To clean something thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To separate different parts of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "progeny",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) Children or descendants; offspring",
+      "options": [
+        {
+          "text": "Children or descendants; offspring",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Parents and ancestors",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Close friends and companions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Teachers and mentors",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "consummate",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective/Verb) Complete or perfect in every way; showing great skill",
+      "options": [
+        {
+          "text": "Complete or perfect in every way; showing great skill",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Beginner level or inexperienced",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average or ordinary in quality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Broken or damaged beyond repair",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "perpetrate",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To carry out or commit a harmful, illegal, or immoral act",
+      "options": [
+        {
+          "text": "To carry out or commit a harmful, illegal, or immoral act",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To prevent something from happening",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forgive someone for their mistakes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To discover or find something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "concoct",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To make something by combining different ingredients; to invent a story or plan",
+      "options": [
+        {
+          "text": "To make something by combining different ingredients; to invent a story or plan",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To organize things neatly in order",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repeat something exactly as it was",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "manifold",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Many and various; having many different forms or parts",
+      "options": [
+        {
+          "text": "Many and various; having many different forms or parts",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Simple and easy to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Only one or very few",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "All exactly the same",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fallacious",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Based on a mistaken belief; misleading or deceptive",
+      "options": [
+        {
+          "text": "Based on a mistaken belief; misleading or deceptive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Absolutely true and correct",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely honest and straightforward",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Based on scientific evidence",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impeccable",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Perfect, with no flaws or mistakes",
+      "options": [
+        {
+          "text": "Perfect, with no flaws or mistakes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of errors and mistakes",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average or ordinary in quality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and worn out",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

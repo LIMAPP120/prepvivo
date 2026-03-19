@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 421-440)",
+  "description": "Test your knowledge of words 421 to 440",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "immaterial",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Unimportant or not relevant to the matter being considered",
+      "options": [
+        {
+          "text": "Unimportant or not relevant to the matter being considered",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Made of a material that cannot be seen",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely valuable and precious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Related to religious or spiritual matters",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extradition",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) The formal process of returning a person to their own country to face trial or punishment",
+      "options": [
+        {
+          "text": "The formal process of returning a person to their own country to face trial or punishment",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A long journey to a foreign country",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An additional edition of a book or newspaper",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A special type of building addition",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "diurnal",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Active during the daytime rather than at night",
+      "options": [
+        {
+          "text": "Active during the daytime rather than at night",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Happening every two days",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Related to religious ceremonies",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very small and difficult to see",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lapidary",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective/Noun) Relating to the cutting, polishing, or engraving of stones and gems",
+      "options": [
+        {
+          "text": "Relating to the cutting, polishing, or engraving of stones and gems",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who writes poetry about nature",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of slow-moving animal that lives in trees",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A special type of paper used for drawing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "eke",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To make a living or support oneself with difficulty, often by being very economical",
+      "options": [
+        {
+          "text": "To make a living or support oneself with difficulty, often by being very economical",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a loud, sharp cry like a bird",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To run away quickly from danger",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak in a very soft voice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "shunt",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To push or shove something to one side; to divert or change the direction of something",
+      "options": [
+        {
+          "text": "To push or shove something to one side; to divert or change the direction of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a sudden, loud noise",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To climb up something very quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean something thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dilettante",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A person who follows an art or science only for amusement, in a superficial way",
+      "options": [
+        {
+          "text": "A person who follows an art or science only for amusement, in a superficial way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A professional dancer from Italy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of sweet Italian dessert",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who never makes mistakes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "licentious",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Lacking moral discipline or ignoring accepted rules, especially in sexual matters",
+      "options": [
+        {
+          "text": "Lacking moral discipline or ignoring accepted rules, especially in sexual matters",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very expensive and luxurious",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely clean and organized",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having many different licenses or permits",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "plagiarism",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) The act of using someone else's work or ideas without giving proper credit",
+      "options": [
+        {
+          "text": "The act of using someone else's work or ideas without giving proper credit",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A serious illness affecting the lungs",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of plant that grows in tropical regions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The study of ancient civilizations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "embezzle",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To steal money that has been entrusted to you, especially from your employer",
+      "options": [
+        {
+          "text": "To steal money that has been entrusted to you, especially from your employer",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To solve a difficult puzzle or problem",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To mix different colors together",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To build something very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "repartee",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) Quick, clever conversation or remarks in reply to someone",
+      "options": [
+        {
+          "text": "Quick, clever conversation or remarks in reply to someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of French bread",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A musical instrument with strings",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A formal report or document",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gauche",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Lacking social grace or awkward in social situations",
+      "options": [
+        {
+          "text": "Lacking social grace or awkward in social situations",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely fashionable and stylish",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very large and impressive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Left-handed or using the left hand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nabob",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A wealthy, powerful, or important person, especially in colonial India",
+      "options": [
+        {
+          "text": "A wealthy, powerful, or important person, especially in colonial India",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of Indian bread",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small boat used for fishing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who tells jokes for a living",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ado",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) Fuss, trouble, or unnecessary activity or delay",
+      "options": [
+        {
+          "text": "Fuss, trouble, or unnecessary activity or delay",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of Japanese martial art",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A sweet, sticky rice cake",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small, furry animal",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "jocund",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Cheerful, merry, or lighthearted",
+      "options": [
+        {
+          "text": "Cheerful, merry, or lighthearted",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very serious and solemn",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely tired and sleepy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely round in shape",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pertinacious",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Holding firmly to an opinion or course of action; stubbornly persistent",
+      "options": [
+        {
+          "text": "Holding firmly to an opinion or course of action; stubbornly persistent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very forgetful and absent-minded",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely flexible and bendable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Covered with small spots or dots",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tenuous",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Very weak, slight, or insubstantial; not certain, definite, or strong",
+      "options": [
+        {
+          "text": "Very weak, slight, or insubstantial; not certain, definite, or strong",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely strong and durable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very clear and obvious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely waterproof",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "micrometer",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A device used for measuring very small distances or thicknesses",
+      "options": [
+        {
+          "text": "A device used for measuring very small distances or thicknesses",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very small microphone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of tiny insect",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A unit of time equal to one millionth of a second",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "paradigm",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A typical example, pattern, or model of something",
+      "options": [
+        {
+          "text": "A typical example, pattern, or model of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of tropical fruit",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A pair of animals working together",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A long speech about an important topic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abstract",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Existing in thought or as an idea but not having a physical or concrete existence",
+      "options": [
+        {
+          "text": "Existing in thought or as an idea but not having a physical or concrete existence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely attractive and beautiful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very difficult to understand",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Taken away or removed from something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

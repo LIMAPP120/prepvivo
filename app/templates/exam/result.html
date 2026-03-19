@@ -1,0 +1,32 @@
+{% extends "base.html" %} {% block title %}Exam Results{% endblock %} {% block
+content %}
+
+<div class="hero" style="justify-content: center; text-align: center">
+  <div>
+    <h1>Your Score: {{ submission.score }}/{{ submission.total_possible }}</h1>
+    <div class="score" style="font-size: 5rem">
+      {{ (submission.score / submission.total_possible * 100) | round }}%
+    </div>
+  </div>
+</div>
+
+<div class="vocab-modules">
+  <h2 style="margin-bottom: 2rem">Detailed Review</h2>
+  {% for result in results %}
+  <div
+    class="module-row"
+    style="padding: 1rem; background: {% if result.is_correct %}#f0fff0{% else %}#fff0f0{% endif %}; border-radius: 1rem; margin-bottom: 1rem; display: block;"
+  >
+    <h3>{{ result.question.text }}</h3>
+    <p><strong>Your answer:</strong> {{ result.user_answer }}</p>
+    {% if not result.is_correct %}
+    <p><strong>Correct answer:</strong> {{ result.correct_answer }}</p>
+    <p><strong>Explanation:</strong> {{ result.explanation }}</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+  <a href="{{ url_for('main.index') }}" class="btn-outline"
+    ><i class="fas fa-arrow-left"></i> Back to Exams</a
+  >
+</div>
+{% endblock %}

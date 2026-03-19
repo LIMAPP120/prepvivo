@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 541-560)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Attribute",
+      "points": 1,
+      "explanation": "(Noun) A quality or feature regarded as a characteristic or inherent part of someone or something",
+      "options": [
+        {
+          "text": "A quality or feature regarded as a characteristic or inherent part of someone or something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A temporary state or condition",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A negative quality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something that can be easily changed",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 1
+    },
+    {
+      "text": "Authorize",
+      "points": 1,
+      "explanation": "(Verb) To give official permission for or approval to",
+      "options": [
+        {
+          "text": "To give official permission for or approval to",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To forbid or prohibit something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore a request",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To do something without permission",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 2
+    },
+    {
+      "text": "Aware",
+      "points": 1,
+      "explanation": "(Adjective) Having knowledge or perception of a situation or fact",
+      "options": [
+        {
+          "text": "Having knowledge or perception of a situation or fact",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely ignorant or unaware",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Guessing without certainty",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetting important information",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 3
+    },
+    {
+      "text": "Barrier",
+      "points": 1,
+      "explanation": "(Noun) A fence or other obstacle that prevents movement or access",
+      "options": [
+        {
+          "text": "A fence or other obstacle that prevents movement or access",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that helps movement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An open pathway",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool for making things easier",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 4
+    },
+    {
+      "text": "Beneficial",
+      "points": 1,
+      "explanation": "(Adjective) Favorable or advantageous; resulting in good",
+      "options": [
+        {
+          "text": "Favorable or advantageous; resulting in good",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Harmful or damaging",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having no effect",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making things worse",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 5
+    },
+    {
+      "text": "Bias",
+      "points": 1,
+      "explanation": "(Noun) Prejudice in favor of or against one thing, person, or group compared with another",
+      "options": [
+        {
+          "text": "Prejudice in favor of or against one thing, person, or group compared with another",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete fairness and objectivity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A random choice without preference",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A carefully considered opinion",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 6
+    },
+    {
+      "text": "Brief",
+      "points": 1,
+      "explanation": "(Adjective) Of short duration; concise in expression",
+      "options": [
+        {
+          "text": "Of short duration; concise in expression",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Long and detailed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Taking a very long time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complicated and confusing",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 7
+    },
+    {
+      "text": "Calculate",
+      "points": 1,
+      "explanation": "(Verb) To determine mathematically; to compute",
+      "options": [
+        {
+          "text": "To determine mathematically; to compute",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To guess without numbers",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore mathematical facts",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make up numbers randomly",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 8
+    },
+    {
+      "text": "Candidate",
+      "points": 1,
+      "explanation": "(Noun) A person who applies for a job or is nominated for election",
+      "options": [
+        {
+          "text": "A person who applies for a job or is nominated for election",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Someone who has already won",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who doesn't want the position",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Someone who is not qualified",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 9
+    },
+    {
+      "text": "Capacity",
+      "points": 1,
+      "explanation": "(Noun) The maximum amount that something can contain or produce",
+      "options": [
+        {
+          "text": "The maximum amount that something can contain or produce",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The minimum amount possible",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An empty space with nothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small unimportant amount",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 10
+    },
+    {
+      "text": "Concept",
+      "points": 1,
+      "explanation": "(Noun) An abstract idea; a general notion",
+      "options": [
+        {
+          "text": "An abstract idea; a general notion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A concrete object you can touch",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A random thought without meaning",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A detailed instruction manual",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 11
+    },
+    {
+      "text": "Conclude",
+      "points": 1,
+      "explanation": "(Verb) To bring something to an end; to arrive at a judgment or opinion by reasoning",
+      "options": [
+        {
+          "text": "To bring something to an end; to arrive at a judgment or opinion by reasoning",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To begin something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To guess without evidence",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To continue without stopping",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 12
+    },
+    {
+      "text": "Concurrent",
+      "points": 1,
+      "explanation": "(Adjective) Existing, happening, or done at the same time",
+      "options": [
+        {
+          "text": "Existing, happening, or done at the same time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Happening one after another",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely separate and unrelated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happening at random times",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 13
+    },
+    {
+      "text": "Conduct",
+      "points": 1,
+      "explanation": "(Verb) To organize and carry out; to lead or guide",
+      "options": [
+        {
+          "text": "To organize and carry out; to lead or guide",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To watch without participating",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To follow someone else's lead",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To cancel planned activities",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 14
+    },
+    {
+      "text": "Confer",
+      "points": 1,
+      "explanation": "(Verb) To have discussions; to exchange opinions; to grant or bestow",
+      "options": [
+        {
+          "text": "To have discussions; to exchange opinions; to grant or bestow",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make decisions alone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To take something away from someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore other people's opinions",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 15
+    },
+    {
+      "text": "Confident",
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing certainty about something; self-assured",
+      "options": [
+        {
+          "text": "Feeling or showing certainty about something; self-assured",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling unsure and hesitant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being afraid to try new things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not believing in yourself",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 16
+    },
+    {
+      "text": "Conflict",
+      "points": 1,
+      "explanation": "(Noun) A serious disagreement or argument; a clash",
+      "options": [
+        {
+          "text": "A serious disagreement or argument; a clash",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A peaceful agreement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A friendly discussion",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complete harmony",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 17
+    },
+    {
+      "text": "Conform",
+      "points": 1,
+      "explanation": "(Verb) To comply with rules, standards, or laws; to behave according to social norms",
+      "options": [
+        {
+          "text": "To comply with rules, standards, or laws; to behave according to social norms",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To break all the rules",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To create your own standards",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore social expectations",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 18
+    },
+    {
+      "text": "Consent",
+      "points": 1,
+      "explanation": "(Noun) Permission for something to happen or agreement to do something",
+      "options": [
+        {
+          "text": "Permission for something to happen or agreement to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A refusal to allow something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A protest against an action",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A demand to stop something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 19
+    },
+    {
+      "text": "Consequence",
+      "points": 1,
+      "explanation": "(Noun) A result or effect of an action or condition",
+      "options": [
+        {
+          "text": "A result or effect of an action or condition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The cause of a problem",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A random event with no cause",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An action without any results",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 20
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1001-1020)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "penultimate",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Second to last in a series or sequence",
+      "options": [
+        {
+          "text": "Second to last in a series or sequence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The very first item in a list",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The middle item in a series",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The very last item in a sequence",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vulpine",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Relating to or resembling a fox; clever or cunning like a fox",
+      "options": [
+        {
+          "text": "Relating to or resembling a fox; clever or cunning like a fox",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Related to wolves and howling",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Slow and steady like a turtle",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Strong and powerful like a bear",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "illusion",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) Something that looks or seems different from what it actually is",
+      "options": [
+        {
+          "text": "Something that looks or seems different from what it actually is",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A proven scientific fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that is completely real and true",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of strong building material",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bibliophile",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) A person who loves or collects books",
+      "options": [
+        {
+          "text": "A person who loves or collects books",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who is afraid of books",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who repairs old buildings",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who studies insects",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "omniscient",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Knowing everything; having complete or unlimited knowledge",
+      "options": [
+        {
+          "text": "Knowing everything; having complete or unlimited knowledge",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Knowing only a little about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Forgetting things easily",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Learning something new every day",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "minatory",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Threatening or suggesting that something bad will happen",
+      "options": [
+        {
+          "text": "Threatening or suggesting that something bad will happen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Friendly and welcoming",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Happy and cheerful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Calm and peaceful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sinuous",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Having many curves and turns; moving in a smooth, graceful way",
+      "options": [
+        {
+          "text": "Having many curves and turns; moving in a smooth, graceful way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Straight and direct without any turns",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Rough and bumpy like a rocky road",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Sharp and angular like a triangle",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vignette",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A short description, scene, or story that gives a clear picture",
+      "options": [
+        {
+          "text": "A short description, scene, or story that gives a clear picture",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very long novel with many chapters",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A scientific report with data and charts",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A list of instructions or rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ecology",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) The study of how living things interact with each other and their environment",
+      "options": [
+        {
+          "text": "The study of how living things interact with each other and their environment",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The study of rocks and minerals",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The study of stars and planets",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The study of ancient civilizations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pallor",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) Unnatural paleness of the skin, often because of illness or fear",
+      "options": [
+        {
+          "text": "Unnatural paleness of the skin, often because of illness or fear",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A healthy, rosy color in the cheeks",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A dark tan from being in the sun",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Bright red coloring from blushing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sardonic",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Mocking or cynical in a humorous way",
+      "options": [
+        {
+          "text": "Mocking or cynical in a humorous way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely serious and sincere",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very happy and enthusiastic",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Sad and tearful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "paranoid",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Feeling excessively suspicious or fearful without good reason",
+      "options": [
+        {
+          "text": "Feeling excessively suspicious or fearful without good reason",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling completely safe and secure",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being very trusting of everyone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling happy and carefree",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "accolade",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) An award, praise, or honor given for achievement",
+      "options": [
+        {
+          "text": "An award, praise, or honor given for achievement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A criticism or complaint about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A warning about danger",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A question about a problem",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "magnitude",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) Great size, extent, or importance of something",
+      "options": [
+        {
+          "text": "Great size, extent, or importance of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Small size or little importance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average size with no special features",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tiny details of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "malaise",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A general feeling of discomfort, illness, or uneasiness",
+      "options": [
+        {
+          "text": "A general feeling of discomfort, illness, or uneasiness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great energy and health",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A specific pain in one part of the body",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of extreme happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "indeterminate",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Not exactly known, established, or defined",
+      "options": [
+        {
+          "text": "Not exactly known, established, or defined",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Clearly known and definite",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly measured and calculated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Perfectly organized and planned",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "onus",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A responsibility, duty, or burden",
+      "options": [
+        {
+          "text": "A responsibility, duty, or burden",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A reward or prize for good work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A free gift with no strings attached",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A vacation or break from work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "askew",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective/Adverb) Not in a straight or level position; crooked or tilted",
+      "options": [
+        {
+          "text": "Not in a straight or level position; crooked or tilted",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Perfectly straight and aligned",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely level and balanced",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very secure and firmly attached",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "waggish",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Playfully humorous or mischievous",
+      "options": [
+        {
+          "text": "Playfully humorous or mischievous",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very serious and solemn",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Angry and irritable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Quiet and shy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "euphoria",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A feeling of great happiness and excitement",
+      "options": [
+        {
+          "text": "A feeling of great happiness and excitement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of deep sadness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of boredom or disinterest",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of fear or anxiety",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

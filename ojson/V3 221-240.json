@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 221-240)",
+  "description": "Test your knowledge of words 221 to 240",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "artifice",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A clever trick or deception used to trick someone",
+      "options": [
+        {
+          "text": "A clever trick or deception used to trick someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of beautiful painting or drawing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very honest and truthful statement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A simple and basic tool",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "expurgate",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To remove offensive or inappropriate parts from a book or text",
+      "options": [
+        {
+          "text": "To remove offensive or inappropriate parts from a book or text",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To add more pictures to a book",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To write a book very quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To read a book very carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "qualm",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A feeling of doubt or worry about whether something is right",
+      "options": [
+        {
+          "text": "A feeling of doubt or worry about whether something is right",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very happy and excited feeling",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A sudden idea or inspiration",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A strong feeling of hunger",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "artless",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Simple, natural, and honest without trying to trick anyone",
+      "options": [
+        {
+          "text": "Simple, natural, and honest without trying to trick anyone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very creative and artistic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Without any talent or skill",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of tricks and deception",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "begrudge",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To feel unhappy or jealous that someone has something",
+      "options": [
+        {
+          "text": "To feel unhappy or jealous that someone has something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give someone a gift happily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To share something equally with friends",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ask for something politely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "manifest",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective/Verb) Clear and obvious to see or understand",
+      "options": [
+        {
+          "text": "Clear and obvious to see or understand",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Hidden and difficult to find",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Confusing and complicated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Small and unimportant",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gratuity",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A small amount of money given to thank someone for service",
+      "options": [
+        {
+          "text": "A small amount of money given to thank someone for service",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A large amount of money saved in the bank",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A free gift given with a purchase",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Money paid as punishment for breaking rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "capricious",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Changing mood or behavior suddenly and unexpectedly",
+      "options": [
+        {
+          "text": "Changing mood or behavior suddenly and unexpectedly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always happy and cheerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very predictable and reliable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely intelligent and clever",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "delve",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To search deeply and carefully for information",
+      "options": [
+        {
+          "text": "To search deeply and carefully for information",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To quickly glance at something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget information completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To share information with everyone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "replenish",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To fill something up again after it has been used",
+      "options": [
+        {
+          "text": "To fill something up again after it has been used",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To empty something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide something carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To break something into pieces",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "requisite",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Needed or required for a particular purpose",
+      "options": [
+        {
+          "text": "Needed or required for a particular purpose",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely unnecessary and useless",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Optional but nice to have",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forbidden and not allowed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stunted",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Prevented from growing or developing properly",
+      "options": [
+        {
+          "text": "Prevented from growing or developing properly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Growing very quickly and strongly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Perfectly formed and developed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very tall and thin in shape",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "roster",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A list of names showing who should do what and when",
+      "options": [
+        {
+          "text": "A list of names showing who should do what and when",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of delicious food",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A rule or regulation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "maim",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To injure someone seriously, causing permanent damage",
+      "options": [
+        {
+          "text": "To injure someone seriously, causing permanent damage",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To heal someone's injuries",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone feel better",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To play gently with someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "atrophy",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb/Noun) To become weaker or smaller from lack of use",
+      "options": [
+        {
+          "text": "To become weaker or smaller from lack of use",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To grow bigger and stronger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To change color completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To move very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cynic",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A person who believes people only do things for selfish reasons",
+      "options": [
+        {
+          "text": "A person who believes people only do things for selfish reasons",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who always sees the good in others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who studies science",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who tells funny jokes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ameliorate",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To make something better or improve a situation",
+      "options": [
+        {
+          "text": "To make something better or improve a situation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To keep something the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide a problem",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "benevolent",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Kind, helpful, and wanting to do good for others",
+      "options": [
+        {
+          "text": "Kind, helpful, and wanting to do good for others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Mean and unkind to others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Indifferent and not caring",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Selfish and greedy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "unctuous",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Excessively flattering or friendly in an insincere way",
+      "options": [
+        {
+          "text": "Excessively flattering or friendly in an insincere way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Honest and straightforward",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Shy and quiet",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Angry and rude",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "iniquity",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) Gross injustice or wickedness",
+      "options": [
+        {
+          "text": "Gross injustice or wickedness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great kindness and generosity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small mistake or error",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A funny joke or story",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

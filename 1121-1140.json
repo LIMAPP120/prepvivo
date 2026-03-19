@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1121-1140)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "lachrymose",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Tending to cry easily or often; tearful",
+      "options": [
+        {
+          "text": "Tending to cry easily or often; tearful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very friendly and enjoyable to be with",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Lasting for a very short time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The perfect example of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "convivial",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Friendly, lively, and enjoyable; fond of celebrating with others",
+      "options": [
+        {
+          "text": "Friendly, lively, and enjoyable; fond of celebrating with others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Tending to cry easily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Stubborn and unwilling to change",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Mysterious and known by only a few",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ephemeral",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Lasting for a very short time; temporary",
+      "options": [
+        {
+          "text": "Lasting for a very short time; temporary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very hungry or greedy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A complete failure or disaster",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To steal something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "archetype",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) The perfect example or original model of something",
+      "options": [
+        {
+          "text": "The perfect example or original model of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A sudden outburst of emotion or activity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To chew food thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very talkative",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intransigent",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Unwilling to change one's views or agree about something; stubborn",
+      "options": [
+        {
+          "text": "Unwilling to change one's views or agree about something; stubborn",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very friendly and enjoyable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak with reluctance because you feel too important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Doubtful or uncertain",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deign",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To do something that you consider beneath your dignity, usually with reluctance",
+      "options": [
+        {
+          "text": "To do something that you consider beneath your dignity, usually with reluctance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To steal something secretly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To chew food thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To stop something from happening",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "arcane",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Mysterious, secret, or understood by only a few people",
+      "options": [
+        {
+          "text": "Mysterious, secret, or understood by only a few people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very friendly and enjoyable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Lasting for a very short time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Unwilling to change one's views",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "edacious",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Having a huge appetite; greedy or voracious",
+      "options": [
+        {
+          "text": "Having a huge appetite; greedy or voracious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Tending to cry easily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A complete failure or disaster",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak with reluctance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ostracism",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Exclusion from a society or group; being ignored or avoided by others",
+      "options": [
+        {
+          "text": "Exclusion from a society or group; being ignored or avoided by others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The perfect example of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Mysterious and known by only a few",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To steal something secretly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "purloin",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To steal something, especially in a secretive way",
+      "options": [
+        {
+          "text": "To steal something, especially in a secretive way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To chew food thoroughly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stop something from happening",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To avoid something deliberately",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "disparage",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To speak about someone or something in a negative way; to belittle",
+      "options": [
+        {
+          "text": "To speak about someone or something in a negative way; to belittle",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To steal something secretly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To chew food thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak with reluctance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "masticate",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To chew food thoroughly before swallowing",
+      "options": [
+        {
+          "text": "To chew food thoroughly before swallowing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To steal something secretly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To avoid something deliberately",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak negatively about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fiasco",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A complete failure or disaster, often in an embarrassing way",
+      "options": [
+        {
+          "text": "A complete failure or disaster, often in an embarrassing way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The perfect example of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A sudden outburst of emotion",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Exclusion from a group",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "eschew",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To deliberately avoid or stay away from something",
+      "options": [
+        {
+          "text": "To deliberately avoid or stay away from something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To steal something secretly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To chew food thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak negatively about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "quell",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To stop or put an end to something, especially something noisy or disorderly",
+      "options": [
+        {
+          "text": "To stop or put an end to something, especially something noisy or disorderly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To steal something secretly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To chew food thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To avoid something deliberately",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "voluble",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Talking a lot, often without stopping; fluent in speech",
+      "options": [
+        {
+          "text": "Talking a lot, often without stopping; fluent in speech",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having a huge appetite",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Unwilling to change one's views",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Mysterious and known by only a few",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dubious",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Doubtful, uncertain, or not to be relied upon",
+      "options": [
+        {
+          "text": "Doubtful, uncertain, or not to be relied upon",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very friendly and enjoyable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Lasting for a very short time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tending to cry easily",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obsolescence",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) The process of becoming outdated or no longer used",
+      "options": [
+        {
+          "text": "The process of becoming outdated or no longer used",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A complete failure or disaster",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exclusion from a society or group",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sudden outburst of emotion",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "paroxysm",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A sudden, violent outburst of emotion or activity",
+      "options": [
+        {
+          "text": "A sudden, violent outburst of emotion or activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The perfect example of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To chew food thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To steal something secretly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "implacable",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Unable to be calmed down or persuaded to change; relentless",
+      "options": [
+        {
+          "text": "Unable to be calmed down or persuaded to change; relentless",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very friendly and enjoyable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Talking a lot without stopping",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Doubtful or uncertain",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

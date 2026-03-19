@@ -1,0 +1,535 @@
+{
+  "title": "Vocabulary List 1-20",
+  "description": "Test your knowledge of 20 important words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Abandon",
+      "order": 1,
+      "points": 1,
+      "explanation": "To leave completely and finally; to give up.",
+      "options": [
+        {
+          "text": "To leave completely and finally; to give up.",
+          "is_correct": true,
+          "order": 1
+        },
+        { "text": "To take in or soak up.", "is_correct": false, "order": 2 },
+        {
+          "text": "To successfully complete something.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Correct in all details; exact.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Absorb",
+      "order": 2,
+      "points": 1,
+      "explanation": "To take in or soak up (energy, or a liquid or other substance) by chemical or physical action.",
+      "options": [
+        {
+          "text": "To take in or soak up (energy, or a liquid or other substance) by chemical or physical action.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To leave completely and finally.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To achieve or complete successfully.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of deep admiration for someone or something.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Accomplish",
+      "order": 3,
+      "points": 1,
+      "explanation": "To achieve or complete successfully.",
+      "options": [
+        {
+          "text": "To achieve or complete successfully.",
+          "is_correct": true,
+          "order": 1
+        },
+        { "text": "To take in or soak up.", "is_correct": false, "order": 2 },
+        {
+          "text": "To make suitable for a new use or purpose.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An exciting or very unusual experience.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Accurate",
+      "order": 4,
+      "points": 1,
+      "explanation": "Correct in all details; exact.",
+      "options": [
+        {
+          "text": "Correct in all details; exact.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Showing warmth and affection.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ready to attack or confront.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Enough or more than enough; plentiful.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Achievement",
+      "order": 5,
+      "points": 1,
+      "explanation": "A thing done successfully with effort, skill, or courage.",
+      "options": [
+        {
+          "text": "A thing done successfully with effort, skill, or courage.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To leave completely and finally.",
+          "is_correct": false,
+          "order": 2
+        },
+        { "text": "To take in or soak up.", "is_correct": false, "order": 3 },
+        {
+          "text": "Very old or having existed for a very long time.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Adapt",
+      "order": 6,
+      "points": 1,
+      "explanation": "To make suitable for a new use or purpose; to adjust.",
+      "options": [
+        {
+          "text": "To make suitable for a new use or purpose; to adjust.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To achieve or complete successfully.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of deep admiration for someone or something.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To examine something in detail.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Admiration",
+      "order": 7,
+      "points": 1,
+      "explanation": "Respect and warm approval.",
+      "options": [
+        {
+          "text": "Respect and warm approval.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An exciting or very unusual experience.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Showing warmth and affection.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Ready to attack or confront.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Adventure",
+      "order": 8,
+      "points": 1,
+      "explanation": "An unusual and exciting, typically hazardous, experience or activity.",
+      "options": [
+        {
+          "text": "An unusual and exciting, typically hazardous, experience or activity.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make suitable for a new use or purpose.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A thing done successfully with effort, skill, or courage.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To examine something in detail.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Affectionate",
+      "order": 9,
+      "points": 1,
+      "explanation": "Readily showing fondness or tenderness.",
+      "options": [
+        {
+          "text": "Readily showing fondness or tenderness.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Ready to attack or confront.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Vigilantly attentive; watchful.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Enough or more than enough; plentiful.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Aggressive",
+      "order": 10,
+      "points": 1,
+      "explanation": "Ready or likely to attack or confront; characterized by or resulting from aggression.",
+      "options": [
+        {
+          "text": "Ready or likely to attack or confront; characterized by or resulting from aggression.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Respect and warm approval.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An unusual and exciting experience or activity.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having or showing a strong desire and determination to succeed.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Alert",
+      "order": 11,
+      "points": 1,
+      "explanation": "Quick to notice any unusual and potentially dangerous or difficult circumstances; vigilant.",
+      "options": [
+        {
+          "text": "Quick to notice any unusual and potentially dangerous or difficult circumstances; vigilant.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Readily showing fondness or tenderness.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make suitable for a new use or purpose.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To leave completely and finally.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ambitious",
+      "order": 12,
+      "points": 1,
+      "explanation": "Having or showing a strong desire and determination to succeed.",
+      "options": [
+        {
+          "text": "Having or showing a strong desire and determination to succeed.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Ready or likely to attack or confront.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Enough or more than enough; plentiful.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To examine methodically and in detail.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ample",
+      "order": 13,
+      "points": 1,
+      "explanation": "Enough or more than enough; plentiful.",
+      "options": [
+        {
+          "text": "Enough or more than enough; plentiful.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having or showing a strong desire to succeed.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very old or having existed for a very long time.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make a public announcement.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Analyze",
+      "order": 14,
+      "points": 1,
+      "explanation": "To examine methodically and in detail, typically for purposes of explanation and interpretation.",
+      "options": [
+        {
+          "text": "To examine methodically and in detail, typically for purposes of explanation and interpretation.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To achieve or complete successfully.",
+          "is_correct": false,
+          "order": 2
+        },
+        { "text": "To take in or soak up.", "is_correct": false, "order": 3 },
+        {
+          "text": "Feeling or showing worry, nervousness, or unease.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ancient",
+      "order": 15,
+      "points": 1,
+      "explanation": "Belonging to the very distant past and no longer in existence; very old.",
+      "options": [
+        {
+          "text": "Belonging to the very distant past and no longer in existence; very old.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Enough or more than enough; plentiful.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make a public announcement.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling or showing worry, nervousness, or unease.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Announce",
+      "order": 16,
+      "points": 1,
+      "explanation": "To make a formal public statement about a fact, occurrence, or intention.",
+      "options": [
+        {
+          "text": "To make a formal public statement about a fact, occurrence, or intention.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To examine methodically and in detail.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Anxious or fearful that something bad will happen.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Made or produced by human beings rather than occurring naturally.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Anxious",
+      "order": 17,
+      "points": 1,
+      "explanation": "Feeling or showing worry, nervousness, or unease about something with an uncertain outcome.",
+      "options": [
+        {
+          "text": "Feeling or showing worry, nervousness, or unease about something with an uncertain outcome.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a formal public statement.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Anxious or fearful that something bad will happen.",
+          "is_correct": false,
+          "order": 3
+        },
+        { "text": "To go up or climb.", "is_correct": false, "order": 4 }
+      ]
+    },
+    {
+      "text": "Apprehensive",
+      "order": 18,
+      "points": 1,
+      "explanation": "Anxious or fearful that something bad or unpleasant will happen.",
+      "options": [
+        {
+          "text": "Anxious or fearful that something bad or unpleasant will happen.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling or showing worry about something with an uncertain outcome.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Made or produced by human beings rather than occurring naturally.",
+          "is_correct": false,
+          "order": 3
+        },
+        { "text": "To go up or climb.", "is_correct": false, "order": 4 }
+      ]
+    },
+    {
+      "text": "Artificial",
+      "order": 19,
+      "points": 1,
+      "explanation": "Made or produced by human beings rather than occurring naturally, especially as a copy of something natural.",
+      "options": [
+        {
+          "text": "Made or produced by human beings rather than occurring naturally, especially as a copy of something natural.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Anxious or fearful that something bad will happen.",
+          "is_correct": false,
+          "order": 2
+        },
+        { "text": "To go up or climb.", "is_correct": false, "order": 3 },
+        {
+          "text": "Belonging to the very distant past.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ascend",
+      "order": 20,
+      "points": 1,
+      "explanation": "To go up or climb.",
+      "options": [
+        { "text": "To go up or climb.", "is_correct": true, "order": 1 },
+        {
+          "text": "Made or produced by human beings rather than occurring naturally.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make a formal public statement.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To examine methodically and in detail.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

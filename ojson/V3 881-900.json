@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 881-900)",
+  "description": "Test your knowledge of words 881 to 900",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "jettison",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To throw or drop something from a moving ship or aircraft; to get rid of something unwanted",
+      "options": [
+        {
+          "text": "To throw or drop something from a moving ship or aircraft; to get rid of something unwanted",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To carefully pack something away for safekeeping",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate with a big party",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repair something that is broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tussle",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun/Verb) A short, noisy, and confused fight or struggle",
+      "options": [
+        {
+          "text": "A short, noisy, and confused fight or struggle",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A quiet conversation between friends",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A formal dance with specific steps",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of puzzle or brain teaser",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lucrative",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Producing a lot of money; profitable",
+      "options": [
+        {
+          "text": "Producing a lot of money; profitable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very difficult and challenging",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely free of charge",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Involving a lot of physical activity",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "acute",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Very serious or severe; having a sharp end or point",
+      "options": [
+        {
+          "text": "Very serious or severe; having a sharp end or point",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Mild and not serious at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Round and smooth in shape",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and traditional",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "transient",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Lasting for only a short time; temporary",
+      "options": [
+        {
+          "text": "Lasting for only a short time; temporary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Permanent and lasting forever",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely loud and noisy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very expensive and valuable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gist",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) The main or general meaning of something said or written",
+      "options": [
+        {
+          "text": "The main or general meaning of something said or written",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A list of all the small details",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The first sentence of a paragraph",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of special effect in movies",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cogent",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Clear, logical, and convincing",
+      "options": [
+        {
+          "text": "Clear, logical, and convincing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Confusing and hard to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very weak and ineffective",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely funny and entertaining",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "terse",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Using few words; brief and to the point, sometimes rudely brief",
+      "options": [
+        {
+          "text": "Using few words; brief and to the point, sometimes rudely brief",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Using many descriptive words",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Speaking in a very loud voice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Talking for a very long time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "array",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) An impressive display or range of a particular type of thing",
+      "options": [
+        {
+          "text": "An impressive display or range of a particular type of thing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A single item by itself",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A messy pile of different things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of mathematical calculation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pinnacle",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) The most successful point; the highest level of achievement",
+      "options": [
+        {
+          "text": "The most successful point; the highest level of achievement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The lowest point or worst moment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The middle point of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The beginning stage of development",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ardent",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Very enthusiastic or passionate",
+      "options": [
+        {
+          "text": "Very enthusiastic or passionate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely uninterested and bored",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Mildly interested in something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Angry and upset about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obscure",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective/Verb) Not discovered or known about; uncertain; hard to understand",
+      "options": [
+        {
+          "text": "Not discovered or known about; uncertain; hard to understand",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very famous and well-known",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely clear and easy to understand",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Brightly colored and eye-catching",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "constrict",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To make something narrower or tighter by squeezing it",
+      "options": [
+        {
+          "text": "To make something narrower or tighter by squeezing it",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something wider or looser",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To decorate something beautifully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean something thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "culminate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To reach the highest or final point; to end with a particular result",
+      "options": [
+        {
+          "text": "To reach the highest or final point; to end with a particular result",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To begin something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To pause in the middle of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repeat something again",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bereft",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Deprived of or lacking something; feeling great loss",
+      "options": [
+        {
+          "text": "Deprived of or lacking something; feeling great loss",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Overflowing with abundance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely happy and content",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely average in every way",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prodigy",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A young person with exceptional qualities or abilities",
+      "options": [
+        {
+          "text": "A young person with exceptional qualities or abilities",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An elderly wise person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Someone who learns slowly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person with no special talents",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exultation",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A feeling of great happiness and triumph",
+      "options": [
+        {
+          "text": "A feeling of great happiness and triumph",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of deep sadness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of mild interest",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of confusion",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "falter",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To start to lose strength or momentum; to hesitate or waver",
+      "options": [
+        {
+          "text": "To start to lose strength or momentum; to hesitate or waver",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To become stronger and more confident",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To move forward quickly without stopping",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak loudly and clearly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "invective",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) Insulting, abusive, or highly critical language",
+      "options": [
+        {
+          "text": "Insulting, abusive, or highly critical language",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Polite and respectful speech",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Scientific and technical terms",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Poetic and beautiful language",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vitriolic",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Filled with bitter criticism or malice",
+      "options": [
+        {
+          "text": "Filled with bitter criticism or malice",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of praise and compliments",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Neutral and without opinion",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Humorous and lighthearted",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

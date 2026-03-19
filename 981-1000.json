@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 981-1000)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "articulate",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb/Adjective) To express ideas or feelings clearly in words",
+      "options": [
+        {
+          "text": "To express ideas or feelings clearly in words",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To draw pictures or diagrams",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To keep quiet and not say anything",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To run very fast in a race",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pathological",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Related to a disease or caused by a disease",
+      "options": [
+        {
+          "text": "Related to a disease or caused by a disease",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very happy and cheerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely strong and healthy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Normal and expected behavior",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "polemic",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A strong written or spoken attack on someone's opinions",
+      "options": [
+        {
+          "text": "A strong written or spoken attack on someone's opinions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A friendly conversation between friends",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of peaceful agreement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A happy celebration or party",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "grandeur",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) The quality of being magnificent, impressive, or splendid",
+      "options": [
+        {
+          "text": "The quality of being magnificent, impressive, or splendid",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something small and unimportant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of sadness or disappointment",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An ordinary and plain appearance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "regimen",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A fixed plan or set of rules for diet, exercise, or treatment",
+      "options": [
+        {
+          "text": "A fixed plan or set of rules for diet, exercise, or treatment",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of delicious food or dessert",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete freedom to do whatever you want",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sudden change without planning",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impasse",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A situation where no progress is possible; a deadlock",
+      "options": [
+        {
+          "text": "A situation where no progress is possible; a deadlock",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very easy solution to a problem",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A fast and smooth journey",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A happy agreement between friends",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "guile",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) Sly or cunning intelligence used to deceive others",
+      "options": [
+        {
+          "text": "Sly or cunning intelligence used to deceive others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Honest and straightforward behavior",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Great physical strength and power",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Kindness and generosity toward others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "denigrated",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To criticize unfairly or say bad things about someone",
+      "options": [
+        {
+          "text": "To criticize unfairly or say bad things about someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise and compliment someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help and support someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore and avoid someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inflicted",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To cause something unpleasant or painful to happen to someone",
+      "options": [
+        {
+          "text": "To cause something unpleasant or painful to happen to someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give someone a gift or present",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To heal or make someone feel better",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To protect someone from harm",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mortal",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective/Noun) Subject to death; unable to live forever",
+      "options": [
+        {
+          "text": "Subject to death; unable to live forever",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having magical powers that never end",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Living forever without dying",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very strong and powerful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "altercation",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A noisy argument or disagreement, especially in public",
+      "options": [
+        {
+          "text": "A noisy argument or disagreement, especially in public",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A peaceful and friendly conversation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A written agreement or contract",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A quiet moment of thinking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "elite",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun/Adjective) A select group that is superior in terms of ability or qualities",
+      "options": [
+        {
+          "text": "A select group that is superior in terms of ability or qualities",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A group of beginners just starting to learn",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary people with average skills",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "People who need help and support",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "parochial",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Having a limited or narrow outlook or scope",
+      "options": [
+        {
+          "text": "Having a limited or narrow outlook or scope",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having a wide and open-minded perspective",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very modern and up-to-date",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "International and global in thinking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "recession",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A period of temporary economic decline",
+      "options": [
+        {
+          "text": "A period of temporary economic decline",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A time of great economic growth and success",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A season with lots of rain",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A holiday celebration period",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "homeric",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Of or in the style of Homer, the ancient Greek poet; grand or heroic",
+      "options": [
+        {
+          "text": "Of or in the style of Homer, the ancient Greek poet; grand or heroic",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Small and unimportant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Modern and up-to-date",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Quiet and peaceful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "careen",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To move swiftly and uncontrollably in a particular direction",
+      "options": [
+        {
+          "text": "To move swiftly and uncontrollably in a particular direction",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stand completely still without moving",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To move slowly and carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To fly smoothly through the air",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "beguile",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To charm or enchant someone, sometimes in a deceptive way",
+      "options": [
+        {
+          "text": "To charm or enchant someone, sometimes in a deceptive way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone angry or upset",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or avoid someone completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone a practical skill",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "oxymoron",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A figure of speech in which contradictory terms appear together",
+      "options": [
+        {
+          "text": "A figure of speech in which contradictory terms appear together",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A word that sounds like what it means",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A comparison using 'like' or 'as'",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An exaggeration for emphasis",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "anachronism",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) Something placed in the wrong time period",
+      "options": [
+        {
+          "text": "Something placed in the wrong time period",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something very modern and new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that is exactly correct",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something that happens at the right time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fallacy",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A mistaken belief, especially one based on unsound argument",
+      "options": [
+        {
+          "text": "A mistaken belief, especially one based on unsound argument",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A proven scientific fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An absolute truth that cannot be questioned",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A personal opinion that is always correct",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

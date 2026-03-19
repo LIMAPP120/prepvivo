@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 141-160)",
+  "description": "Test your knowledge of words 141 to 160",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Frantic",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Done or happening in a fast, excited, and not organized way because of fear or anxiety",
+      "options": [
+        {
+          "text": "Done or happening in a fast, excited, and not organized way because of fear or anxiety",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Calm and relaxed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Careful and economical with money",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Basic and most important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Frugal",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Careful about spending money and not wasting things",
+      "options": [
+        {
+          "text": "Careful about spending money and not wasting things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Wasteful with money",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very angry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very generous",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Fundamental",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Forming the base or foundation; basic and most important",
+      "options": [
+        {
+          "text": "Forming the base or foundation; basic and most important",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not very important",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complex and difficult",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Optional and extra",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Furious",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Extremely angry",
+      "options": [
+        {
+          "text": "Extremely angry",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Slightly annoyed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely calm",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Generous",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Willing to give money, help, or time freely",
+      "options": [
+        {
+          "text": "Willing to give money, help, or time freely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Selfish and unwilling to share",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Careful with money",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Angry and unkind",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Genuine",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Real and exactly what it appears to be; not fake",
+      "options": [
+        {
+          "text": "Real and exactly what it appears to be; not fake",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Fake or artificial",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Of poor quality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Imaginary or made up",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Gesture",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A movement of part of the body, especially the hands, to express an idea or meaning",
+      "options": [
+        {
+          "text": "A movement of part of the body, especially the hands, to express an idea or meaning",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of dance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A spoken word",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A written message",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Glimpse",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A very quick look or a brief view of something",
+      "options": [
+        {
+          "text": "A very quick look or a brief view of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A long and careful examination",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A photograph of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A detailed description",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Gracious",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Pleasant, polite, and kind, especially in a generous way",
+      "options": [
+        {
+          "text": "Pleasant, polite, and kind, especially in a generous way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Rude and impolite",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Angry and hostile",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Shy and quiet",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Gratitude",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) The feeling of being thankful and wanting to express thanks",
+      "options": [
+        {
+          "text": "The feeling of being thankful and wanting to express thanks",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The feeling of being angry",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The feeling of being sad",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The feeling of being surprised",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Guarantee",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A promise that something will happen or that something is true",
+      "options": [
+        {
+          "text": "A promise that something will happen or that something is true",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A guess about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A warning about danger",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A question about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Harsh",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Unpleasantly rough, severe, or cruel",
+      "options": [
+        {
+          "text": "Unpleasantly rough, severe, or cruel",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Gentle and kind",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Soft and comfortable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Pleasant and enjoyable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Hazard",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) Something that could be dangerous or cause damage or accidents",
+      "options": [
+        {
+          "text": "Something that could be dangerous or cause damage or accidents",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that is completely safe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that is helpful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something that is beautiful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Hesitate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To pause before doing something because you are uncertain or nervous",
+      "options": [
+        {
+          "text": "To pause before doing something because you are uncertain or nervous",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To act quickly without thinking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak loudly and clearly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To move very fast",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Hilarious",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Extremely funny and causing a lot of laughter",
+      "options": [
+        {
+          "text": "Extremely funny and causing a lot of laughter",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very sad and depressing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Boring and uninteresting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Serious and important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Hollow",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Having an empty space inside; not solid",
+      "options": [
+        {
+          "text": "Having an empty space inside; not solid",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely solid and heavy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Round and smooth",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Square and angular",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Honest",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Telling the truth and not cheating or stealing",
+      "options": [
+        {
+          "text": "Telling the truth and not cheating or stealing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Often telling lies",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Confused about the truth",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not saying anything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Hostile",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Unfriendly and aggressive, or showing strong disagreement or opposition",
+      "options": [
+        {
+          "text": "Unfriendly and aggressive, or showing strong disagreement or opposition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Friendly and welcoming",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Indifferent and uncaring",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Helpful and supportive",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Humble",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Not proud and not thinking you are better than other people",
+      "options": [
+        {
+          "text": "Not proud and not thinking you are better than other people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very proud and arrogant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Rich and powerful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Famous and popular",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Hypothesis",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) An idea or explanation for something that is based on known facts but has not yet been proven",
+      "options": [
+        {
+          "text": "An idea or explanation for something that is based on known facts but has not yet been proven",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A proven fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A wild guess without evidence",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A detailed plan",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

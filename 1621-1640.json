@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1621-1640)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "ferment",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb/Noun) To undergo a chemical change where sugar turns into alcohol, or to stir up excitement",
+      "options": [
+        {
+          "text": "To undergo a chemical change where sugar turns into alcohol, or to stir up excitement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something cold and hard",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To write a letter very quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To eat food without chewing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incumbent",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective/Noun) Currently holding a position or office, or necessary as a duty",
+      "options": [
+        {
+          "text": "Currently holding a position or office, or necessary as a duty",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Sleeping deeply and peacefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of bird that flies very high",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A mathematical problem that is very difficult",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "arbiter",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A person who settles disputes or has the authority to make judgments",
+      "options": [
+        {
+          "text": "A person who settles disputes or has the authority to make judgments",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A musical instrument with strings",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Someone who paints houses for a living",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of tree that grows in the desert",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "profound",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Very great, intense, or having deep meaning",
+      "options": [
+        {
+          "text": "Very great, intense, or having deep meaning",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Making a loud noise like thunder",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a bright color like red or yellow",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Moving very quickly from one place to another",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "expedite",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To make something happen faster or more efficiently",
+      "options": [
+        {
+          "text": "To make something happen faster or more efficiently",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To go on a long journey by foot",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To read a book from cover to cover",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To cook food at a very high temperature",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prodigious",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Remarkably great in size, amount, or degree; extraordinary",
+      "options": [
+        {
+          "text": "Remarkably great in size, amount, or degree; extraordinary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and difficult to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Making a soft, whispering sound",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having a sweet taste like sugar",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "usurp",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To take power or position illegally or by force",
+      "options": [
+        {
+          "text": "To take power or position illegally or by force",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help someone with their homework",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To plant flowers in a garden",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean a room thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "celerity",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) Swiftness of movement or action; speed",
+      "options": [
+        {
+          "text": "Swiftness of movement or action; speed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The quality of being honest and truthful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food that is very spicy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "condone",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To accept or allow behavior that is considered wrong",
+      "options": [
+        {
+          "text": "To accept or allow behavior that is considered wrong",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To build something with bricks and mortar",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To travel to a foreign country",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To study for a long period of time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "paltry",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Very small or meager; not enough to be considered important",
+      "options": [
+        {
+          "text": "Very small or meager; not enough to be considered important",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very large and impressive",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a beautiful singing voice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely hot and uncomfortable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "trivial",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Of little importance or value; not serious",
+      "options": [
+        {
+          "text": "Of little importance or value; not serious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very dangerous and life-threatening",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely valuable and precious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely dark with no light",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "venerable",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Deserving respect because of age, wisdom, or character",
+      "options": [
+        {
+          "text": "Deserving respect because of age, wisdom, or character",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very young and inexperienced",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Always telling funny jokes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having bright red hair",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "menial",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Not requiring much skill and often considered boring or lowly",
+      "options": [
+        {
+          "text": "Not requiring much skill and often considered boring or lowly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Requiring advanced university education",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely exciting and adventurous",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Involving dangerous situations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ambiguous",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Having more than one possible meaning; unclear or uncertain",
+      "options": [
+        {
+          "text": "Having more than one possible meaning; unclear or uncertain",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very clear and easy to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely colorful and bright",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making a loud, annoying sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extraneous",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Not essential or relevant; coming from outside",
+      "options": [
+        {
+          "text": "Not essential or relevant; coming from outside",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Absolutely necessary and vital",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very sweet and delicious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely old and valuable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "archaic",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Very old or old-fashioned; no longer in common use",
+      "options": [
+        {
+          "text": "Very old or old-fashioned; no longer in common use",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Brand new and modern",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely fast and efficient",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very colorful and attractive",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "succinct",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Expressed clearly in few words; concise",
+      "options": [
+        {
+          "text": "Expressed clearly in few words; concise",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Using many complicated words",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Speaking in a very loud voice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Writing with beautiful handwriting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "facetious",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Treating serious issues with inappropriate humor; joking",
+      "options": [
+        {
+          "text": "Treating serious issues with inappropriate humor; joking",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very serious and solemn",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely intelligent and wise",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always telling the absolute truth",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "emulate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To try to equal or excel by imitation",
+      "options": [
+        {
+          "text": "To try to equal or excel by imitation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To forget something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy something on purpose",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To sleep for a very long time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "salubrious",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Health-giving; healthy or beneficial",
+      "options": [
+        {
+          "text": "Health-giving; healthy or beneficial",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Making people feel sick",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very expensive and luxurious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely boring and dull",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

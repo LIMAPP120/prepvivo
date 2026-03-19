@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 701-720)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "promote",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To move someone to a higher position or rank",
+      "options": [
+        {
+          "text": "To move someone to a higher position or rank",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To punish someone for bad behavior",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To move someone to a lower position",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore someone completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "demote",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To move someone to a lower position or rank",
+      "options": [
+        {
+          "text": "To move someone to a lower position or rank",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone for good work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To give someone a prize",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To help someone learn new skills",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "relegate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To move someone or something to a less important position",
+      "options": [
+        {
+          "text": "To move someone or something to a less important position",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give someone an important task",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something more valuable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate someone's achievement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impede",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To slow down or block the progress of something",
+      "options": [
+        {
+          "text": "To slow down or block the progress of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help something move faster",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To finish something quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To start something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hinder",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To make it difficult for something to happen or progress",
+      "options": [
+        {
+          "text": "To make it difficult for something to happen or progress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help something succeed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To watch something happen",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obstruct",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To block or get in the way of something",
+      "options": [
+        {
+          "text": "To block or get in the way of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To clear a path for something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To build something new",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repair something broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hamper",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To prevent someone from doing something easily",
+      "options": [
+        {
+          "text": "To prevent someone from doing something easily",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give someone everything they need",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To encourage someone to try harder",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To watch someone work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "handicap",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A condition that makes it difficult for someone to do certain things",
+      "options": [
+        {
+          "text": "A condition that makes it difficult for someone to do certain things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A special talent or ability",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that makes tasks easier",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of sports competition",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "implore",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To beg someone earnestly or desperately to do something",
+      "options": [
+        {
+          "text": "To beg someone earnestly or desperately to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To order someone to do something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone's request",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To politely suggest something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "entreat",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To ask someone seriously or anxiously to do something",
+      "options": [
+        {
+          "text": "To ask someone seriously or anxiously to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To tell someone a joke",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To answer someone's question",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give someone advice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "beseech",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To ask someone urgently and fervently to do something",
+      "options": [
+        {
+          "text": "To ask someone urgently and fervently to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To quietly think about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To write a formal letter",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "plead",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To make an emotional appeal or request",
+      "options": [
+        {
+          "text": "To make an emotional appeal or request",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To argue angrily with someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To accept something without complaint",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore someone's feelings",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "guilty",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Feeling responsible for doing something wrong",
+      "options": [
+        {
+          "text": "Feeling responsible for doing something wrong",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling proud of an achievement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling happy about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling excited for an event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "guilt-ridden",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Feeling extreme guilt or remorse about something",
+      "options": [
+        {
+          "text": "Feeling extreme guilt or remorse about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling very confident about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling completely innocent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling bored with something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "conscience-stricken",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Feeling very guilty because of something you have done",
+      "options": [
+        {
+          "text": "Feeling very guilty because of something you have done",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling very proud of an accomplishment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling very hungry after exercise",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling very tired after a long day",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "troubled",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Worried, anxious, or disturbed about something",
+      "options": [
+        {
+          "text": "Worried, anxious, or disturbed about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Happy and carefree about everything",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Excited about future plans",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Bored with daily routine",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "discern",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To recognize or understand something that is not obvious",
+      "options": [
+        {
+          "text": "To recognize or understand something that is not obvious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "staunch",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Very loyal and committed in attitude",
+      "options": [
+        {
+          "text": "Very loyal and committed in attitude",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Often changing opinions and loyalties",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Not interested in anything",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always making jokes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "indiscriminate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Done without careful judgment or selection",
+      "options": [
+        {
+          "text": "Done without careful judgment or selection",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Done with great care and thought",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Done only after much research",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Done by experts in the field",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "voracious",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Wanting or consuming great quantities of something",
+      "options": [
+        {
+          "text": "Wanting or consuming great quantities of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having very little interest in something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being very picky or selective",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Sharing everything with others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

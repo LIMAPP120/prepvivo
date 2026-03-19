@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1081-1100)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "plenary",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Full, complete, or absolute; involving all members of a group",
+      "options": [
+        {
+          "text": "Full, complete, or absolute; involving all members of a group",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of comfortable chair for resting",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Relating to plants and gardening",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very thin and see-through",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "badinage",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) Light, playful, or humorous conversation; banter",
+      "options": [
+        {
+          "text": "Light, playful, or humorous conversation; banter",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of French bread",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A serious formal discussion",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool used for digging in gardens",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "entrepreneur",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A person who starts and runs their own business, taking financial risks to do so",
+      "options": [
+        {
+          "text": "A person who starts and runs their own business, taking financial risks to do so",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A French word for 'between'",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of business document",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who works in a factory",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incarcerate",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To put someone in prison or jail",
+      "options": [
+        {
+          "text": "To put someone in prison or jail",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To celebrate with a big party",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To decorate something beautifully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To write a long, detailed story",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "traverse",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To travel or move across, over, or through an area",
+      "options": [
+        {
+          "text": "To travel or move across, over, or through an area",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To turn something upside down",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak in a very loud voice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean something thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "subversion",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) The act of trying to destroy or weaken a government or established system",
+      "options": [
+        {
+          "text": "The act of trying to destroy or weaken a government or established system",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of underground transportation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A mathematical calculation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The process of making something smaller",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dalliance",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A brief or casual romantic or sexual relationship",
+      "options": [
+        {
+          "text": "A brief or casual romantic or sexual relationship",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of slow, graceful dance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small valley between mountains",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool used in cooking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "assuage",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To make an unpleasant feeling less intense; to relieve or soothe",
+      "options": [
+        {
+          "text": "To make an unpleasant feeling less intense; to relieve or soothe",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something sweeter by adding sugar",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To swim very quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To build something very tall",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imperialism",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A policy of extending a country's power and influence through colonization or military force",
+      "options": [
+        {
+          "text": "A policy of extending a country's power and influence through colonization or military force",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A system of measuring things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of government with an emperor",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The study of ancient empires",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "roguish",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Playfully mischievous or dishonest in an appealing way",
+      "options": [
+        {
+          "text": "Playfully mischievous or dishonest in an appealing way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Looking very serious and strict",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Dressed in old, torn clothes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely honest and trustworthy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tenet",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A principle or belief, especially one of the main principles of a religion or philosophy",
+      "options": [
+        {
+          "text": "A principle or belief, especially one of the main principles of a religion or philosophy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of small tent",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A tool used for holding things together",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A musical note in a scale",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "contiguous",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Sharing a common border; touching or adjacent",
+      "options": [
+        {
+          "text": "Sharing a common border; touching or adjacent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and difficult to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely large and impressive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Made of the same material throughout",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "protean",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Able to change frequently or easily; versatile",
+      "options": [
+        {
+          "text": "Able to change frequently or easily; versatile",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very strong and muscular",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Made from a type of protein",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely fragile and delicate",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "apostate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A person who renounces or abandons a religious or political belief or principle",
+      "options": [
+        {
+          "text": "A person who renounces or abandons a religious or political belief or principle",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of religious leader",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who supports a cause strongly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Someone who writes about history",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "genealogy",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) The study of family history and the tracing of lineages and pedigrees",
+      "options": [
+        {
+          "text": "The study of family history and the tracing of lineages and pedigrees",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The study of genes and heredity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of ancient writing system",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The science of Earth's formation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bellicose",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Demonstrating aggression and willingness to fight",
+      "options": [
+        {
+          "text": "Demonstrating aggression and willingness to fight",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely quiet and peaceful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Related to bells and their sounds",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "virago",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A domineering, violent, or bad-tempered woman",
+      "options": [
+        {
+          "text": "A domineering, violent, or bad-tempered woman",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of tropical fruit",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A female warrior from ancient times",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A musical instrument with strings",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rapprochement",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) The reestablishment of friendly relations between countries or groups",
+      "options": [
+        {
+          "text": "The reestablishment of friendly relations between countries or groups",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A French word for 'approach'",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of dance from France",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A method of teaching languages",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "anthropomorphism",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) The attribution of human characteristics or behavior to animals, gods, or objects",
+      "options": [
+        {
+          "text": "The attribution of human characteristics or behavior to animals, gods, or objects",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The study of human anatomy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of artwork showing humans",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The belief in many gods",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "phoenix",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A mythical bird that is cyclically reborn from its own ashes",
+      "options": [
+        {
+          "text": "A mythical bird that is cyclically reborn from its own ashes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of tropical bird with bright colors",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An ancient Egyptian symbol",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool used for writing in ancient times",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 821-840)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "construe",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To interpret or understand the meaning of words or actions in a particular way",
+      "options": [
+        {
+          "text": "To interpret or understand the meaning of words or actions in a particular way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To speak clearly and loudly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To write something down exactly as heard",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget what someone said",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "feasible",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Possible and practical to do easily or conveniently",
+      "options": [
+        {
+          "text": "Possible and practical to do easily or conveniently",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Impossible and cannot be done",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very difficult and complicated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not worth trying or attempting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sally",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun/Verb) A sudden charge out of a besieged place against the enemy; or a witty remark",
+      "options": [
+        {
+          "text": "A sudden charge out of a besieged place against the enemy; or a witty remark",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A slow and careful retreat from battle",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A serious and boring speech",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A quiet and secret meeting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "precocious",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Having developed certain abilities or proclivities at an earlier age than usual",
+      "options": [
+        {
+          "text": "Having developed certain abilities or proclivities at an earlier age than usual",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Developing skills slower than other children",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having no special talents or abilities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being physically stronger than other children",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "chagrin",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) Distress or embarrassment at having failed or been humiliated",
+      "options": [
+        {
+          "text": "Distress or embarrassment at having failed or been humiliated",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great pride and satisfaction in success",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete indifference to results",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Surprise at unexpected good news",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deride",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To express contempt for; to ridicule or mock",
+      "options": [
+        {
+          "text": "To express contempt for; to ridicule or mock",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise and compliment someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone learn something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To quietly observe without commenting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "laudable",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Deserving praise and commendation",
+      "options": [
+        {
+          "text": "Deserving praise and commendation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Deserving criticism and blame",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary and not special",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Confusing and difficult to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "affluent",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Having a great deal of money; wealthy",
+      "options": [
+        {
+          "text": "Having a great deal of money; wealthy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very poor and struggling",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Middle-class and average",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely generous with time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "consternation",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Feelings of anxiety or dismay, typically at something unexpected",
+      "options": [
+        {
+          "text": "Feelings of anxiety or dismay, typically at something unexpected",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feelings of joy and celebration",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete calm and relaxation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Boredom and lack of interest",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "perfunctory",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Carried out with a minimum of effort or reflection; done as a duty or routine",
+      "options": [
+        {
+          "text": "Carried out with a minimum of effort or reflection; done as a duty or routine",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Done with great care and attention to detail",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Done with enthusiasm and excitement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Done incorrectly on purpose",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "perverse",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Showing a deliberate and obstinate desire to behave in an unreasonable way",
+      "options": [
+        {
+          "text": "Showing a deliberate and obstinate desire to behave in an unreasonable way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always following rules and instructions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being extremely kind and helpful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making sensible and logical decisions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "uncanny",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Strange or mysterious, especially in an unsettling way",
+      "options": [
+        {
+          "text": "Strange or mysterious, especially in an unsettling way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely normal and ordinary",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely loud and noisy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "curry",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To seek to gain favor by flattery or attention",
+      "options": [
+        {
+          "text": "To seek to gain favor by flattery or attention",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To honestly earn respect through hard work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore people in positions of authority",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To criticize people to make them improve",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "satiety",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) The state of being full or gratified to the utmost; being satisfied",
+      "options": [
+        {
+          "text": "The state of being full or gratified to the utmost; being satisfied",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The feeling of extreme hunger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The state of being bored and uninterested",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The feeling of wanting more of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "succulent",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Tender, juicy, and tasty; (of plants) having thick fleshy leaves",
+      "options": [
+        {
+          "text": "Tender, juicy, and tasty; (of plants) having thick fleshy leaves",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Dry and difficult to chew",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Bland and without flavor",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Poisonous and dangerous to eat",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "potpourri",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A mixture of dried petals and spices placed in a bowl to perfume a room; a mixture of things",
+      "options": [
+        {
+          "text": "A mixture of dried petals and spices placed in a bowl to perfume a room; a mixture of things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A single type of flower arrangement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A bad smell that needs covering up",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A simple and plain decoration",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intrinsic",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Belonging naturally; essential",
+      "options": [
+        {
+          "text": "Belonging naturally; essential",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Added from outside; not original",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Temporary and changeable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Unimportant and unnecessary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "denote",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To be a sign of; to indicate",
+      "options": [
+        {
+          "text": "To be a sign of; to indicate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hide or conceal meaning",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To confuse or make unclear",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To erase or remove symbols",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sanction",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun/Verb) A threatened penalty for disobeying a law or rule; official permission or approval",
+      "options": [
+        {
+          "text": "A threatened penalty for disobeying a law or rule; official permission or approval",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A reward for good behavior",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A suggestion without consequences",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A secret agreement between friends",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "insidious",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Proceeding in a gradual, subtle way, but with harmful effects",
+      "options": [
+        {
+          "text": "Proceeding in a gradual, subtle way, but with harmful effects",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having immediate and obvious benefits",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Moving quickly and noticeably",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being completely harmless and safe",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

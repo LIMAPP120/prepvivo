@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 201-220)",
+  "description": "Test your knowledge of words 201 to 220",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Lenient",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Not strict or severe; merciful or tolerant",
+      "options": [
+        {
+          "text": "Not strict or severe; merciful or tolerant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very strict and harsh",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Always angry and impatient",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Difficult to please",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Lethargic",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Feeling a lack of energy or enthusiasm; sluggish",
+      "options": [
+        {
+          "text": "Feeling a lack of energy or enthusiasm; sluggish",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of energy and excitement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very happy and cheerful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely angry",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Liberate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To set someone or something free from imprisonment or oppression",
+      "options": [
+        {
+          "text": "To set someone or something free from imprisonment or oppression",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To capture or imprison someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make someone work harder",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore someone's problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Limb",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) An arm or leg of a person or animal, or a large branch of a tree",
+      "options": [
+        {
+          "text": "An arm or leg of a person or animal, or a large branch of a tree",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small leaf on a plant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The main trunk of a tree",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A finger or toe",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Linger",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To stay in a place longer than necessary, typically because of reluctance to leave",
+      "options": [
+        {
+          "text": "To stay in a place longer than necessary, typically because of reluctance to leave",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To leave quickly without saying goodbye",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To arrive early for an event",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To move quickly from place to place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Logical",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Based on clear, sound reasoning; making sense",
+      "options": [
+        {
+          "text": "Based on clear, sound reasoning; making sense",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on emotions rather than facts",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Confusing and hard to follow",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Random and without reason",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Magnify",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To make something appear larger than it is, especially using a lens or microscope",
+      "options": [
+        {
+          "text": "To make something appear larger than it is, especially using a lens or microscope",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something smaller or less important",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide something from view",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To break something into pieces",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Majestic",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing impressive beauty, dignity, or scale",
+      "options": [
+        {
+          "text": "Having or showing impressive beauty, dignity, or scale",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Small and ordinary looking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ugly and unpleasant to look at",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Simple and plain",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Manipulate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To control or influence someone or something cleverly or unfairly",
+      "options": [
+        {
+          "text": "To control or influence someone or something cleverly or unfairly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help someone honestly and fairly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ask for permission politely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Marvel",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb/Noun) To be filled with wonder or astonishment, or something that causes wonder",
+      "options": [
+        {
+          "text": "To be filled with wonder or astonishment, or something that causes wonder",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To feel bored and uninterested",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To criticize something harshly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A common, everyday object",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Massive",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Exceptionally large, heavy, and solid",
+      "options": [
+        {
+          "text": "Exceptionally large, heavy, and solid",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and light",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average in size",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tiny and delicate",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Mature",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Fully developed physically and mentally; grown-up",
+      "options": [
+        {
+          "text": "Fully developed physically and mentally; grown-up",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Young and inexperienced",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Silly and childish",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not fully grown",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Meditate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To focus one's mind for a period of time, in silence or with chanting, for relaxation",
+      "options": [
+        {
+          "text": "To focus one's mind for a period of time, in silence or with chanting, for relaxation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To talk loudly with friends",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To exercise vigorously",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To watch television for entertainment",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Melancholy",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A feeling of deep sadness that lasts for a long time",
+      "options": [
+        {
+          "text": "A feeling of deep sadness that lasts for a long time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great joy and excitement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of anger and frustration",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of surprise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Menace",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A person or thing that is likely to cause harm; a threat or danger",
+      "options": [
+        {
+          "text": "A person or thing that is likely to cause harm; a threat or danger",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A helpful and friendly person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that brings good luck",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A source of comfort and safety",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Meticulous",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Showing great attention to detail; very careful and precise",
+      "options": [
+        {
+          "text": "Showing great attention to detail; very careful and precise",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Careless and sloppy in work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Working quickly without checking",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not paying attention to details",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Mimic",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To imitate someone or something, typically to entertain or ridicule",
+      "options": [
+        {
+          "text": "To imitate someone or something, typically to entertain or ridicule",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To create something original",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore what someone is doing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To criticize someone openly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Mingle",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To mix or cause to mix together; to move around and talk to different people",
+      "options": [
+        {
+          "text": "To mix or cause to mix together; to move around and talk to different people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stay alone and avoid others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To separate different groups",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To argue with people",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Misfortune",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) Bad luck or an unfortunate condition or event",
+      "options": [
+        {
+          "text": "Bad luck or an unfortunate condition or event",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely good luck",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An expected outcome",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A happy celebration",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Modify",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To make partial or minor changes to something",
+      "options": [
+        {
+          "text": "To make partial or minor changes to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To keep something exactly the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create something entirely new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

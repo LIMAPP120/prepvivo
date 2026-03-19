@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1641-1660)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "rabid",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing extreme enthusiasm or anger; like a disease that affects animals and makes them aggressive",
+      "options": [
+        {
+          "text": "Having or showing extreme enthusiasm or anger; like a disease that affects animals and makes them aggressive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very quiet and peaceful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely cold like ice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Moving very slowly and carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "somber",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Dark or dull in color or tone; gloomy and serious",
+      "options": [
+        {
+          "text": "Dark or dull in color or tone; gloomy and serious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very bright and colorful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely funny and amusing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making a loud noise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "complacent",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Showing smug or uncritical satisfaction with oneself or one's achievements; not worried about problems",
+      "options": [
+        {
+          "text": "Showing smug or uncritical satisfaction with oneself or one's achievements; not worried about problems",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very worried and anxious",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely hungry and wanting food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always telling jokes and being funny",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impetuous",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Acting or done quickly and without thought or care; impulsive",
+      "options": [
+        {
+          "text": "Acting or done quickly and without thought or care; impulsive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Moving very slowly and carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Thinking for a long time before deciding",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very careful with money",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "debilitate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To make someone weak and infirm; to weaken",
+      "options": [
+        {
+          "text": "To make someone weak and infirm; to weaken",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone strong and healthy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make someone very happy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone a new skill",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "discreet",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Careful and prudent in one's speech or actions, especially to keep something confidential or avoid embarrassment",
+      "options": [
+        {
+          "text": "Careful and prudent in one's speech or actions, especially to keep something confidential or avoid embarrassment",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very loud and attention-seeking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely messy and disorganized",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always telling everyone your secrets",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "occult",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective/Noun) Mystical, supernatural, or magical powers, practices, or phenomena; secret knowledge",
+      "options": [
+        {
+          "text": "Mystical, supernatural, or magical powers, practices, or phenomena; secret knowledge",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very common and ordinary things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Scientific facts that everyone knows",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Bright colors that are easy to see",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "glean",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To gather information or material bit by bit; to collect gradually",
+      "options": [
+        {
+          "text": "To gather information or material bit by bit; to collect gradually",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To throw away unwanted things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To shout loudly to get attention",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To eat food very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "foment",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To instigate or stir up (an undesirable or violent sentiment or course of action)",
+      "options": [
+        {
+          "text": "To instigate or stir up (an undesirable or violent sentiment or course of action)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To calm down an angry person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To clean a room thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To help people become friends",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "slovenly",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Messy and dirty; careless in appearance or habits",
+      "options": [
+        {
+          "text": "Messy and dirty; careless in appearance or habits",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely clean and organized",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very fashionable and stylish",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always on time and punctual",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "quarry",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A place, typically a large, deep pit, from which stone or other materials are extracted; the animal being hunted",
+      "options": [
+        {
+          "text": "A place, typically a large, deep pit, from which stone or other materials are extracted; the animal being hunted",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of bird that sings beautifully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very tall building in a city",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sweet dessert made with fruit",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "reproach",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb/Noun) To express disapproval or disappointment; to criticize or blame",
+      "options": [
+        {
+          "text": "To express disapproval or disappointment; to criticize or blame",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone for good work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone with a difficult task",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give someone a gift",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abjure",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To renounce or reject formally; to swear to give up",
+      "options": [
+        {
+          "text": "To renounce or reject formally; to swear to give up",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To promise to do something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To welcome someone warmly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To learn something new quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "evanescent",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Soon passing out of sight, memory, or existence; quickly fading or disappearing",
+      "options": [
+        {
+          "text": "Soon passing out of sight, memory, or existence; quickly fading or disappearing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lasting forever and never changing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very large and impressive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely bright and colorful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "penitent",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing sorrow and regret for having done wrong; repentant",
+      "options": [
+        {
+          "text": "Feeling or showing sorrow and regret for having done wrong; repentant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling very proud of oneself",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being extremely happy and excited",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not caring about anything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "propensity",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) An inclination or natural tendency to behave in a particular way",
+      "options": [
+        {
+          "text": "An inclination or natural tendency to behave in a particular way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A sudden fear of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A strong dislike for someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A special talent for singing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tantamount",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Equivalent in seriousness to; virtually the same as",
+      "options": [
+        {
+          "text": "Equivalent in seriousness to; virtually the same as",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely different from something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Slightly better than something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Much worse than something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "wary",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing caution about possible dangers or problems",
+      "options": [
+        {
+          "text": "Feeling or showing caution about possible dangers or problems",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely trusting everyone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very excited and enthusiastic",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely tired and sleepy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "connoisseur",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) An expert judge in matters of taste; a person with good knowledge and appreciation of something",
+      "options": [
+        {
+          "text": "An expert judge in matters of taste; a person with good knowledge and appreciation of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Someone who knows nothing about a subject",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who dislikes beautiful things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Someone who always makes mistakes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deter",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To discourage someone from doing something by instilling doubt or fear of the consequences",
+      "options": [
+        {
+          "text": "To discourage someone from doing something by instilling doubt or fear of the consequences",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To encourage someone to try something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone achieve their goal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone how to do something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

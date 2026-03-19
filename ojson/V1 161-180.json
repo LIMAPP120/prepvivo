@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 161-180)",
+  "description": "Test your knowledge of words 161 to 180",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Identity",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) Who a person is, or the qualities that make someone or something different from others",
+      "options": [
+        {
+          "text": "Who a person is, or the qualities that make someone or something different from others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not knowing something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that is not real",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very large in size",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ignorance",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) Lack of knowledge or information about something",
+      "options": [
+        {
+          "text": "Lack of knowledge or information about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great knowledge about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of happiness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A strong desire to learn",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Illusion",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) Something that appears to be real but is not, or a false idea or belief",
+      "options": [
+        {
+          "text": "Something that appears to be real but is not, or a false idea or belief",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that is definitely true",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A clear fact",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A scientific discovery",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Immense",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Extremely large or great in size or amount",
+      "options": [
+        {
+          "text": "Extremely large or great in size or amount",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small or tiny",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average in size",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Difficult to measure",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Immigrant",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A person who comes to live permanently in a foreign country",
+      "options": [
+        {
+          "text": "A person who comes to live permanently in a foreign country",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who travels for vacation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who never leaves their hometown",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who studies other countries",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Impatient",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Not willing to wait for something, or easily annoyed by delays",
+      "options": [
+        {
+          "text": "Not willing to wait for something, or easily annoyed by delays",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very patient and calm",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Always on time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Never in a hurry",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Implore",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To beg someone earnestly or desperately to do something",
+      "options": [
+        {
+          "text": "To beg someone earnestly or desperately to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To order someone to do something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To politely suggest something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore someone's request",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Important",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Having great value, significance, or influence",
+      "options": [
+        {
+          "text": "Having great value, significance, or influence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not very significant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary and common",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Easy to forget",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Impressive",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Causing admiration because of size, quality, or skill",
+      "options": [
+        {
+          "text": "Causing admiration because of size, quality, or skill",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Causing disappointment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary and unremarkable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Small and unnoticeable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Improvisation",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) Creating or performing something spontaneously without preparation",
+      "options": [
+        {
+          "text": "Creating or performing something spontaneously without preparation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Careful planning and rehearsal",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Following instructions exactly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Copying someone else's work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Inability",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) The state of not being able to do something",
+      "options": [
+        {
+          "text": "The state of not being able to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great skill at doing something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Willingness to try new things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Natural talent for something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Inaccessible",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Unable to be reached, approached, or used",
+      "options": [
+        {
+          "text": "Unable to be reached, approached, or used",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy to reach and use",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Available to everyone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Simple to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Incident",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) An event or occurrence, especially one that is unusual or important",
+      "options": [
+        {
+          "text": "An event or occurrence, especially one that is unusual or important",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A normal daily routine",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A planned celebration",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A boring situation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Incline",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To lean or slope in a particular direction, or to tend toward a particular opinion",
+      "options": [
+        {
+          "text": "To lean or slope in a particular direction, or to tend toward a particular opinion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stand completely straight",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To disagree strongly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To fall down suddenly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Inclusive",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Including everything or all people, not leaving anyone out",
+      "options": [
+        {
+          "text": "Including everything or all people, not leaving anyone out",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Excluding certain people",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Available only to a select few",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Limited in scope",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Incredible",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Difficult to believe; extraordinary or amazing",
+      "options": [
+        {
+          "text": "Difficult to believe; extraordinary or amazing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy to believe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary and expected",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Slightly interesting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Influence",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) The power to affect someone or something, or to change something",
+      "options": [
+        {
+          "text": "The power to affect someone or something, or to change something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To have no effect",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To follow without thinking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Informative",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Providing useful or interesting information",
+      "options": [
+        {
+          "text": "Providing useful or interesting information",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Confusing and hard to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Boring and uninteresting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of incorrect information",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ingenious",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Clever, original, and inventive",
+      "options": [
+        {
+          "text": "Clever, original, and inventive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Simple and ordinary",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complicated and confusing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Old-fashioned and outdated",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Inhabit",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To live in or occupy a place",
+      "options": [
+        {
+          "text": "To live in or occupy a place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To visit a place briefly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To avoid a place completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy a place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "title": "Vocabulary List 2 (Words 151-180)",
+  "description": "Test your knowledge of words 151 to 180",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "guarantee",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun/Verb) a promise that something will be done or will happen",
+      "options": [
+        {
+          "text": "a type of guard",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a promise that something will be done or will happen",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "a garden tool",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to guess something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hierarchy",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) a system in which people or things are arranged according to their importance",
+      "options": [
+        {
+          "text": "a type of arch",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a system arranged by importance",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "a high area",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a historical event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hypothesis",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) an idea or explanation that is based on known facts but has not yet been proved",
+      "options": [
+        {
+          "text": "a type of thesis",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "an idea based on facts but not yet proved",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "a hypothetical question",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a hospital treatment",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "identify",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) to recognize someone or something and say who or what they are",
+      "options": [
+        {
+          "text": "to ignore something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to recognize and say who or what something is",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to identify with someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to idealize something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "illustrate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) to explain or make something clear by using examples, pictures, or stories",
+      "options": [
+        {
+          "text": "to illuminate something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to explain using examples or pictures",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to illustrate a book",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to irritate someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imply",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) to suggest something without saying it directly",
+      "options": [
+        {
+          "text": "to apply something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to suggest without saying directly",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to imply something important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to simplify something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incentive",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) something that encourages a person to do something",
+      "options": [
+        {
+          "text": "an incident that happened",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "something that encourages action",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an incentive program",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an incurable disease",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incorporate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) to include something as part of something else",
+      "options": [
+        {
+          "text": "to cooperate with someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to include as part of something else",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to incorporate a company",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to incarcerate someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "indicate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) to show, point, or make clear in another way",
+      "options": [
+        {
+          "text": "to dictate something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to show, point, or make clear",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to indicate interest",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to vindicate someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "individual",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun/Adjective) a single person or thing, considered separately from the group",
+      "options": [
+        {
+          "text": "a divided group",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a single person or thing considered separately",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an individual right",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an indivisible number",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inevitable",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) certain to happen; unavoidable",
+      "options": [
+        {
+          "text": "avoidable or preventable",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "certain to happen; unavoidable",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an inevitable conclusion",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an incredible event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "influence",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun/Verb) the power to affect how someone thinks or behaves",
+      "options": [
+        {
+          "text": "to inflate something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "the power to affect thoughts or behavior",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an influential person",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an influenza virus",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inhibit",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) to prevent or slow down the progress of something",
+      "options": [
+        {
+          "text": "to inhabit a place",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to prevent or slow down progress",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an inhibition about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an inhospitable place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "initial",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) existing or occurring at the beginning",
+      "options": [
+        {
+          "text": "final or last",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "existing at the beginning",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an initial public offering",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an initiative project",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "innovate",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) to introduce new ideas or methods",
+      "options": [
+        {
+          "text": "to renovate something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to introduce new ideas or methods",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an innovative approach",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an innervation of muscles",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inspect",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) to look at something carefully to check its quality or condition",
+      "options": [
+        {
+          "text": "to expect something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to look at carefully to check quality",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an inspection of property",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an inspiration to others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "instance",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) an example or single occurrence of something",
+      "options": [
+        {
+          "text": "an instant in time",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "an example or single occurrence",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an instance of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an instant message",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "instruct",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) to teach someone a subject or skill",
+      "options": [
+        {
+          "text": "to construct something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to teach someone a subject or skill",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an instruction manual",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an instrument for measuring",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "integrate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) to combine one thing with another to form a whole",
+      "options": [
+        {
+          "text": "to disintegrate something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to combine to form a whole",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an integrated circuit",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an integrity check",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "integrity",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) the quality of being honest and having strong moral principles",
+      "options": [
+        {
+          "text": "a type of integer",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "the quality of being honest with strong morals",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "integral part of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "intelligent behavior",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intelligence",
+      "order": 21,
+      "points": 1,
+      "explanation": "(Noun) the ability to learn, understand, and think about things",
+      "options": [
+        {
+          "text": "information gathering",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "the ability to learn and understand",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an intelligent design",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an intense feeling",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intense",
+      "order": 22,
+      "points": 1,
+      "explanation": "(Adjective) very strong, great, or extreme in degree",
+      "options": [
+        {
+          "text": "mild or moderate",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "very strong or extreme",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an intense person",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an intended purpose",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "interact",
+      "order": 23,
+      "points": 1,
+      "explanation": "(Verb) to communicate or work together",
+      "options": [
+        {
+          "text": "to act in a play",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to communicate or work together",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an interactive display",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an intermission between acts",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "internal",
+      "order": 24,
+      "points": 1,
+      "explanation": "(Adjective) existing or happening inside a person, object, or place",
+      "options": [
+        {
+          "text": "external or outside",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "existing or happening inside",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an internal combustion engine",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an international event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "interpret",
+      "order": 25,
+      "points": 1,
+      "explanation": "(Verb) to explain the meaning of something",
+      "options": [
+        {
+          "text": "to interrupt someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to explain the meaning of something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an interpretation of a play",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an interpreter for languages",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "interval",
+      "order": 26,
+      "points": 1,
+      "explanation": "(Noun) a period of time between two events",
+      "options": [
+        {
+          "text": "an interview process",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a period of time between events",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an interval training exercise",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an intervention in a situation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intervene",
+      "order": 27,
+      "points": 1,
+      "explanation": "(Verb) to become involved in a situation to change what is happening",
+      "options": [
+        {
+          "text": "to interview someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to become involved to change a situation",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an intervention program",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an interval between events",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intrinsic",
+      "order": 28,
+      "points": 1,
+      "explanation": "(Adjective) belonging to something as part of its nature",
+      "options": [
+        {
+          "text": "extrinsic or external",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "belonging as part of its nature",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an intrinsic motivation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an interesting fact",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "invest",
+      "order": 29,
+      "points": 1,
+      "explanation": "(Verb) to put money, time, or effort into something to make a profit or achieve a result",
+      "options": [
+        {
+          "text": "to invent something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to put money, time or effort for profit",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an investment opportunity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an investigation into something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "involve",
+      "order": 30,
+      "points": 1,
+      "explanation": "(Verb) to include or affect someone or something",
+      "options": [
+        {
+          "text": "to revolve around something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to include or affect someone",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an involved process",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an involuntary action",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

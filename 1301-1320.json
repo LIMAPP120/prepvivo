@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1301-1320)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "access",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) The ability to approach, enter, or use something",
+      "options": [
+        {
+          "text": "The ability to approach, enter, or use something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of delicious food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "alleged",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Claimed to be true but without proof",
+      "options": [
+        {
+          "text": "Claimed to be true but without proof",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Proven to be absolutely true",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely false and made up",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "preclude",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To prevent something from happening; to make impossible",
+      "options": [
+        {
+          "text": "To prevent something from happening; to make impossible",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help something happen more easily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate something special",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something bigger",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "invalidate",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To make something no longer valid or acceptable",
+      "options": [
+        {
+          "text": "To make something no longer valid or acceptable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something stronger and better",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate a victory",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "landmark",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) An easily recognizable object or feature that serves as a guide",
+      "options": [
+        {
+          "text": "An easily recognizable object or feature that serves as a guide",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very small and hidden place",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of delicious dessert",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of being lost",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "persevere",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To continue trying to do something despite difficulties",
+      "options": [
+        {
+          "text": "To continue trying to do something despite difficulties",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give up easily when things get hard",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate before achieving success",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about a difficult task",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "declaim",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To speak or recite something in a dramatic, impassioned way",
+      "options": [
+        {
+          "text": "To speak or recite something in a dramatic, impassioned way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To whisper very softly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget what you wanted to say",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak in a boring monotone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extrinsic",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Coming from outside; not part of the essential nature of something",
+      "options": [
+        {
+          "text": "Coming from outside; not part of the essential nature of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very important and essential",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely internal and personal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely beautiful and attractive",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "paragon",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A model of excellence or perfection",
+      "options": [
+        {
+          "text": "A model of excellence or perfection",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very bad example to follow",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An ordinary and average person",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of delicious fruit",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fetter",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To restrain or restrict someone's freedom",
+      "options": [
+        {
+          "text": "To restrain or restrict someone's freedom",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give someone complete freedom",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone achieve their goals",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate someone's independence",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "asperity",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) Harshness of tone or manner; roughness",
+      "options": [
+        {
+          "text": "Harshness of tone or manner; roughness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extreme kindness and gentleness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very smooth and soft texture",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complete happiness and joy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nomadic",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Living the life of a nomad; wandering from place to place",
+      "options": [
+        {
+          "text": "Living the life of a nomad; wandering from place to place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Living in the same place forever",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very settled and stable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely wealthy and luxurious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "controversial",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Causing disagreement or discussion; disputable",
+      "options": [
+        {
+          "text": "Causing disagreement or discussion; disputable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely agreed upon by everyone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very boring and uninteresting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely clear and obvious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "epithet",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A descriptive word or phrase expressing a quality of the person or thing mentioned",
+      "options": [
+        {
+          "text": "A descriptive word or phrase expressing a quality of the person or thing mentioned",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of delicious food",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An insult or rude name",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A scientific discovery",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gregarious",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Fond of company; sociable",
+      "options": [
+        {
+          "text": "Fond of company; sociable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Preferring to be alone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very shy and quiet",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely intelligent and clever",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "indigenous",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Originating or occurring naturally in a particular place; native",
+      "options": [
+        {
+          "text": "Originating or occurring naturally in a particular place; native",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Brought from another country",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very rare and expensive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Common everywhere in the world",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cursory",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Hasty and therefore not thorough or detailed",
+      "options": [
+        {
+          "text": "Hasty and therefore not thorough or detailed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very detailed and careful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely long and boring",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Comprehensive and complete",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "habitat",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) The natural home or environment of an animal, plant, or other organism",
+      "options": [
+        {
+          "text": "The natural home or environment of an animal, plant, or other organism",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of delicious food",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very comfortable house",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of being at home",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prolific",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Producing much fruit or many offspring; producing many works",
+      "options": [
+        {
+          "text": "Producing much fruit or many offspring; producing many works",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Producing very little",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very lazy and unproductive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely rare and unique",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "interloper",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A person who becomes involved in a place or situation where they are not wanted",
+      "options": [
+        {
+          "text": "A person who becomes involved in a place or situation where they are not wanted",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very welcome guest",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The host of a party",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A professional event planner",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 961-980)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "macabre",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Having to do with death in a frightening or disturbing way",
+      "options": [
+        {
+          "text": "Having to do with death in a frightening or disturbing way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Happy and cheerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Colorful and bright",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Boring and ordinary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "knell",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) The sound of a bell, especially when rung for a death or funeral",
+      "options": [
+        {
+          "text": "The sound of a bell, especially when rung for a death or funeral",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The sound of laughter",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The sound of music",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The sound of thunder",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rapacious",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Excessively greedy and wanting to take things by force",
+      "options": [
+        {
+          "text": "Excessively greedy and wanting to take things by force",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Generous and willing to share",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Poor and needing help",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Satisfied with what they have",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ramifications",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) The consequences or results of an action or decision",
+      "options": [
+        {
+          "text": "The consequences or results of an action or decision",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The beginning of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The middle part of a story",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happy surprises",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "glut",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) An excessive supply or too much of something",
+      "options": [
+        {
+          "text": "An excessive supply or too much of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A shortage or lack of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Just the right amount",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something of high quality",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "insurgent",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A rebel or person who fights against authority",
+      "options": [
+        {
+          "text": "A rebel or person who fights against authority",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A loyal supporter of the government",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A peaceful negotiator",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An innocent bystander",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dilatory",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Intended to cause delay; slow to act",
+      "options": [
+        {
+          "text": "Intended to cause delay; slow to act",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Quick and efficient",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Helpful and cooperative",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Energetic and active",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "risible",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Causing laughter; laughable",
+      "options": [
+        {
+          "text": "Causing laughter; laughable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Causing sadness or tears",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Causing fear or worry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Causing anger or frustration",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "denouement",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) The final resolution or outcome of a story",
+      "options": [
+        {
+          "text": "The final resolution or outcome of a story",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The beginning of a story",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The most exciting part of a story",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A character's background",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "specious",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Seeming right or true but actually wrong or false",
+      "options": [
+        {
+          "text": "Seeming right or true but actually wrong or false",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Clearly wrong from the start",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Obviously true and correct",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely confusing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "enervated",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Drained of energy; weakened",
+      "options": [
+        {
+          "text": "Drained of energy; weakened",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of energy and strength",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Angry and upset",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happy and excited",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dolorous",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or expressing great sorrow or distress",
+      "options": [
+        {
+          "text": "Feeling or expressing great sorrow or distress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling extremely happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling angry and frustrated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling calm and peaceful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cabal",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A small group of people secretly plotting together",
+      "options": [
+        {
+          "text": "A small group of people secretly plotting together",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A large public gathering",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A family having dinner",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A single person working alone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "suffrage",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) The right to vote in political elections",
+      "options": [
+        {
+          "text": "The right to vote in political elections",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The right to own property",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The right to free speech",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The right to travel",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prescient",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Having knowledge of events before they happen; foreseeing",
+      "options": [
+        {
+          "text": "Having knowledge of events before they happen; foreseeing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Forgetting past events",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Understanding current events",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Learning from mistakes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "odious",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Extremely unpleasant; hateful",
+      "options": [
+        {
+          "text": "Extremely unpleasant; hateful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very pleasant and enjoyable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary and average",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Interesting and curious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "reverie",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A daydream or state of being lost in thought",
+      "options": [
+        {
+          "text": "A daydream or state of being lost in thought",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A focused concentration on work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A deep sleep",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A loud argument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "verbatim",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adverb) Word for word; exactly as spoken or written",
+      "options": [
+        {
+          "text": "Word for word; exactly as spoken or written",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "In your own words",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "With changes and improvements",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "With mistakes and errors",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "despot",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A ruler with absolute power who uses it cruelly",
+      "options": [
+        {
+          "text": "A ruler with absolute power who uses it cruelly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A kind and fair leader",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An elected official",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A helpful advisor",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "thespian",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) An actor or actress",
+      "options": [
+        {
+          "text": "An actor or actress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A painter or artist",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A musician or singer",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A writer or poet",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

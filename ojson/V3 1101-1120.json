@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 1101-1120)",
+  "description": "Test your knowledge of words 1101 to 1120",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "malleable",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Able to be bent, shaped, or changed easily",
+      "options": [
+        {
+          "text": "Able to be bent, shaped, or changed easily",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Hard and impossible to change",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Bright and colorful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and valuable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stagnant",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Not moving or flowing; not growing or developing",
+      "options": [
+        {
+          "text": "Not moving or flowing; not growing or developing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Moving very fast and active",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Clear and clean water",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Growing quickly and successfully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "trend",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A general direction in which something is developing or changing",
+      "options": [
+        {
+          "text": "A general direction in which something is developing or changing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A sudden stop or end",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A loud noise or sound",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food or drink",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "passé",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) No longer fashionable or popular; out of date",
+      "options": [
+        {
+          "text": "No longer fashionable or popular; out of date",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very modern and popular",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Always fashionable and timeless",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Newly invented or discovered",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fatal",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Causing or ending in death",
+      "options": [
+        {
+          "text": "Causing or ending in death",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Making someone healthy again",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Causing happiness and joy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very small or unimportant",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "facet",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) One side or aspect of something",
+      "options": [
+        {
+          "text": "One side or aspect of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The whole complete thing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of jewelry or gem",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A mistake or error",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stigmatize",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To treat someone as shameful or unacceptable",
+      "options": [
+        {
+          "text": "To treat someone as shameful or unacceptable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise or honor someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help or support someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach or educate someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "foist",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To force someone to accept something they don't want",
+      "options": [
+        {
+          "text": "To force someone to accept something they don't want",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To politely offer something to someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To buy something from someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To share something equally",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "audacity",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Willingness to take bold risks; rude or disrespectful behavior",
+      "options": [
+        {
+          "text": "Willingness to take bold risks; rude or disrespectful behavior",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Shyness and fear of trying new things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Great intelligence and wisdom",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Kindness and politeness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "capitulate",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To stop fighting and surrender; to give in",
+      "options": [
+        {
+          "text": "To stop fighting and surrender; to give in",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To start a fight or argument",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To win a battle or competition",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make a plan or strategy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "retort",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun/Verb) A quick, clever, or angry reply",
+      "options": [
+        {
+          "text": "A quick, clever, or angry reply",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A slow, careful explanation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A friendly greeting or welcome",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A written letter or message",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tantalize",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To tease or torment with something desired but kept out of reach",
+      "options": [
+        {
+          "text": "To tease or torment with something desired but kept out of reach",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give freely and generously",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or avoid completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To explain clearly and simply",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tacit",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Understood or implied without being said directly",
+      "options": [
+        {
+          "text": "Understood or implied without being said directly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Written down in a formal document",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Spoken loudly and clearly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely unknown or secret",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "docile",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Easy to control, teach, or discipline; obedient",
+      "options": [
+        {
+          "text": "Easy to control, teach, or discipline; obedient",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Difficult to control or manage",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent and clever",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Loud and disruptive",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "chicanery",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) The use of trickery or clever talk to deceive people",
+      "options": [
+        {
+          "text": "The use of trickery or clever talk to deceive people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Honest and fair behavior",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Simple and clear communication",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Generous and kind actions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "belated",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Coming or happening later than expected",
+      "options": [
+        {
+          "text": "Coming or happening later than expected",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Early or ahead of time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Right on time as scheduled",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Never happening at all",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "saga",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A long story of adventure or heroic deeds",
+      "options": [
+        {
+          "text": "A long story of adventure or heroic deeds",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A short simple joke",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A single sentence or phrase",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A scientific fact or discovery",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imperturbable",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Unable to be upset or excited; calm and steady",
+      "options": [
+        {
+          "text": "Unable to be upset or excited; calm and steady",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easily angered or upset",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very excited and energetic",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Sad and depressed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "decrepit",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Worn out or broken down from age or neglect",
+      "options": [
+        {
+          "text": "Worn out or broken down from age or neglect",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Brand new and modern",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Clean and well-maintained",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Expensive and luxurious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vacillate",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To keep changing your mind; to be indecisive",
+      "options": [
+        {
+          "text": "To keep changing your mind; to be indecisive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make quick decisions easily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To always choose the same thing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give advice to others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

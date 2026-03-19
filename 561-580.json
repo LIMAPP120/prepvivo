@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 561-580)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Criteria",
+      "points": 1,
+      "explanation": "(Noun) standards used to judge or decide something",
+      "options": [
+        {
+          "text": "critical comments",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "standards used to judge or decide something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "a type of test",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "criticism of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 1
+    },
+    {
+      "text": "Crucial",
+      "points": 1,
+      "explanation": "(Adjective) extremely important or necessary",
+      "options": [
+        {
+          "text": "not very important",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "extremely important or necessary",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "cruel or unkind",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "crude or rough",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 2
+    },
+    {
+      "text": "Currency",
+      "points": 1,
+      "explanation": "(Noun) the money used in a particular country",
+      "options": [
+        {
+          "text": "the current time",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a flow of water",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the money used in a particular country",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "something that is popular now",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 3
+    },
+    {
+      "text": "Cycle",
+      "points": 1,
+      "explanation": "(Noun) a series of events that repeat in the same order",
+      "options": [
+        {
+          "text": "a type of vehicle",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a series of events that repeat in the same order",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to go around in circles",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a circular object",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 4
+    },
+    {
+      "text": "Data",
+      "points": 1,
+      "explanation": "(Noun) facts or information used for analysis",
+      "options": [
+        {
+          "text": "a date on the calendar",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "facts or information used for analysis",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "a database system",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "day-to-day activities",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 5
+    },
+    {
+      "text": "Debate",
+      "points": 1,
+      "explanation": "(Noun) a formal discussion on a particular topic",
+      "options": [
+        {
+          "text": "to beat someone in a competition",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a formal discussion on a particular topic",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to doubt something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a type of bait used in fishing",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 6
+    },
+    {
+      "text": "Decade",
+      "points": 1,
+      "explanation": "(Noun) a period of ten years",
+      "options": [
+        {
+          "text": "ten of something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a period of ten years",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to decay or rot",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a decision made by a group",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 7
+    },
+    {
+      "text": "Decline",
+      "points": 1,
+      "explanation": "(Verb) to become smaller, fewer, or less",
+      "options": [
+        {
+          "text": "to become smaller, fewer, or less",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to climb up something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to include something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to recline or lie down",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 8
+    },
+    {
+      "text": "Dedicate",
+      "points": 1,
+      "explanation": "(Verb) to devote time and effort to something",
+      "options": [
+        {
+          "text": "to remove something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to indicate something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to devote time and effort to something",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to educate someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 9
+    },
+    {
+      "text": "Defend",
+      "points": 1,
+      "explanation": "(Verb) to protect from harm or danger",
+      "options": [
+        {
+          "text": "to offend someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to depend on something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to protect from harm or danger",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to define something clearly",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 10
+    },
+    {
+      "text": "dynamic",
+      "points": 1,
+      "explanation": "(Adjective) characterized by constant change, activity, or progress",
+      "options": [
+        {
+          "text": "characterized by constant change, activity, or progress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "always staying the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "boring and inactive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "simple and unchanging",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 11
+    },
+    {
+      "text": "economy",
+      "points": 1,
+      "explanation": "(Noun) the system by which goods and services are produced, sold, and bought in a country or region",
+      "options": [
+        {
+          "text": "the system by which goods and services are produced, sold, and bought in a country or region",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a type of food",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a style of clothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a method of transportation",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 12
+    },
+    {
+      "text": "efficient",
+      "points": 1,
+      "explanation": "(Adjective) achieving maximum productivity with minimum wasted effort or expense",
+      "options": [
+        {
+          "text": "achieving maximum productivity with minimum wasted effort or expense",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "wasting time and resources",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "working slowly and carelessly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "making many mistakes",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 13
+    },
+    {
+      "text": "elaborate",
+      "points": 1,
+      "explanation": "(Adjective) involving many carefully arranged parts; detailed and complicated",
+      "options": [
+        {
+          "text": "involving many carefully arranged parts; detailed and complicated",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "simple and basic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "quick and easy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "plain and unadorned",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 14
+    },
+    {
+      "text": "eliminate",
+      "points": 1,
+      "explanation": "(Verb) to completely remove or get rid of something",
+      "options": [
+        {
+          "text": "to completely remove or get rid of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to add more of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to keep everything as it is",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to hide something temporarily",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 15
+    },
+    {
+      "text": "emphasize",
+      "points": 1,
+      "explanation": "(Verb) to give special importance or prominence to something",
+      "options": [
+        {
+          "text": "to give special importance or prominence to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to ignore or overlook something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to make something less important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 16
+    },
+    {
+      "text": "enable",
+      "points": 1,
+      "explanation": "(Verb) to give someone the ability or means to do something",
+      "options": [
+        {
+          "text": "to give someone the ability or means to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to stop someone from doing something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to make things more difficult",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to take away someone's ability",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 17
+    },
+    {
+      "text": "encounter",
+      "points": 1,
+      "explanation": "(Verb) to unexpectedly experience or be faced with something",
+      "options": [
+        {
+          "text": "to unexpectedly experience or be faced with something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to avoid meeting someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to plan something carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget about an experience",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 18
+    },
+    {
+      "text": "enhance",
+      "points": 1,
+      "explanation": "(Verb) to intensify, increase, or further improve the quality or value of something",
+      "options": [
+        {
+          "text": "to intensify, increase, or further improve the quality or value of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make something worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to reduce the quality of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to keep something the same",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 19
+    },
+    {
+      "text": "enormous",
+      "points": 1,
+      "explanation": "(Adjective) very large in size, quantity, or extent",
+      "options": [
+        {
+          "text": "very large in size, quantity, or extent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "very small and tiny",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "medium in size",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "ordinary and average",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 20
+    }
+  ]
+}

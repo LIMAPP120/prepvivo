@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 401-420)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "ensure",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) to make sure or certain; guarantee",
+      "options": [
+        {
+          "text": "to make sure or certain; guarantee",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to forget or ignore something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to make something more difficult",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to destroy something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "entity",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) something that exists as a separate and independent unit",
+      "options": [
+        {
+          "text": "something that exists as a separate and independent unit",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a type of food or drink",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a color or pattern",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a sound or noise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "environment",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) the surroundings or conditions in which a person, animal, or plant lives",
+      "options": [
+        {
+          "text": "the surroundings or conditions in which a person, animal, or plant lives",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a type of clothing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a computer program",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a musical instrument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "equivalent",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) equal in value, amount, function, or meaning",
+      "options": [
+        {
+          "text": "equal in value, amount, function, or meaning",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "completely different and unrelated",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "more valuable than something else",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "less important than something else",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "estimate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) to roughly calculate or judge the value, number, quantity, or extent of something",
+      "options": [
+        {
+          "text": "to roughly calculate or judge the value, number, quantity, or extent of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to know exactly without calculating",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to forget numbers completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to make up random numbers",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ethic",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) a set of moral principles or values",
+      "options": [
+        {
+          "text": "a set of moral principles or values",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a type of food or recipe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a style of clothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a method of transportation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "evident",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) clearly seen or understood; obvious",
+      "options": [
+        {
+          "text": "clearly seen or understood; obvious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "hidden and difficult to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "confusing and unclear",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "secret and unknown",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "evolve",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) to develop gradually over time",
+      "options": [
+        {
+          "text": "to develop gradually over time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to stay exactly the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to disappear suddenly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to get worse instead of better",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exceed",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) to be greater than; to go beyond what is allowed or expected",
+      "options": [
+        {
+          "text": "to be greater than; to go beyond what is allowed or expected",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to be less than expected",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to stay within limits",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to meet exactly the requirement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exclude",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) to deny someone access to; to leave out",
+      "options": [
+        {
+          "text": "to deny someone access to; to leave out",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to include everyone willingly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to welcome with open arms",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to invite specially",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exhibit",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) to show or display publicly",
+      "options": [
+        {
+          "text": "to show or display publicly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to hide or keep secret",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to destroy or break",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "expand",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) to become or make larger or more extensive",
+      "options": [
+        {
+          "text": "to become or make larger or more extensive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to become smaller or shrink",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to stay the same size",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to disappear completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "expert",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) a person who has comprehensive knowledge or skill in a particular area",
+      "options": [
+        {
+          "text": "a person who has comprehensive knowledge or skill in a particular area",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "someone who knows nothing about a topic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a beginner or novice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "someone who avoids learning",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "explicit",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) stated clearly and in detail, leaving no room for confusion",
+      "options": [
+        {
+          "text": "stated clearly and in detail, leaving no room for confusion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "vague and unclear",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "hidden and secret",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "confusing and contradictory",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exploit",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) to make full use of and benefit from; to use unfairly for one's own advantage",
+      "options": [
+        {
+          "text": "to make full use of and benefit from; to use unfairly for one's own advantage",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to waste an opportunity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to help others selflessly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to ignore completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "expose",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) to make something visible by uncovering it; to reveal the truth",
+      "options": [
+        {
+          "text": "to make something visible by uncovering it; to reveal the truth",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to hide or cover up something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to forget about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to ignore the truth",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "external",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) belonging to or situated on the outside",
+      "options": [
+        {
+          "text": "belonging to or situated on the outside",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "located on the inside",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "in the middle or center",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "nowhere to be found",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extract",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) to remove or take out, especially by effort or force",
+      "options": [
+        {
+          "text": "to remove or take out, especially by effort or force",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to put something in",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to leave something as it is",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to ignore something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "facilitate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) to make an action or process easier",
+      "options": [
+        {
+          "text": "to make an action or process easier",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make things more difficult",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to stop a process completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to ignore a problem",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "factor",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) a circumstance, fact, or influence that contributes to a result",
+      "options": [
+        {
+          "text": "a circumstance, fact, or influence that contributes to a result",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "something that has no effect",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a random coincidence",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an unimportant detail",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

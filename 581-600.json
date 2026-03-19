@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 581-600)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "feature",
+      "points": 1,
+      "explanation": "(Noun) a distinctive attribute or aspect of something",
+      "options": [
+        {
+          "text": "a distinctive attribute or aspect of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a mistake or error",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "something that doesn't work",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a boring part of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 1
+    },
+    {
+      "text": "federal",
+      "points": 1,
+      "explanation": "(Adjective) relating to a system of government in which several states form a unity but remain independent in internal affairs",
+      "options": [
+        {
+          "text": "relating to a system of government in which several states form a unity but remain independent in internal affairs",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "related to local neighborhoods only",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "concerned with personal family matters",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "about individual people only",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 2
+    },
+    {
+      "text": "finance",
+      "points": 1,
+      "explanation": "(Noun) the management of large amounts of money, especially by governments or large companies",
+      "options": [
+        {
+          "text": "the management of large amounts of money, especially by governments or large companies",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "the study of plants and animals",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the art of cooking food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "the science of building structures",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 3
+    },
+    {
+      "text": "fluctuate",
+      "points": 1,
+      "explanation": "(Verb) to rise and fall irregularly in number or amount",
+      "options": [
+        {
+          "text": "to rise and fall irregularly in number or amount",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to stay exactly the same always",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to increase steadily without stopping",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to decrease steadily without stopping",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 4
+    },
+    {
+      "text": "focus",
+      "points": 1,
+      "explanation": "(Noun/Verb) the center of interest or activity; to concentrate attention or effort",
+      "options": [
+        {
+          "text": "the center of interest or activity; to concentrate attention or effort",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to ignore or pay no attention",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to be distracted by many things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget what you're doing",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 5
+    },
+    {
+      "text": "format",
+      "points": 1,
+      "explanation": "(Noun) the way in which something is arranged or set out",
+      "options": [
+        {
+          "text": "the way in which something is arranged or set out",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "the color of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the size of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "the price of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 6
+    },
+    {
+      "text": "found",
+      "points": 1,
+      "explanation": "(Verb) to establish or set up, especially with provision for continuing existence",
+      "options": [
+        {
+          "text": "to establish or set up, especially with provision for continuing existence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to destroy or tear down",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to forget about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to lose something important",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 7
+    },
+    {
+      "text": "framework",
+      "points": 1,
+      "explanation": "(Noun) a basic structure underlying a system, concept, or text",
+      "options": [
+        {
+          "text": "a basic structure underlying a system, concept, or text",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a decorative element",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a temporary solution",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a random idea",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 8
+    },
+    {
+      "text": "function",
+      "points": 1,
+      "explanation": "(Noun/Verb) an activity or purpose natural to or intended for a person or thing; to work or operate",
+      "options": [
+        {
+          "text": "an activity or purpose natural to or intended for a person or thing; to work or operate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to break or stop working",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to look nice but do nothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to cause problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 9
+    },
+    {
+      "text": "generate",
+      "points": 1,
+      "explanation": "(Verb) to produce or create something",
+      "options": [
+        {
+          "text": "to produce or create something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to destroy or use up something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to hide or keep secret",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 10
+    },
+    {
+      "text": "intelligence",
+      "points": 1,
+      "explanation": "(Noun) the ability to learn, understand, and think about things",
+      "options": [
+        {
+          "text": "information gathering",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "the ability to learn and understand",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an intelligent design",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an intense feeling",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 11
+    },
+    {
+      "text": "intense",
+      "points": 1,
+      "explanation": "(Adjective) very strong, great, or extreme in degree",
+      "options": [
+        {
+          "text": "mild or moderate",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "very strong or extreme",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an intense person",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an intended purpose",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 12
+    },
+    {
+      "text": "interact",
+      "points": 1,
+      "explanation": "(Verb) to communicate or work together",
+      "options": [
+        {
+          "text": "to act in a play",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to communicate or work together",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an interactive display",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an intermission between acts",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 13
+    },
+    {
+      "text": "internal",
+      "points": 1,
+      "explanation": "(Adjective) existing or happening inside a person, object, or place",
+      "options": [
+        {
+          "text": "external or outside",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "existing or happening inside",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an internal combustion engine",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an international event",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 14
+    },
+    {
+      "text": "interpret",
+      "points": 1,
+      "explanation": "(Verb) to explain the meaning of something",
+      "options": [
+        {
+          "text": "to interrupt someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to explain the meaning of something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an interpretation of a play",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an interpreter for languages",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 15
+    },
+    {
+      "text": "interval",
+      "points": 1,
+      "explanation": "(Noun) a period of time between two events",
+      "options": [
+        {
+          "text": "an interview process",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a period of time between events",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an interval training exercise",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an intervention in a situation",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 16
+    },
+    {
+      "text": "intervene",
+      "points": 1,
+      "explanation": "(Verb) to become involved in a situation to change what is happening",
+      "options": [
+        {
+          "text": "to interview someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to become involved to change a situation",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an intervention program",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an interval between events",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 17
+    },
+    {
+      "text": "intrinsic",
+      "points": 1,
+      "explanation": "(Adjective) belonging to something as part of its nature",
+      "options": [
+        {
+          "text": "extrinsic or external",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "belonging as part of its nature",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an intrinsic motivation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an interesting fact",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 18
+    },
+    {
+      "text": "invest",
+      "points": 1,
+      "explanation": "(Verb) to put money, time, or effort into something to make a profit or achieve a result",
+      "options": [
+        {
+          "text": "to invent something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to put money, time or effort for profit",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an investment opportunity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an investigation into something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 19
+    },
+    {
+      "text": "involve",
+      "points": 1,
+      "explanation": "(Verb) to include or affect someone or something",
+      "options": [
+        {
+          "text": "to revolve around something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to include or affect someone",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "an involved process",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an involuntary action",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 20
+    }
+  ]
+}

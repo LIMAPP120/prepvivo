@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 81-100)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Dependable",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Able to be trusted or relied on",
+      "options": [
+        {
+          "text": "Able to be trusted or relied on",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very sad and without hope",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Showing great energy and enthusiasm",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A place where someone is going",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Depict",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To show or represent something in a picture or story",
+      "options": [
+        {
+          "text": "To cause someone to feel sad",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To show or represent something in a picture or story",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To work hard and carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Depressed",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Very sad and without hope",
+      "options": [
+        {
+          "text": "Very sad and without hope",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of energy and enthusiasm",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a strong desire to do something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Able to last a long time without damage",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Desolate",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Empty and sad; without people or comfort",
+      "options": [
+        {
+          "text": "Full of people and activity",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Empty and sad; without people or comfort",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Very determined to achieve something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Causing a lot of damage or suffering",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Despair",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A feeling of having no hope",
+      "options": [
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "A place where someone is going",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of having no hope",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "A feeling of excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Desperate",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing a great need for something and willing to do anything to get it",
+      "options": [
+        {
+          "text": "Feeling calm and relaxed",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Feeling or showing a great need for something and willing to do anything to get it",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Feeling very happy and content",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling tired and sleepy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Destination",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) The place where someone or something is going",
+      "options": [
+        {
+          "text": "The place where someone or something is going",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The place where someone comes from",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of sadness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A very difficult situation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Determined",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Having a strong desire to do something and not allowing anyone to stop you",
+      "options": [
+        {
+          "text": "Not sure what to do",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Having a strong desire to do something and not allowing anyone to stop you",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Feeling tired and weak",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being easily distracted",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Devastate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To destroy or damage something very badly",
+      "options": [
+        {
+          "text": "To build something new",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To destroy or damage something very badly",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To help someone improve",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make someone very happy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Diligent",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Working hard and carefully",
+      "options": [
+        {
+          "text": "Working hard and carefully",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Working slowly and carelessly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Avoiding work whenever possible",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Working only when watched",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Disastrous",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Causing a lot of damage or suffering",
+      "options": [
+        {
+          "text": "Causing a lot of damage or suffering",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Bringing good luck and success",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having little effect or importance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Creating happiness and joy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Disguise",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To change appearance so as not to be recognized",
+      "options": [
+        {
+          "text": "To show something clearly",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To change appearance so as not to be recognized",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To make something more beautiful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To tell the truth about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Distinctive",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Having a special quality that makes something different and easy to recognize",
+      "options": [
+        {
+          "text": "Having a special quality that makes something different and easy to recognize",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Looking very ordinary and similar to others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being difficult to see or notice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Changing appearance frequently",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Distract",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To take someone's attention away from what they are doing",
+      "options": [
+        {
+          "text": "To help someone concentrate better",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To take someone's attention away from what they are doing",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To make someone work harder",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Diverse",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Including many different types of people or things",
+      "options": [
+        {
+          "text": "All being the same or similar",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Including many different types of people or things",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Having very few varieties",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being of poor quality",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Dominant",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) More important, powerful, or noticeable than other things",
+      "options": [
+        {
+          "text": "More important, powerful, or noticeable than other things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Less important than others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having equal importance with others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being hidden or not noticeable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Dramatic",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Sudden and very noticeable; full of action and excitement",
+      "options": [
+        {
+          "text": "Boring and uninteresting",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Sudden and very noticeable; full of action and excitement",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Quiet and peaceful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Ordinary and expected",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Durable",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Able to last a long time without damage",
+      "options": [
+        {
+          "text": "Likely to break easily",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Able to last a long time without damage",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Beautiful to look at",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Expensive to buy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Dynamic",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Full of energy and enthusiasm; always changing and developing",
+      "options": [
+        {
+          "text": "Full of energy and enthusiasm; always changing and developing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Slow and uninteresting",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Staying the same without change",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Weak and ineffective",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Eager",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Very interested and excited about something that is going to happen",
+      "options": [
+        {
+          "text": "Very interested and excited about something that is going to happen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not interested in something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling worried about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being forced to do something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

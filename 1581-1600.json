@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1581-1600)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "platitude",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A remark or statement that has been used too often to be interesting or thoughtful",
+      "options": [
+        {
+          "text": "A remark or statement that has been used too often to be interesting or thoughtful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that is very unusual or not typical",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To decrease gradually in size, strength, or power",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Lacking distinctive or interesting features",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "atypical",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Not representative of a type, group, or class; unusual or not typical",
+      "options": [
+        {
+          "text": "Not representative of a type, group, or class; unusual or not typical",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A boring and overused remark or statement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To decrease gradually in size, strength, or power",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Relating to a peaceful, perfect, or picturesque scene",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "wane",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To decrease gradually in size, strength, or power; to become weaker",
+      "options": [
+        {
+          "text": "To decrease gradually in size, strength, or power; to become weaker",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To encourage someone to take action",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak or behave in a superior way toward someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To embarrass or humiliate someone greatly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nondescript",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Lacking distinctive or interesting features; not easily noticed or remembered",
+      "options": [
+        {
+          "text": "Lacking distinctive or interesting features; not easily noticed or remembered",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Bright, showy, or tastelessly colorful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely honest and straightforward",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "No longer in existence; died out",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "idyllic",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Relating to a peaceful, perfect, or picturesque scene, often in the countryside",
+      "options": [
+        {
+          "text": "Relating to a peaceful, perfect, or picturesque scene, often in the countryside",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A burden or something that gets in the way",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Bright, showy, or tastelessly colorful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The highest point or peak of achievement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extinct",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) No longer in existence; having died out completely",
+      "options": [
+        {
+          "text": "No longer in existence; having died out completely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To encourage someone to take action",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak or behave in a superior way toward someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A boring and overused remark or statement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "encumbrance",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A burden or impediment; something that gets in the way or slows you down",
+      "options": [
+        {
+          "text": "A burden or impediment; something that gets in the way or slows you down",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The highest point or peak of achievement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having unlimited power; all-powerful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A previous example or case that serves as a guide",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "galvanize",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To shock or excite someone into taking action",
+      "options": [
+        {
+          "text": "To shock or excite someone into taking action",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To decrease gradually in size, strength, or power",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To embarrass or humiliate someone greatly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To persuade someone with flattery or gentle pleading",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "condescend",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To show feelings of superiority; to talk down to someone",
+      "options": [
+        {
+          "text": "To show feelings of superiority; to talk down to someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To be completely honest and straightforward",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak ill of someone; to say bad things about them",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To be funny or playful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gaudy",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Bright, showy, or tastelessly colorful; excessively ornamented",
+      "options": [
+        {
+          "text": "Bright, showy, or tastelessly colorful; excessively ornamented",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lacking distinctive or interesting features",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Peaceful, perfect, or picturesque",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "No longer in existence; died out",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mortify",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To cause someone to feel extremely embarrassed or ashamed",
+      "options": [
+        {
+          "text": "To cause someone to feel extremely embarrassed or ashamed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To shock or excite someone into taking action",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To show feelings of superiority",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak ill of someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "candor",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) The quality of being open, honest, and straightforward in expression",
+      "options": [
+        {
+          "text": "The quality of being open, honest, and straightforward in expression",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A burden or something that gets in the way",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The highest point or peak of achievement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having unlimited power",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "malign",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To speak about someone in a spitefully critical manner; to say bad things about someone",
+      "options": [
+        {
+          "text": "To speak about someone in a spitefully critical manner; to say bad things about someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To show feelings of superiority",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To cause someone to feel extremely embarrassed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To be funny or playful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "jocose",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Playful or humorous; characterized by joking",
+      "options": [
+        {
+          "text": "Playful or humorous; characterized by joking",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Bright, showy, or tastelessly colorful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Allowing no denial or refusal; expecting immediate obedience",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Inexperienced or immature",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "zenith",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) The highest point or peak; the time at which something is most powerful or successful",
+      "options": [
+        {
+          "text": "The highest point or peak; the time at which something is most powerful or successful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The lowest point in someone's fortunes",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A burden or something that gets in the way",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A previous example or case that serves as a guide",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "omnipotent",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Having unlimited power; able to do anything",
+      "options": [
+        {
+          "text": "Having unlimited power; able to do anything",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Playful or humorous",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Allowing no denial or refusal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Inexperienced or immature",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "peremptory",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Insisting on immediate attention or obedience; expecting to be obeyed without question",
+      "options": [
+        {
+          "text": "Insisting on immediate attention or obedience; expecting to be obeyed without question",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having unlimited power",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Playful or humorous",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Bright, showy, or tastelessly colorful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fledgling",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective/Noun) Inexperienced or immature; just beginning to develop",
+      "options": [
+        {
+          "text": "Inexperienced or immature; just beginning to develop",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having unlimited power",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Allowing no denial or refusal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A previous example or case that serves as a guide",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "wheedle",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To persuade someone by using flattery or gentle pleading",
+      "options": [
+        {
+          "text": "To persuade someone by using flattery or gentle pleading",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To speak ill of someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To cause someone to feel extremely embarrassed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To shock or excite someone into taking action",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "precedent",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A previous example or case that serves as a guide for future situations",
+      "options": [
+        {
+          "text": "A previous example or case that serves as a guide for future situations",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The highest point or peak of achievement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having unlimited power",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A burden or something that gets in the way",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

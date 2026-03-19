@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1781-1800)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "umbrage",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A feeling of offense or annoyance caused by something perceived as insulting",
+      "options": [
+        {
+          "text": "A feeling of offense or annoyance caused by something perceived as insulting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great happiness and joy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of large tree or plant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A bright light or illumination",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "elucidate",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To make something clear or easy to understand; to explain",
+      "options": [
+        {
+          "text": "To make something clear or easy to understand; to explain",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something more confusing or complicated",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide or conceal information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ask questions about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vilify",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To speak or write about someone in an abusive or harshly critical way",
+      "options": [
+        {
+          "text": "To speak or write about someone in an abusive or harshly critical way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone highly in public",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone improve their skills",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore someone completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "unwieldy",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Difficult to carry, move, or handle because of size, shape, or weight",
+      "options": [
+        {
+          "text": "Difficult to carry, move, or handle because of size, shape, or weight",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy to use and very convenient",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Light and portable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Beautiful and well-designed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vapid",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Lacking liveliness, interest, or excitement; dull and boring",
+      "options": [
+        {
+          "text": "Lacking liveliness, interest, or excitement; dull and boring",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely exciting and interesting",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent and thoughtful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Loud and energetic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "proximity",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) Nearness in space, time, or relationship",
+      "options": [
+        {
+          "text": "Nearness in space, time, or relationship",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being far away or distant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of measurement for weight",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of loneliness or isolation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "augment",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To make something larger or increase it in size or amount",
+      "options": [
+        {
+          "text": "To make something larger or increase it in size or amount",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something smaller or decrease it",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To keep something exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To remove or take away something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vitiate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To spoil or reduce the quality, value, or effectiveness of something",
+      "options": [
+        {
+          "text": "To spoil or reduce the quality, value, or effectiveness of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To improve or enhance something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To create something new and original",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repair or fix something broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "contort",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To twist or bend something out of its normal shape",
+      "options": [
+        {
+          "text": "To twist or bend something out of its normal shape",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To straighten or align something perfectly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To paint or color something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To measure something accurately",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fatuous",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Silly, foolish, or pointless in a self-satisfied way",
+      "options": [
+        {
+          "text": "Silly, foolish, or pointless in a self-satisfied way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very wise and intelligent",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Serious and thoughtful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Helpful and practical",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imperceptible",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Impossible or very difficult to see or notice",
+      "options": [
+        {
+          "text": "Impossible or very difficult to see or notice",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very obvious and easy to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Loud and impossible to ignore",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Bright and colorful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "disparate",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Fundamentally different or distinct in kind; not able to be compared",
+      "options": [
+        {
+          "text": "Fundamentally different or distinct in kind; not able to be compared",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Exactly the same or identical",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very similar with small differences",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Related or connected in some way",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "repertoire",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) The collection of skills, pieces, or performances that someone or something can do",
+      "options": [
+        {
+          "text": "The collection of skills, pieces, or performances that someone or something can do",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A single skill or ability",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A book of recipes for cooking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pall",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To become less interesting or enjoyable over time",
+      "options": [
+        {
+          "text": "To become less interesting or enjoyable over time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To become more exciting and fun",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To improve in quality or value",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To change color or appearance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incandescent",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Emitting light as a result of being heated; extremely bright or brilliant",
+      "options": [
+        {
+          "text": "Emitting light as a result of being heated; extremely bright or brilliant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Dark and difficult to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Cool or cold to the touch",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Quiet and soft-spoken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ephemeral",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Lasting for a very short time; temporary or fleeting",
+      "options": [
+        {
+          "text": "Lasting for a very short time; temporary or fleeting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lasting forever or for a very long time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Happening every day regularly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Growing slowly over time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vain",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing an excessively high opinion of one's appearance or abilities",
+      "options": [
+        {
+          "text": "Having or showing an excessively high opinion of one's appearance or abilities",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having no confidence or self-esteem",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very modest and humble",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely unaware of one's appearance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "shovel",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun/Verb) A tool with a broad blade and a handle, used for digging or moving material",
+      "options": [
+        {
+          "text": "A tool with a broad blade and a handle, used for digging or moving material",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A tool for cutting wood or branches",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A kitchen utensil for mixing ingredients",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A musical instrument with strings",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "snuggle",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To settle or move into a warm, comfortable position close to someone or something",
+      "options": [
+        {
+          "text": "To settle or move into a warm, comfortable position close to someone or something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To argue or fight with someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To run away quickly from something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To sit alone in a corner",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stumble",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To trip or momentarily lose one's balance while walking or running",
+      "options": [
+        {
+          "text": "To trip or momentarily lose one's balance while walking or running",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To walk smoothly and gracefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To run very fast without stopping",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To jump high into the air",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

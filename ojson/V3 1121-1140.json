@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 1121-1140)",
+  "description": "Test your knowledge of words 1121 to 1140",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "machiavellian",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Using clever but dishonest methods to achieve goals",
+      "options": [
+        {
+          "text": "Using clever but dishonest methods to achieve goals",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being honest and fair in all situations",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Helping others without expecting anything in return",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Working hard through honest means",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "opprobrium",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) Harsh criticism or public disgrace",
+      "options": [
+        {
+          "text": "Harsh criticism or public disgrace",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great praise and admiration",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Quiet approval or agreement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small mistake or error",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pandemonium",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A state of wild and noisy confusion or uproar",
+      "options": [
+        {
+          "text": "A state of wild and noisy confusion or uproar",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete silence and peace",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Organized and orderly activity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small gathering of people",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "unconscionable",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Morally wrong and completely unacceptable",
+      "options": [
+        {
+          "text": "Morally wrong and completely unacceptable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely fair and reasonable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Slightly questionable but okay",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very generous and kind",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "demeanor",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) The way a person looks, behaves, and presents themselves",
+      "options": [
+        {
+          "text": "The way a person looks, behaves, and presents themselves",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The clothes a person wears",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The sound of someone's voice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person's intelligence level",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "flay",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To criticize someone very severely",
+      "options": [
+        {
+          "text": "To criticize someone very severely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone highly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To gently correct someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore someone's mistakes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vindicate",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To prove that someone is right or not guilty",
+      "options": [
+        {
+          "text": "To prove that someone is right or not guilty",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To accuse someone of wrongdoing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To punish someone for a crime",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide the truth about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "delineation",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) The act of describing or outlining something clearly",
+      "options": [
+        {
+          "text": "The act of describing or outlining something clearly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Making something messy or confusing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Hiding important details",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Drawing random lines without purpose",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "turpitude",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Wicked or immoral behavior",
+      "options": [
+        {
+          "text": "Wicked or immoral behavior",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Kind and generous actions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Hard work and dedication",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Honest and truthful behavior",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "heinous",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Extremely wicked, evil, or shocking",
+      "options": [
+        {
+          "text": "Extremely wicked, evil, or shocking",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Slightly naughty but forgivable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very kind and thoughtful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely normal and expected",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "infraction",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A minor violation or breaking of a rule or law",
+      "options": [
+        {
+          "text": "A minor violation or breaking of a rule or law",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A major crime with serious consequences",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Following all rules perfectly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A reward for good behavior",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vituperation",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) Bitter and abusive language or criticism",
+      "options": [
+        {
+          "text": "Bitter and abusive language or criticism",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Kind and encouraging words",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Calm and reasonable discussion",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Silent agreement or approval",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "redress",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb/Noun) To correct something that is unfair or wrong",
+      "options": [
+        {
+          "text": "To correct something that is unfair or wrong",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a situation worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore a problem completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create new unfair rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "clique",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A small exclusive group of friends who don't allow others to join",
+      "options": [
+        {
+          "text": "A small exclusive group of friends who don't allow others to join",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A large welcoming community",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A sports team that anyone can join",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A study group open to all students",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rhetoric",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) The art of effective or persuasive speaking or writing",
+      "options": [
+        {
+          "text": "The art of effective or persuasive speaking or writing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The ability to do math calculations quickly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Skill in painting or drawing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Knowledge about scientific facts",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mentor",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun/Verb) An experienced person who advises and helps someone less experienced",
+      "options": [
+        {
+          "text": "An experienced person who advises and helps someone less experienced",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Someone who competes against you",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who ignores your questions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A stranger who gives bad advice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extol",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To praise enthusiastically and highly",
+      "options": [
+        {
+          "text": "To praise enthusiastically and highly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To criticize severely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make fun of someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cant",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) Insincere or hypocritical talk, especially about morals or religion",
+      "options": [
+        {
+          "text": "Insincere or hypocritical talk, especially about morals or religion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Honest and heartfelt conversation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Simple and clear instructions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Scientific facts and evidence",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "facile",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Too simple and showing a lack of careful thought",
+      "options": [
+        {
+          "text": "Too simple and showing a lack of careful thought",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very complex and well-researched",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Perfectly balanced and thoughtful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely wrong and mistaken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "magnanimous",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Generous and forgiving, especially toward a rival or less powerful person",
+      "options": [
+        {
+          "text": "Generous and forgiving, especially toward a rival or less powerful person",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Mean and petty towards others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Selfish and only thinking of oneself",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Indifferent and uncaring about others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

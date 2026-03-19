@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 941-960)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "sophistry",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) Clever but false arguments meant to deceive",
+      "options": [
+        {
+          "text": "Clever but false arguments meant to deceive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Honest and truthful statements",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Simple and clear explanations",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Funny jokes and stories",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tyro",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A beginner or novice learning something new",
+      "options": [
+        {
+          "text": "A beginner or novice learning something new",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An expert who knows everything",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A teacher who instructs others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who doesn't want to learn",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "encomium",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) High praise or a tribute to someone",
+      "options": [
+        {
+          "text": "High praise or a tribute to someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Harsh criticism or blame",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A neutral description",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A funny joke",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "factitious",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Artificial or fake, not natural",
+      "options": [
+        {
+          "text": "Artificial or fake, not natural",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely natural and real",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Old and valuable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hyperbole",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) Exaggerated statements not meant to be taken literally",
+      "options": [
+        {
+          "text": "Exaggerated statements not meant to be taken literally",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Understatements that minimize something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly accurate descriptions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Questions that need answers",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obloquy",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) Strong public criticism or verbal abuse",
+      "options": [
+        {
+          "text": "Strong public criticism or verbal abuse",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "High praise and admiration",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Quiet encouragement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Friendly advice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prevarication",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) Avoiding telling the truth; being evasive",
+      "options": [
+        {
+          "text": "Avoiding telling the truth; being evasive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Telling the complete truth honestly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Asking clear questions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Giving helpful answers",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "munificent",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Extremely generous in giving",
+      "options": [
+        {
+          "text": "Extremely generous in giving",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very stingy and unwilling to share",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Careful with money",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetful about giving",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "genocide",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) The deliberate killing of a large group of people",
+      "options": [
+        {
+          "text": "The deliberate killing of a large group of people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The peaceful gathering of different groups",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Helping people in need",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Celebrating cultural differences",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "charisma",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) Compelling attractiveness or charm that inspires devotion",
+      "options": [
+        {
+          "text": "Compelling attractiveness or charm that inspires devotion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Physical strength and power",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Intelligence and knowledge",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Wealth and possessions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "toxic",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Poisonous or harmful",
+      "options": [
+        {
+          "text": "Poisonous or harmful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Healthy and beneficial",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Delicious and tasty",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Beautiful and attractive",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impregnable",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Unable to be captured or broken into",
+      "options": [
+        {
+          "text": "Unable to be captured or broken into",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy to enter and access",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Beautiful to look at",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Comfortable to live in",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "neophyte",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A person who is new to a subject or activity",
+      "options": [
+        {
+          "text": "A person who is new to a subject or activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An expert with many years of experience",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A teacher who trains beginners",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who dislikes learning",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "patriarch",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) The male head of a family or tribe",
+      "options": [
+        {
+          "text": "The male head of a family or tribe",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The youngest child in a family",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A female leader",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A government official",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "forebodings",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) Feelings that something bad will happen",
+      "options": [
+        {
+          "text": "Feelings that something bad will happen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Happy expectations about the future",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Memories of past events",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Plans for celebrations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extenuating",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Making a fault or offense seem less serious",
+      "options": [
+        {
+          "text": "Making a fault or offense seem less serious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Making something seem worse than it is",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Explaining something clearly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetting about a mistake",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "miscreant",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A person who behaves badly or breaks the law",
+      "options": [
+        {
+          "text": "A person who behaves badly or breaks the law",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who helps others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A law enforcement officer",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An innocent bystander",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "emanating",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) Coming or flowing out from a source",
+      "options": [
+        {
+          "text": "Coming or flowing out from a source",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Going into something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Stopping completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Changing direction",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "circuitous",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Longer than the most direct way; roundabout",
+      "options": [
+        {
+          "text": "Longer than the most direct way; roundabout",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Straight and direct",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very fast and quick",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Slow and careful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "protocol",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) Official rules or procedures for ceremonies or formal events",
+      "options": [
+        {
+          "text": "Official rules or procedures for ceremonies or formal events",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Casual suggestions for behavior",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Personal opinions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Random choices",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

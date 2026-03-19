@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 561-580)",
+  "description": "Test your knowledge of words 561 to 580",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "recoil",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To suddenly move back because of fear or surprise",
+      "options": [
+        {
+          "text": "To suddenly move back because of fear or surprise",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To boil water until it disappears",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To collect coins as a hobby",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak in a very loud voice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "wan",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Looking pale, tired, or weak",
+      "options": [
+        {
+          "text": "Looking pale, tired, or weak",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very excited and happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a wide, smiling face",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Moving quickly and energetically",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mastiff",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A large, strong breed of dog with a short coat",
+      "options": [
+        {
+          "text": "A large, strong breed of dog with a short coat",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A tall pole on a ship that holds the sails",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of delicious chocolate candy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who works with wood",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obsess",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To think about something constantly or excessively",
+      "options": [
+        {
+          "text": "To think about something constantly or excessively",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To forget something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To observe something carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To oppose or disagree with something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "doleful",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Looking or sounding very sad and mournful",
+      "options": [
+        {
+          "text": "Looking or sounding very sad and mournful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of energy and happiness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Generous in giving to others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Determined and strong-willed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "elusive",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Difficult to find, catch, or achieve",
+      "options": [
+        {
+          "text": "Difficult to find, catch, or achieve",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy to understand and simple",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very colorful and bright",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making a loud, clear sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "histrionics",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) Exaggerated, dramatic behavior designed to attract attention",
+      "options": [
+        {
+          "text": "Exaggerated, dramatic behavior designed to attract attention",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The study of historical events",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Medical treatment using special instruments",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Beautiful and artistic handwriting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "symptomatic",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Being a sign or indicator of a particular disease or problem",
+      "options": [
+        {
+          "text": "Being a sign or indicator of a particular disease or problem",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely free from any symptoms",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a sympathetic personality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Creating beautiful symphonic music",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "frustrate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To make someone feel annoyed or upset because they cannot achieve something",
+      "options": [
+        {
+          "text": "To make someone feel annoyed or upset because they cannot achieve something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone feel very happy and satisfied",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To decorate something with fruits and flowers",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To freeze something until it becomes solid",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inert",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Unable to move or act; lacking energy or power",
+      "options": [
+        {
+          "text": "Unable to move or act; lacking energy or power",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely active and energetic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent and clever",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely honest and truthful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "interject",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To say something suddenly between other remarks",
+      "options": [
+        {
+          "text": "To say something suddenly between other remarks",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To reject something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To connect two objects together",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To protect something from harm",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imminent",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) About to happen very soon",
+      "options": [
+        {
+          "text": "About to happen very soon",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely important and significant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very small and difficult to see",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happening every minute of the day",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "salient",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Most noticeable, important, or prominent",
+      "options": [
+        {
+          "text": "Most noticeable, important, or prominent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Containing a lot of salt",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Able to sail smoothly on water",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having a cheerful and happy personality",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "engrossed",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Completely focused and absorbed in something",
+      "options": [
+        {
+          "text": "Completely focused and absorbed in something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling very angry and upset",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Growing bigger and stronger",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely finished and completed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "squeamish",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Easily upset or made to feel sick by unpleasant things",
+      "options": [
+        {
+          "text": "Easily upset or made to feel sick by unpleasant things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Making high-pitched mouse-like sounds",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very clean and tidy in appearance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Liking to eat squeaky cheese",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inundate",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To overwhelm with too much of something; to flood",
+      "options": [
+        {
+          "text": "To overwhelm with too much of something; to flood",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To dance in a slow, graceful way",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To tune a musical instrument perfectly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To investigate something thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "poignant",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Causing a strong feeling of sadness or sympathy",
+      "options": [
+        {
+          "text": "Causing a strong feeling of sadness or sympathy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having a sharp point or tip",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very colorful and brightly painted",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Pointing in the right direction",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "garbled",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Confused and unclear because of mistakes in communication",
+      "options": [
+        {
+          "text": "Confused and unclear because of mistakes in communication",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Beautifully decorated with garlands",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Wearing expensive and fancy clothes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Organized in neat, straight lines",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fruitless",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Failing to achieve the desired results; unproductive",
+      "options": [
+        {
+          "text": "Failing to achieve the desired results; unproductive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having no fruits available",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of delicious, ripe fruits",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making juice from fresh fruits",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "phlegmatic",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Having a calm, unemotional personality; not easily excited",
+      "options": [
+        {
+          "text": "Having a calm, unemotional personality; not easily excited",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having a lot of phlegm or mucus",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of energy and enthusiasm",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Related to photographic techniques",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

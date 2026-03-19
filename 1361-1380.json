@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1361-1380)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "myriad",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun/Adjective) A very large number of something",
+      "options": [
+        {
+          "text": "A very large number of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very small amount",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A single important thing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "irrelevant",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Not connected with or relevant to something",
+      "options": [
+        {
+          "text": "Not connected with or relevant to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely important and necessary",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very interesting and exciting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely true and accurate",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "crave",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To have a very strong desire for something",
+      "options": [
+        {
+          "text": "To have a very strong desire for something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To dislike something very much",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To avoid something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inherent",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Existing as a natural or basic part of something",
+      "options": [
+        {
+          "text": "Existing as a natural or basic part of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Added from outside",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Temporary and changeable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Unusual and unexpected",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deem",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To regard or consider in a specified way",
+      "options": [
+        {
+          "text": "To regard or consider in a specified way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To physically touch something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make a loud noise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "romp",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb/Noun) To play in a lively, energetic way",
+      "options": [
+        {
+          "text": "To play in a lively, energetic way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To walk slowly and sadly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To argue angrily",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To sleep deeply",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "buff",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A person who is very interested in and knowledgeable about a particular subject",
+      "options": [
+        {
+          "text": "A person who is very interested in and knowledgeable about a particular subject",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of cleaning cloth",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A large, strong animal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sweet dessert",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tortuous",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Full of twists and turns; excessively lengthy and complex",
+      "options": [
+        {
+          "text": "Full of twists and turns; excessively lengthy and complex",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Straight and direct",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very short and simple",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely beautiful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "latent",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Existing but not yet developed or manifest; hidden",
+      "options": [
+        {
+          "text": "Existing but not yet developed or manifest; hidden",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely obvious and visible",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Recently discovered",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always active and working",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "peregrination",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) A long journey, especially on foot",
+      "options": [
+        {
+          "text": "A long journey, especially on foot",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A short visit to a neighbor",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A business meeting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A relaxing vacation at home",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "itinerant",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Traveling from place to place, especially for work",
+      "options": [
+        {
+          "text": "Traveling from place to place, especially for work",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Staying in one place permanently",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Working in an office",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Retired and not working",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "barometer",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) Something that measures or indicates changes",
+      "options": [
+        {
+          "text": "Something that measures or indicates changes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A musical instrument",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of building material",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A vehicle for transportation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "conjugal",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Relating to marriage or the relationship between husband and wife",
+      "options": [
+        {
+          "text": "Relating to marriage or the relationship between husband and wife",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Related to business partnerships",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Concerning teacher-student relationships",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "About friendship between children",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "profligate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Recklessly extravagant or wasteful",
+      "options": [
+        {
+          "text": "Recklessly extravagant or wasteful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely careful with money",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very generous to others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always saving for the future",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "megalomania",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) An obsessive desire for power and greatness",
+      "options": [
+        {
+          "text": "An obsessive desire for power and greatness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A fear of large objects",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Love for helping others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Interest in studying rocks",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "legion",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun/Adjective) A vast number of people or things",
+      "options": [
+        {
+          "text": "A vast number of people or things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very small group",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A single important person",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of military unit",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "strife",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) Angry or bitter disagreement; conflict",
+      "options": [
+        {
+          "text": "Angry or bitter disagreement; conflict",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete agreement and harmony",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Friendly competition",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Peaceful cooperation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "amnesty",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) An official pardon for people who have been convicted of political offenses",
+      "options": [
+        {
+          "text": "An official pardon for people who have been convicted of political offenses",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A severe punishment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A new law creating crimes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A celebration for winning a war",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "coup",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A sudden, violent, and illegal seizure of power from a government",
+      "options": [
+        {
+          "text": "A sudden, violent, and illegal seizure of power from a government",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A peaceful election",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A friendly agreement between countries",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A business success",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exonerate",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To officially declare someone not guilty of a crime",
+      "options": [
+        {
+          "text": "To officially declare someone not guilty of a crime",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To find someone guilty",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To punish someone severely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To accuse someone of a crime",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 901-920)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "frail",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Weak and delicate, not strong",
+      "options": [
+        {
+          "text": "Weak and delicate, not strong",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very strong and powerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely intelligent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very funny and humorous",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "reputed",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Generally believed or reported to be such",
+      "options": [
+        {
+          "text": "Generally believed or reported to be such",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Proven to be false",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely unknown",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Officially confirmed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "excoriate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To criticize severely",
+      "options": [
+        {
+          "text": "To criticize severely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise highly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To help secretly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "potent",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Having great power, influence, or effect",
+      "options": [
+        {
+          "text": "Having great power, influence, or effect",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Weak and ineffective",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Small and unimportant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Simple and basic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "diminutive",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Extremely or unusually small",
+      "options": [
+        {
+          "text": "Extremely or unusually small",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very large and huge",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average in size",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely heavy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "devout",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Having deep religious feeling or commitment",
+      "options": [
+        {
+          "text": "Having deep religious feeling or commitment",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not believing in any religion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Changing beliefs frequently",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetting religious practices",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dulcet",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Sweet and soothing (especially of sounds)",
+      "options": [
+        {
+          "text": "Sweet and soothing (especially of sounds)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Loud and annoying",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely silent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Rough and harsh",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "profuse",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Very abundant; given or flowing freely",
+      "options": [
+        {
+          "text": "Very abundant; given or flowing freely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very scarce and limited",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly enough, no more",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely empty",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "malevolent",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing a wish to do evil to others",
+      "options": [
+        {
+          "text": "Having or showing a wish to do evil to others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Wishing good for everyone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling indifferent about others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being helpful to strangers",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impromptu",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective/Adverb) Done without being planned or rehearsed",
+      "options": [
+        {
+          "text": "Done without being planned or rehearsed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Carefully planned for weeks",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Rehearsed many times",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Written down in detail",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "raiment",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) Clothing, garments",
+      "options": [
+        {
+          "text": "Clothing, garments",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Food and drinks",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Books and papers",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tools and equipment",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "wistful",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing a feeling of vague or regretful longing",
+      "options": [
+        {
+          "text": "Having or showing a feeling of vague or regretful longing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling extremely happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being angry about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Showing excitement about the future",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "corpulent",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Fat, large or bulky of body",
+      "options": [
+        {
+          "text": "Fat, large or bulky of body",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very thin and skinny",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely tall",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Muscular and strong",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "brigand",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A member of a gang that robs people in forests or mountains",
+      "options": [
+        {
+          "text": "A member of a gang that robs people in forests or mountains",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A police officer who catches thieves",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A traveler exploring new places",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A farmer working in fields",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "raconteur",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A person who tells anecdotes or stories in a skillful way",
+      "options": [
+        {
+          "text": "A person who tells anecdotes or stories in a skillful way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who writes books silently",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who cannot speak",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who hates stories",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rail",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To complain or protest strongly and persistently",
+      "options": [
+        {
+          "text": "To complain or protest strongly and persistently",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise something happily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To accept something quietly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore a problem",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rift",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A serious break in friendly relations",
+      "options": [
+        {
+          "text": "A serious break in friendly relations",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A strong friendship bond",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small misunderstanding",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A happy reunion",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sullen",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Bad-tempered and sulky; gloomy",
+      "options": [
+        {
+          "text": "Bad-tempered and sulky; gloomy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Cheerful and happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Excited and energetic",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Calm and peaceful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ruminate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To think deeply about something",
+      "options": [
+        {
+          "text": "To think deeply about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To speak without thinking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To act quickly without thought",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "emissary",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A person sent on a special mission, usually as a diplomatic representative",
+      "options": [
+        {
+          "text": "A person sent on a special mission, usually as a diplomatic representative",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who stays in one place",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who ignores problems",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who creates conflicts",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

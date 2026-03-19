@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 501-520)",
+  "description": "Test your knowledge of words 501 to 520",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "jurisdiction",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) The official power to make legal decisions and judgments",
+      "options": [
+        {
+          "text": "The official power to make legal decisions and judgments",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great happiness and excitement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To cause trouble or problems repeatedly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small fight or argument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "reprehensible",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Deserving criticism or blame; very bad or unacceptable",
+      "options": [
+        {
+          "text": "Deserving criticism or blame; very bad or unacceptable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very large and impressive in size",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Done without any reason or plan",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To prevent or block something from happening",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "harass",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To trouble or annoy someone repeatedly",
+      "options": [
+        {
+          "text": "To trouble or annoy someone repeatedly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To know or be aware of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To end or stop something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To go back to a previous condition",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "skirmish",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) A short, small fight or argument",
+      "options": [
+        {
+          "text": "A short, small fight or argument",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The official power to make legal decisions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very poor and lacking basic necessities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A place of safety or protection",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "arbitrary",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Based on random choice or personal whim, not on reason or plan",
+      "options": [
+        {
+          "text": "Based on random choice or personal whim, not on reason or plan",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Deserving criticism or blame",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very large and impressive in size",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To know or be aware of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "monolithic",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Very large, solid, and impressive; seeming to be a single massive structure",
+      "options": [
+        {
+          "text": "Very large, solid, and impressive; seeming to be a single massive structure",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To cause trouble repeatedly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very thin and weak from lack of food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sudden and strong increase",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fray",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb/Noun) To become worn at the edges; to become strained or tense",
+      "options": [
+        {
+          "text": "To become worn at the edges; to become strained or tense",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To know or be aware of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To end or stop something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A place of safety or protection",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "indigent",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Very poor; lacking basic necessities of life",
+      "options": [
+        {
+          "text": "Very poor; lacking basic necessities of life",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on random choice without reason",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Deserving criticism or blame",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To prevent or block something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "effigy",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A statue or model of a person, often one that is destroyed in protest",
+      "options": [
+        {
+          "text": "A statue or model of a person, often one that is destroyed in protest",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The official power to make legal decisions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A short, small fight or argument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To know or be aware of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stymie",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To prevent or block something from happening or progressing",
+      "options": [
+        {
+          "text": "To prevent or block something from happening or progressing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To cause trouble or annoy repeatedly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To end or stop something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To go back to a previous condition",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cognizant",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Having knowledge or awareness of something",
+      "options": [
+        {
+          "text": "Having knowledge or awareness of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very poor and lacking basic necessities",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Based on random choice without reason",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very large and impressive in size",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "flout",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To openly disregard or show contempt for rules, laws, or conventions",
+      "options": [
+        {
+          "text": "To openly disregard or show contempt for rules, laws, or conventions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To know or be aware of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To prevent or block something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To end or stop something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "terminate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To bring to an end; to stop completely",
+      "options": [
+        {
+          "text": "To bring to an end; to stop completely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To cause trouble or annoy repeatedly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To know or be aware of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To go back to a previous condition",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "turbulent",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Characterized by conflict, disorder, or confusion; not stable or calm",
+      "options": [
+        {
+          "text": "Characterized by conflict, disorder, or confusion; not stable or calm",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on random choice without reason",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very poor and lacking basic necessities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very thin and weak from lack of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "forthwith",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adverb) Immediately; without delay",
+      "options": [
+        {
+          "text": "Immediately; without delay",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To know or be aware of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To prevent or block something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To openly disregard rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "oust",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To force someone out of a position or place",
+      "options": [
+        {
+          "text": "To force someone out of a position or place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To bring to an end; to stop completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To go back to a previous condition",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To cause trouble repeatedly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "revert",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To return to a previous state, condition, or practice",
+      "options": [
+        {
+          "text": "To return to a previous state, condition, or practice",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To know or be aware of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To prevent or block something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To openly disregard rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "surge",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun/Verb) A sudden and strong increase or rush",
+      "options": [
+        {
+          "text": "A sudden and strong increase or rush",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A place of safety or protection",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A statue or model of a person",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A short, small fight or argument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "emaciated",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Very thin and weak from lack of food or illness",
+      "options": [
+        {
+          "text": "Very thin and weak from lack of food or illness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on random choice without reason",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Characterized by conflict and disorder",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very large and impressive in size",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sanctuary",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A place of safety or protection; a holy or sacred place",
+      "options": [
+        {
+          "text": "A place of safety or protection; a holy or sacred place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The official power to make legal decisions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A sudden and strong increase",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To bring to an end; to stop completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1501-1520)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "congenial",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Pleasant and friendly; suited to one's taste",
+      "options": [
+        {
+          "text": "Pleasant and friendly; suited to one's taste",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very angry and unfriendly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of food or drink",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely intelligent and wise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "aegis",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) Protection, support, or guidance of a particular person or organization",
+      "options": [
+        {
+          "text": "Protection, support, or guidance of a particular person or organization",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A large bird that flies very high",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of extreme happiness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of ancient weapon",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sage",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun/Adjective) A very wise person, especially an elderly person",
+      "options": [
+        {
+          "text": "A very wise person, especially an elderly person",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of green plant used in cooking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A young and inexperienced person",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who tells funny jokes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "longevity",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) Long life; long existence or duration",
+      "options": [
+        {
+          "text": "Long life; long existence or duration",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very tall in height",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having great physical strength",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The ability to run very fast",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "detriment",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) Something that causes damage, harm, or loss",
+      "options": [
+        {
+          "text": "Something that causes damage, harm, or loss",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that helps you succeed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of medicine that makes you feel better",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A special gift or present",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "virile",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Having strength, energy, and a strong masculine character",
+      "options": [
+        {
+          "text": "Having strength, energy, and a strong masculine character",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very quiet and shy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having artistic talent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very intelligent and studious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imbibe",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To drink, especially alcoholic drinks; to absorb or take in ideas",
+      "options": [
+        {
+          "text": "To drink, especially alcoholic drinks; to absorb or take in ideas",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To write something down carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To jump up and down with excitement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean something very thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "doddering",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Shaky, unsteady, or trembling, especially because of old age",
+      "options": [
+        {
+          "text": "Shaky, unsteady, or trembling, especially because of old age",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Walking very quickly and energetically",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Dancing in a graceful way",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Running in a straight line",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "senile",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Showing a loss of mental ability in old age",
+      "options": [
+        {
+          "text": "Showing a loss of mental ability in old age",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very physically strong",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having excellent memory",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very young and energetic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prevalent",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Widespread in a particular area or at a particular time",
+      "options": [
+        {
+          "text": "Widespread in a particular area or at a particular time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very rare and hard to find",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely expensive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not important or significant",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lethargic",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Lacking energy; feeling sluggish or inactive",
+      "options": [
+        {
+          "text": "Lacking energy; feeling sluggish or inactive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of excitement and energy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very angry and upset",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely happy and joyful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "remiss",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Careless or negligent in doing what one should do",
+      "options": [
+        {
+          "text": "Careless or negligent in doing what one should do",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very careful and attentive",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely intelligent and clever",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Physically strong and athletic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "paramount",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) More important than anything else; supreme",
+      "options": [
+        {
+          "text": "More important than anything else; supreme",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Less important than other things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "About the same as everything else",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely unimportant",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rebuke",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb/Noun) To express sharp disapproval or criticism of someone",
+      "options": [
+        {
+          "text": "To express sharp disapproval or criticism of someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone highly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone with a task",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give someone a gift",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hostile",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Unfriendly; opposed; showing or feeling opposition",
+      "options": [
+        {
+          "text": "Unfriendly; opposed; showing or feeling opposition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very friendly and welcoming",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Indifferent or not caring",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely happy and cheerful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "evince",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To show or reveal a feeling, quality, or ability clearly",
+      "options": [
+        {
+          "text": "To show or reveal a feeling, quality, or ability clearly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hide or conceal something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To build something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "aversion",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A strong dislike or unwillingness to do something",
+      "options": [
+        {
+          "text": "A strong dislike or unwillingness to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A great liking or fondness for something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete indifference to something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A temporary interest in something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "superficial",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Existing or happening on the surface; not deep or serious",
+      "options": [
+        {
+          "text": "Existing or happening on the surface; not deep or serious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very deep and meaningful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely complicated and difficult",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely invisible",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vogue",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) The current fashion or popularity at a particular time",
+      "options": [
+        {
+          "text": "The current fashion or popularity at a particular time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of dance from France",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An old and outdated style",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A musical instrument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inevitable",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Certain to happen; unavoidable",
+      "options": [
+        {
+          "text": "Certain to happen; unavoidable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very unlikely to happen",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Possible but not certain",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely impossible",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

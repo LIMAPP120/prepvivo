@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 521-540)",
+  "description": "Test your knowledge of words 521 to 540",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "tranquil",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Peaceful, calm, and without disturbance",
+      "options": [
+        {
+          "text": "Peaceful, calm, and without disturbance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very loud and noisy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely bright and colorful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Moving very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "malnutrition",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) Poor health caused by not eating enough food or not eating the right foods",
+      "options": [
+        {
+          "text": "Poor health caused by not eating enough food or not eating the right foods",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Eating too much food at one time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exercising too much",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Drinking too much water",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ascend",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To go up, climb, or rise",
+      "options": [
+        {
+          "text": "To go up, climb, or rise",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To fall down suddenly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To walk sideways",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To swim underwater",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "besiege",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To surround a place with an army to capture it",
+      "options": [
+        {
+          "text": "To surround a place with an army to capture it",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help someone with their homework",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To clean a house thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To plant seeds in a garden",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "afflict",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To cause pain, suffering, or trouble to someone",
+      "options": [
+        {
+          "text": "To cause pain, suffering, or trouble to someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone very happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To give someone a gift",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To tell someone a joke",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sinister",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Suggesting that something bad or evil will happen",
+      "options": [
+        {
+          "text": "Suggesting that something bad or evil will happen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely funny and amusing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely normal and ordinary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "privation",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A state in which you don't have the things that are necessary for life",
+      "options": [
+        {
+          "text": "A state in which you don't have the things that are necessary for life",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having too much of everything",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being extremely wealthy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having perfect health",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "remote",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Far away from other places, houses, or people; distant",
+      "options": [
+        {
+          "text": "Far away from other places, houses, or people; distant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very close to the city center",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Crowded with many people",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely hot in temperature",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ubiquitous",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Seeming to be everywhere at the same time; very common",
+      "options": [
+        {
+          "text": "Seeming to be everywhere at the same time; very common",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very rare and difficult to find",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely expensive to buy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Only available in one place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "harbinger",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) Something that shows or warns that something else is coming",
+      "options": [
+        {
+          "text": "Something that shows or warns that something else is coming",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of boat that carries goods",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who fixes computers",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool used for gardening",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "thwart",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To stop someone from doing what they want to do",
+      "options": [
+        {
+          "text": "To stop someone from doing what they want to do",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help someone succeed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To give someone encouragement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone a new skill",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "excruciating",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Extremely painful; causing great mental pain or distress",
+      "options": [
+        {
+          "text": "Extremely painful; causing great mental pain or distress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very pleasant and enjoyable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Mildly uncomfortable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Slightly interesting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "malignant",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Very dangerous and likely to cause death; evil in nature",
+      "options": [
+        {
+          "text": "Very dangerous and likely to cause death; evil in nature",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very helpful and kind",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely harmless",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely funny",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "reverberating",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Echoing or repeating a sound again and again",
+      "options": [
+        {
+          "text": "Echoing or repeating a sound again and again",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely silent",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very soft and gentle",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Only heard once",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "respite",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A short period of rest or relief from something difficult or unpleasant",
+      "options": [
+        {
+          "text": "A short period of rest or relief from something difficult or unpleasant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very difficult challenge",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A permanent solution to a problem",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An unexpected problem",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "succumb",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To stop trying to resist something; to yield or give in",
+      "options": [
+        {
+          "text": "To stop trying to resist something; to yield or give in",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To fight strongly against something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To completely ignore something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To help someone with a task",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fretful",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Worried, anxious, or upset",
+      "options": [
+        {
+          "text": "Worried, anxious, or upset",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely happy and excited",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely calm and relaxed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very confident and sure",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extortion",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) Getting money from someone by using force or threats",
+      "options": [
+        {
+          "text": "Getting money from someone by using force or threats",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Earning money by working hard",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Giving money to charity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Saving money in a bank",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impresario",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A person who organizes and manages public entertainments, especially musical performances",
+      "options": [
+        {
+          "text": "A person who organizes and manages public entertainments, especially musical performances",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who fixes musical instruments",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A musician who plays many instruments",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who writes music",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "asset",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A useful or valuable thing, quality, or person",
+      "options": [
+        {
+          "text": "A useful or valuable thing, quality, or person",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A useless or broken item",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A temporary problem",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A minor inconvenience",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

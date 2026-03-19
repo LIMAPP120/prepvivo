@@ -1,0 +1,847 @@
+{
+  "title": "Vocabulary List 2 (Words 61-90)",
+  "description": "Test your knowledge of words 61 to 90",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Considerable",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) large in size, amount, or degree",
+      "options": [
+        {
+          "text": "very small or unimportant",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "large in size, amount, or degree",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to think carefully about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "able to be considered",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Consistent",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) always behaving or happening in a similar way",
+      "options": [
+        {
+          "text": "changing frequently",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "always behaving or happening in a similar way",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to exist at the same time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to make something stronger",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Constitute",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) to be or form something",
+      "options": [
+        {
+          "text": "to break something into pieces",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to be or form something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to follow rules strictly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to make something beautiful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Constrain",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) to limit or restrict someone or something",
+      "options": [
+        {
+          "text": "to help someone grow",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to make something stronger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to limit or restrict someone or something",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to build something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Construct",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) to build or make something",
+      "options": [
+        {
+          "text": "to destroy something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to think about an idea",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to build or make something",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to instruct someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Consult",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) to seek information or advice from someone",
+      "options": [
+        {
+          "text": "to ignore someone's advice",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to seek information or advice from someone",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to sell something to someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to result in something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Consume",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) to eat, drink, or use up something",
+      "options": [
+        {
+          "text": "to save for later use",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to produce something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to eat, drink, or use up something",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to think about carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Contact",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) to communicate with someone",
+      "options": [
+        {
+          "text": "to avoid someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to communicate with someone",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to contain something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to continue doing something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Contemporary",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) belonging to the present time; modern",
+      "options": [
+        {
+          "text": "very old or ancient",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "belonging to the present time; modern",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "temporary or short-lasting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "from a different country",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Context",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) the situation in which something happens",
+      "options": [
+        {
+          "text": "a type of text",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a competition",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the situation in which something happens",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "the content of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Contract",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) a written agreement that is legally binding",
+      "options": [
+        {
+          "text": "a written agreement that is legally binding",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to expand or grow larger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to attract someone's attention",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to contradict someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Contradict",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) to say the opposite of what someone else has said",
+      "options": [
+        {
+          "text": "to agree with someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to say the opposite of what someone else has said",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to predict the future",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to add more details",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Contribute",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) to give something, especially money or help",
+      "options": [
+        {
+          "text": "to take something away",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to give something, especially money or help",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to distribute something equally",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to attribute something to someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Controversy",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) disagreement, often involving many people",
+      "options": [
+        {
+          "text": "agreement among everyone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a type of verse in poetry",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "disagreement, often involving many people",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "a conversation between people",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Convene",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) to bring people together for a meeting",
+      "options": [
+        {
+          "text": "to prevent a meeting",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to bring people together for a meeting",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to invent something new",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to convert something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Converse",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) to have a conversation with someone",
+      "options": [
+        {
+          "text": "to write a poem",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to have a conversation with someone",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to change direction",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "the opposite of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Convert",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) to change something into a different form",
+      "options": [
+        {
+          "text": "to keep something the same",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to discover something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to change something into a different form",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to revert to an earlier state",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Cooperate",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) to work together with others",
+      "options": [
+        {
+          "text": "to work against someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to operate a machine",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to work together with others",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to coordinate activities",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Coordinate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) to organize different parts to work together",
+      "options": [
+        {
+          "text": "to organize different parts to work together",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to be in a lower position",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to donate something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to cooperate unwillingly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Correspond",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) to match or be similar to something",
+      "options": [
+        {
+          "text": "to be different from",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to respond to a letter",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to match or be similar to something",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to be correct about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Criteria",
+      "order": 21,
+      "points": 1,
+      "explanation": "(Noun) standards used to judge or decide something",
+      "options": [
+        {
+          "text": "critical comments",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "standards used to judge or decide something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "a type of test",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "criticism of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Crucial",
+      "order": 22,
+      "points": 1,
+      "explanation": "(Adjective) extremely important or necessary",
+      "options": [
+        {
+          "text": "not very important",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "extremely important or necessary",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "cruel or unkind",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "crude or rough",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Currency",
+      "order": 23,
+      "points": 1,
+      "explanation": "(Noun) the money used in a particular country",
+      "options": [
+        {
+          "text": "the current time",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a flow of water",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the money used in a particular country",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "something that is popular now",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Cycle",
+      "order": 24,
+      "points": 1,
+      "explanation": "(Noun) a series of events that repeat in the same order",
+      "options": [
+        {
+          "text": "a type of vehicle",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a series of events that repeat in the same order",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to go around in circles",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a circular object",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Data",
+      "order": 25,
+      "points": 1,
+      "explanation": "(Noun) facts or information used for analysis",
+      "options": [
+        {
+          "text": "a date on the calendar",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "facts or information used for analysis",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "a database system",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "day-to-day activities",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Debate",
+      "order": 26,
+      "points": 1,
+      "explanation": "(Noun) a formal discussion on a particular topic",
+      "options": [
+        {
+          "text": "to beat someone in a competition",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a formal discussion on a particular topic",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to doubt something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a type of bait used in fishing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Decade",
+      "order": 27,
+      "points": 1,
+      "explanation": "(Noun) a period of ten years",
+      "options": [
+        {
+          "text": "ten of something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "a period of ten years",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "to decay or rot",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a decision made by a group",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Decline",
+      "order": 28,
+      "points": 1,
+      "explanation": "(Verb) to become smaller, fewer, or less",
+      "options": [
+        {
+          "text": "to become smaller, fewer, or less",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to climb up something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to include something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to recline or lie down",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Dedicate",
+      "order": 29,
+      "points": 1,
+      "explanation": "(Verb) to devote time and effort to something",
+      "options": [
+        {
+          "text": "to remove something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to indicate something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to devote time and effort to something",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to educate someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Defend",
+      "order": 30,
+      "points": 1,
+      "explanation": "(Verb) to protect from harm or danger",
+      "options": [
+        {
+          "text": "to offend someone",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "to depend on something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to protect from harm or danger",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "to define something clearly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

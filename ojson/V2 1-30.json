@@ -1,0 +1,847 @@
+{
+  "title": "Vocabulary List 2 (Words 1-30)",
+  "description": "Test your knowledge of words 1 to 30",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Accomplish",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To successfully complete or achieve something",
+      "options": [
+        {
+          "text": "To successfully complete or achieve something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To fail at doing something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To start something but not finish",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To avoid doing work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Acknowledge",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To accept or admit the existence or truth of something",
+      "options": [
+        {
+          "text": "To accept or admit the existence or truth of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To deny that something happened",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Adapt",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To change or adjust to new conditions",
+      "options": [
+        {
+          "text": "To change or adjust to new conditions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stay exactly the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To resist all changes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make things more difficult",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Advance",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To move forward or make progress",
+      "options": [
+        {
+          "text": "To move forward or make progress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To go backward or lose ground",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stay in the same place",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To move sideways without progress",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Advocate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To publicly support or recommend a particular cause or policy",
+      "options": [
+        {
+          "text": "To publicly support or recommend a particular cause or policy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To oppose or fight against something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To remain neutral about an issue",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore important problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Alert",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Quick to notice any unusual and potentially dangerous or difficult circumstances",
+      "options": [
+        {
+          "text": "Quick to notice any unusual and potentially dangerous or difficult circumstances",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Sleepy and not paying attention",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Confused about what's happening",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetful and careless",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Allocate",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To distribute resources or duties for a particular purpose",
+      "options": [
+        {
+          "text": "To distribute resources or duties for a particular purpose",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To keep everything for yourself",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To waste resources carelessly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To refuse to share anything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Alternative",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) One of two or more available possibilities",
+      "options": [
+        {
+          "text": "One of two or more available possibilities",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The only option available",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that doesn't work",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A bad choice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ambition",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A strong desire to do or achieve something",
+      "options": [
+        {
+          "text": "A strong desire to do or achieve something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A lack of interest in success",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A fear of trying new things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Satisfaction with current situation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Anticipate",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To regard as probable; expect or predict",
+      "options": [
+        {
+          "text": "To regard as probable; expect or predict",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To be surprised by something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget about future events",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore warning signs",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Apparent",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Clearly visible or understood; obvious",
+      "options": [
+        {
+          "text": "Clearly visible or understood; obvious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Hidden and difficult to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Confusing and unclear",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely unknown",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Appreciate",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To recognize the full worth of; to be grateful for something",
+      "options": [
+        {
+          "text": "To recognize the full worth of; to be grateful for something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To criticize or find fault with",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or not notice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To take for granted",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Arbitrary",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Based on random choice or personal whim, rather than any reason or system",
+      "options": [
+        {
+          "text": "Based on random choice or personal whim, rather than any reason or system",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on careful reasoning",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Following a clear system",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Fair and equal for everyone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Argument",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A reason or set of reasons given in support of an idea, action, or theory",
+      "options": [
+        {
+          "text": "A reason or set of reasons given in support of an idea, action, or theory",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A fight or disagreement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A random thought without evidence",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling without reasons",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Aspect",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A particular part or feature of something",
+      "options": [
+        {
+          "text": "A particular part or feature of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The whole thing without details",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something unimportant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A mistake or error",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Assess",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To evaluate or estimate the nature, ability, or quality of",
+      "options": [
+        {
+          "text": "To evaluate or estimate the nature, ability, or quality of",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore or overlook something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something worse",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To guess without checking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Assist",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To help or support someone",
+      "options": [
+        {
+          "text": "To help or support someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hinder or make things difficult",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone's request for help",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To work completely alone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Assumption",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A thing that is accepted as true or as certain to happen, without proof",
+      "options": [
+        {
+          "text": "A thing that is accepted as true or as certain to happen, without proof",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A proven fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A detailed investigation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A logical conclusion with evidence",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Astonish",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To surprise or impress greatly",
+      "options": [
+        {
+          "text": "To surprise or impress greatly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To bore or disappoint",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make someone angry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To confuse completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Attain",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To succeed in achieving something that you have been trying to get or do",
+      "options": [
+        {
+          "text": "To succeed in achieving something that you have been trying to get or do",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To fail to reach a goal",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To give up on a dream",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To accidentally achieve something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Attribute",
+      "order": 21,
+      "points": 1,
+      "explanation": "(Noun) A quality or feature regarded as a characteristic or inherent part of someone or something",
+      "options": [
+        {
+          "text": "A quality or feature regarded as a characteristic or inherent part of someone or something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A temporary state or condition",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A negative quality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something that can be easily changed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Authorize",
+      "order": 22,
+      "points": 1,
+      "explanation": "(Verb) To give official permission for or approval to",
+      "options": [
+        {
+          "text": "To give official permission for or approval to",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To forbid or prohibit something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore a request",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To do something without permission",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Aware",
+      "order": 23,
+      "points": 1,
+      "explanation": "(Adjective) Having knowledge or perception of a situation or fact",
+      "options": [
+        {
+          "text": "Having knowledge or perception of a situation or fact",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely ignorant or unaware",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Guessing without certainty",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetting important information",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Barrier",
+      "order": 24,
+      "points": 1,
+      "explanation": "(Noun) A fence or other obstacle that prevents movement or access",
+      "options": [
+        {
+          "text": "A fence or other obstacle that prevents movement or access",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that helps movement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An open pathway",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool for making things easier",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Beneficial",
+      "order": 25,
+      "points": 1,
+      "explanation": "(Adjective) Favorable or advantageous; resulting in good",
+      "options": [
+        {
+          "text": "Favorable or advantageous; resulting in good",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Harmful or damaging",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having no effect",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making things worse",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Bias",
+      "order": 26,
+      "points": 1,
+      "explanation": "(Noun) Prejudice in favor of or against one thing, person, or group compared with another",
+      "options": [
+        {
+          "text": "Prejudice in favor of or against one thing, person, or group compared with another",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete fairness and objectivity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A random choice without preference",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A carefully considered opinion",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Brief",
+      "order": 27,
+      "points": 1,
+      "explanation": "(Adjective) Of short duration; concise in expression",
+      "options": [
+        {
+          "text": "Of short duration; concise in expression",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Long and detailed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Taking a very long time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complicated and confusing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Calculate",
+      "order": 28,
+      "points": 1,
+      "explanation": "(Verb) To determine mathematically; to compute",
+      "options": [
+        {
+          "text": "To determine mathematically; to compute",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To guess without numbers",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore mathematical facts",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make up numbers randomly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Candidate",
+      "order": 29,
+      "points": 1,
+      "explanation": "(Noun) A person who applies for a job or is nominated for election",
+      "options": [
+        {
+          "text": "A person who applies for a job or is nominated for election",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Someone who has already won",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who doesn't want the position",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Someone who is not qualified",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Capacity",
+      "order": 30,
+      "points": 1,
+      "explanation": "(Noun) The maximum amount that something can contain or produce",
+      "options": [
+        {
+          "text": "The maximum amount that something can contain or produce",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The minimum amount possible",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An empty space with nothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small unimportant amount",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

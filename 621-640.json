@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 621-640)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Relevant",
+      "points": 1,
+      "explanation": "(Adjective) closely connected or appropriate to what is being done or considered",
+      "options": [
+        {
+          "text": "closely connected or appropriate to what is being done or considered",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "not connected or related at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "completely off-topic",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "irrelevant and unimportant",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 1
+    },
+    {
+      "text": "Reluctance",
+      "points": 1,
+      "explanation": "(Noun) unwillingness or disinclination to do something",
+      "options": [
+        {
+          "text": "unwillingness or disinclination to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "great enthusiasm and eagerness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "immediate agreement without thinking",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "excitement about doing something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 2
+    },
+    {
+      "text": "Require",
+      "points": 1,
+      "explanation": "(Verb) to need for a particular purpose; to make necessary",
+      "options": [
+        {
+          "text": "to need for a particular purpose; to make necessary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to not need something at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to suggest but not need",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to refuse to use something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 3
+    },
+    {
+      "text": "Research",
+      "points": 1,
+      "explanation": "(Noun) the systematic investigation into and study of materials and sources",
+      "options": [
+        {
+          "text": "the systematic investigation into and study of materials and sources",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "guessing without checking facts",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "making up information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "ignoring evidence and facts",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 4
+    },
+    {
+      "text": "Reside",
+      "points": 1,
+      "explanation": "(Verb) to have one's permanent home in a particular place",
+      "options": [
+        {
+          "text": "to have one's permanent home in a particular place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to visit a place temporarily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to be homeless with no fixed address",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to travel constantly without staying",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 5
+    },
+    {
+      "text": "Resolve",
+      "points": 1,
+      "explanation": "(Verb) to settle or find a solution to a problem or dispute",
+      "options": [
+        {
+          "text": "to settle or find a solution to a problem or dispute",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make a problem worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore a problem completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to create new problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 6
+    },
+    {
+      "text": "Resource",
+      "points": 1,
+      "explanation": "(Noun) a stock or supply of materials or assets that can be drawn on",
+      "options": [
+        {
+          "text": "a stock or supply of materials or assets that can be drawn on",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "something useless and worthless",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "an empty place with nothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a problem that cannot be solved",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 7
+    },
+    {
+      "text": "Respond",
+      "points": 1,
+      "explanation": "(Verb) to say something in reply; to react to something",
+      "options": [
+        {
+          "text": "to say something in reply; to react to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to ignore completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to stay silent without reaction",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to pretend not to hear",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 8
+    },
+    {
+      "text": "Restore",
+      "points": 1,
+      "explanation": "(Verb) to bring back to a former condition; to return something",
+      "options": [
+        {
+          "text": "to bring back to a former condition; to return something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to damage or destroy completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to make something worse",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to leave something broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 9
+    },
+    {
+      "text": "Restrict",
+      "points": 1,
+      "explanation": "(Verb) to put a limit on; to keep under control",
+      "options": [
+        {
+          "text": "to put a limit on; to keep under control",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to allow complete freedom",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to encourage without limits",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to make everything available",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 10
+    },
+    {
+      "text": "Substitute",
+      "points": 1,
+      "explanation": "(Noun) A person or thing acting or serving in place of another",
+      "options": [
+        {
+          "text": "A person or thing acting or serving in place of another",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The original person or thing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something completely different",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool for measuring",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 11
+    },
+    {
+      "text": "Sufficient",
+      "points": 1,
+      "explanation": "(Adjective) Enough; adequate",
+      "options": [
+        {
+          "text": "Enough; adequate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not enough",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Too much",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The wrong type",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 12
+    },
+    {
+      "text": "Supplement",
+      "points": 1,
+      "explanation": "(Noun) Something added to complete a thing or make up for a deficiency",
+      "options": [
+        {
+          "text": "Something added to complete a thing or make up for a deficiency",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something taken away",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The main part",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something unnecessary",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 13
+    },
+    {
+      "text": "Sustain",
+      "points": 1,
+      "explanation": "(Verb) To strengthen or support physically or mentally",
+      "options": [
+        {
+          "text": "To strengthen or support physically or mentally",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To weaken or damage",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or neglect",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To finish quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 14
+    },
+    {
+      "text": "Symbol",
+      "points": 1,
+      "explanation": "(Noun) A mark or character used as a conventional representation of an object, function, or process",
+      "options": [
+        {
+          "text": "A mark or character used as a conventional representation of an object, function, or process",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random drawing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A real object",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A written story",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 15
+    },
+    {
+      "text": "Target",
+      "points": 1,
+      "explanation": "(Noun) A person, object, or place selected as the aim of an attack",
+      "options": [
+        {
+          "text": "A person, object, or place selected as the aim of an attack",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random choice",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something to avoid",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 16
+    },
+    {
+      "text": "Task",
+      "points": 1,
+      "explanation": "(Noun) A piece of work to be done or undertaken",
+      "options": [
+        {
+          "text": "A piece of work to be done or undertaken",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A game to play",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something to avoid",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 17
+    },
+    {
+      "text": "Technique",
+      "points": 1,
+      "explanation": "(Noun) A way of carrying out a particular task",
+      "options": [
+        {
+          "text": "A way of carrying out a particular task",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of machine",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A random attempt",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A lucky guess",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 18
+    },
+    {
+      "text": "Technology",
+      "points": 1,
+      "explanation": "(Noun) The application of scientific knowledge for practical purposes",
+      "options": [
+        {
+          "text": "The application of scientific knowledge for practical purposes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Old-fashioned methods",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Natural abilities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Artistic skills",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 99
+    },
+    {
+      "text": "Temporary",
+      "points": 1,
+      "explanation": "(Adjective) Lasting for only a limited period of time; not permanent",
+      "options": [
+        {
+          "text": "Lasting for only a limited period of time; not permanent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lasting forever",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very strong and durable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Never changing",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 20
+    }
+  ]
+}

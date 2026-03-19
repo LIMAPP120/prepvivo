@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1601-1620)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "jubilant",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or expressing great happiness and triumph",
+      "options": [
+        {
+          "text": "Feeling or expressing great happiness and triumph",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Relating to the countryside; simple and unsophisticated",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who falsely claims to have special knowledge or skill",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Acting with or showing care for the future; wise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rustic",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Relating to the countryside; simple, unsophisticated, or made in a plain style",
+      "options": [
+        {
+          "text": "Relating to the countryside; simple, unsophisticated, or made in a plain style",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling or expressing great happiness and triumph",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A belief or opinion that goes against official or established views",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Intensely enthusiastic or passionate",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "charlatan",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A person who falsely claims to have special knowledge or skill; a fraud",
+      "options": [
+        {
+          "text": "A person who falsely claims to have special knowledge or skill; a fraud",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Acting with or showing care for the future; wise",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A belief or opinion that goes against official or established views",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Appearing or claiming to be true but not necessarily so",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prudent",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Acting with or showing care for the future; wise and careful in practical matters",
+      "options": [
+        {
+          "text": "Acting with or showing care for the future; wise and careful in practical matters",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling or expressing great happiness and triumph",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Relating to the countryside; simple and unsophisticated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To spread and promote widely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "heresy",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A belief or opinion that goes against official or established views, especially in religion",
+      "options": [
+        {
+          "text": "A belief or opinion that goes against official or established views, especially in religion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Intensely enthusiastic or passionate",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Appearing or claiming to be true but not necessarily so",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To spread and promote widely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fervid",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Intensely enthusiastic or passionate; showing great emotion",
+      "options": [
+        {
+          "text": "Intensely enthusiastic or passionate; showing great emotion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not genuine; false or fake",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Harmless; not likely to offend or cause harm",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something that deviates from what is standard or normal",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ostensible",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Appearing or claiming to be true but not necessarily so; seeming rather than real",
+      "options": [
+        {
+          "text": "Appearing or claiming to be true but not necessarily so; seeming rather than real",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To spread and promote widely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Not genuine; false or fake",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Harmless; not likely to offend or cause harm",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "propagate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To spread and promote (an idea, theory, etc.) widely",
+      "options": [
+        {
+          "text": "To spread and promote (an idea, theory, etc.) widely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not genuine; false or fake",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Harmless; not likely to offend or cause harm",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something that deviates from what is standard or normal",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "spurious",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Not genuine, authentic, or true; false or fake",
+      "options": [
+        {
+          "text": "Not genuine, authentic, or true; false or fake",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Harmless; not likely to offend or cause harm",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that deviates from what is standard or normal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The social or cultural environment one lives in",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "innocuous",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Harmless; not likely to offend or cause harm",
+      "options": [
+        {
+          "text": "Harmless; not likely to offend or cause harm",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An excess or overabundance of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Naturally accompanying or associated with something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Loud, harsh, and grating in sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "anomaly",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) Something that deviates from what is standard, normal, or expected",
+      "options": [
+        {
+          "text": "Something that deviates from what is standard, normal, or expected",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The social or cultural environment one lives in",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An excess or overabundance of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Naturally accompanying or associated with something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "milieu",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) The social or cultural environment in which a person lives or operates",
+      "options": [
+        {
+          "text": "The social or cultural environment in which a person lives or operates",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An excess or overabundance of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Naturally accompanying or associated with something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Loud, harsh, and grating in sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "surfeit",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) An excess or overabundance of something; too much of something",
+      "options": [
+        {
+          "text": "An excess or overabundance of something; too much of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Naturally accompanying or associated with something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Loud, harsh, and grating in sound",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Causing harm or damage",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "concomitant",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Naturally accompanying or associated with something; occurring together",
+      "options": [
+        {
+          "text": "Naturally accompanying or associated with something; occurring together",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Loud, harsh, and grating in sound",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Causing harm or damage",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A state of physical or mental weariness; lack of energy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "strident",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Loud, harsh, and grating in sound; presenting a point of view in an extreme way",
+      "options": [
+        {
+          "text": "Loud, harsh, and grating in sound; presenting a point of view in an extreme way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Causing harm or damage",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A state of physical or mental weariness; lack of energy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The expression or holding of opinions at variance with those commonly held",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deleterious",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Causing harm or damage; having a harmful effect",
+      "options": [
+        {
+          "text": "Causing harm or damage; having a harmful effect",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A state of physical or mental weariness; lack of energy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The expression or holding of opinions at variance with those commonly held",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The ability to produce a desired or intended result",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lassitude",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A state of physical or mental weariness; lack of energy",
+      "options": [
+        {
+          "text": "A state of physical or mental weariness; lack of energy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The expression or holding of opinions at variance with those commonly held",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The ability to produce a desired or intended result",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Reduced in force, effect, or value; weakened",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dissent",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun/Verb) The expression or holding of opinions at variance with those commonly held",
+      "options": [
+        {
+          "text": "The expression or holding of opinions at variance with those commonly held",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The ability to produce a desired or intended result",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Reduced in force, effect, or value; weakened",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling or expressing great happiness and triumph",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "efficacy",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) The ability to produce a desired or intended result; effectiveness",
+      "options": [
+        {
+          "text": "The ability to produce a desired or intended result; effectiveness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Reduced in force, effect, or value; weakened",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Relating to the countryside; simple and unsophisticated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who falsely claims to have special knowledge or skill",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "attenuated",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Reduced in force, effect, or value; weakened or thinned",
+      "options": [
+        {
+          "text": "Reduced in force, effect, or value; weakened or thinned",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The ability to produce a desired or intended result",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The expression or holding of opinions at variance with those commonly held",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A state of physical or mental weariness; lack of energy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

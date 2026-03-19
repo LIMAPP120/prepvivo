@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1661-1680)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "vigil",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A period of keeping awake during the time usually spent asleep, especially to keep watch or pray",
+      "options": [
+        {
+          "text": "A period of keeping awake during the time usually spent asleep, especially to keep watch or pray",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very loud and noisy party",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of fast-moving vehicle",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A delicious dessert made with fruit",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "site",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A place where something is, was, or will be located; a location",
+      "options": [
+        {
+          "text": "A place where something is, was, or will be located; a location",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of food that is very spicy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of being very tired",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A special celebration for a birthday",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "interrogate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To ask questions of someone, especially formally and thoroughly",
+      "options": [
+        {
+          "text": "To ask questions of someone, especially formally and thoroughly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give someone a gift without any reason",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To sleep for a very long time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean a room very thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cumbersome",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Large, heavy, and difficult to carry or use; unwieldy",
+      "options": [
+        {
+          "text": "Large, heavy, and difficult to carry or use; unwieldy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and easy to carry",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making a pleasant musical sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fluctuate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To rise and fall irregularly in number or amount; to change frequently",
+      "options": [
+        {
+          "text": "To rise and fall irregularly in number or amount; to change frequently",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To remain exactly the same all the time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To become better and better continuously",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To move in a perfectly straight line",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "divulge",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To make known something private or secret; to reveal",
+      "options": [
+        {
+          "text": "To make known something private or secret; to reveal",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hide something very carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repair something that is broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "commodious",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Having plenty of room; spacious and comfortable",
+      "options": [
+        {
+          "text": "Having plenty of room; spacious and comfortable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and cramped",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely expensive and luxurious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and falling apart",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "unmitigated",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Complete and total; not lessened or reduced in any way",
+      "options": [
+        {
+          "text": "Complete and total; not lessened or reduced in any way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Only partly successful or effective",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very small and insignificant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Somewhat interesting but not exciting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "disheveled",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Untidy; disordered; messy in appearance",
+      "options": [
+        {
+          "text": "Untidy; disordered; messy in appearance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely clean and well-organized",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very fashionable and stylish",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely healthy and strong",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "antiquated",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Old-fashioned or outdated; belonging to an earlier period",
+      "options": [
+        {
+          "text": "Old-fashioned or outdated; belonging to an earlier period",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Brand new and modern",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely valuable and precious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very simple and basic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "facade",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) The front of a building, especially an imposing or decorative one; a false outward appearance",
+      "options": [
+        {
+          "text": "The front of a building, especially an imposing or decorative one; a false outward appearance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The back part of a house",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of delicious food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tenacious",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Holding tightly onto something; not easily giving up or letting go",
+      "options": [
+        {
+          "text": "Holding tightly onto something; not easily giving up or letting go",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very weak and easily broken",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Quick to give up when faced with challenges",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetful and absent-minded",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "grimace",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun/Verb) A twisted expression on a person's face, typically expressing disgust, pain, or wry amusement",
+      "options": [
+        {
+          "text": "A twisted expression on a person's face, typically expressing disgust, pain, or wry amusement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A big, happy smile showing all teeth",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A beautiful painting of a landscape",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A loud shout of excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "asinine",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Extremely stupid or foolish; silly",
+      "options": [
+        {
+          "text": "Extremely stupid or foolish; silly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely intelligent and wise",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very brave and courageous",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely kind and generous",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pittance",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A very small or inadequate amount of money paid to someone as an allowance or wage",
+      "options": [
+        {
+          "text": "A very small or inadequate amount of money paid to someone as an allowance or wage",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A large amount of money that makes someone rich",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of delicious dessert",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A special award for excellent work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "calumny",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A false statement made to damage someone's reputation; slander",
+      "options": [
+        {
+          "text": "A false statement made to damage someone's reputation; slander",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A true compliment that makes someone feel good",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A helpful piece of advice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An interesting story about someone's life",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fastidious",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Very attentive to and concerned about accuracy and detail; hard to please",
+      "options": [
+        {
+          "text": "Very attentive to and concerned about accuracy and detail; hard to please",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very messy and careless about details",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely lazy and unwilling to work",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very easy to please and satisfy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "unkempt",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Having an untidy or disheveled appearance; not properly maintained",
+      "options": [
+        {
+          "text": "Having an untidy or disheveled appearance; not properly maintained",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely neat and well-organized",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very fashionable and stylish",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Brand new and unused",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "noisome",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Having an extremely offensive smell; disgusting",
+      "options": [
+        {
+          "text": "Having an extremely offensive smell; disgusting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having a pleasant, sweet smell",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Making a beautiful musical sound",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely quiet and peaceful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "whimsical",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Playfully quaint or fanciful, especially in an appealing and amusing way",
+      "options": [
+        {
+          "text": "Playfully quaint or fanciful, especially in an appealing and amusing way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very serious and boring",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely angry and upset",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely realistic and practical",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

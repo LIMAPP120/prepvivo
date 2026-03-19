@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 41-60)",
+  "description": "Test your knowledge of words 41 to 60",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "abolish",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To officially end or stop something, especially a law or system",
+      "options": [
+        {
+          "text": "To officially end or stop something, especially a law or system",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To create or start something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To improve or make something better",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate or enjoy something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "premonition",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A feeling that something bad is going to happen in the future",
+      "options": [
+        {
+          "text": "A feeling that something bad is going to happen in the future",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A happy memory from the past",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A scientific fact or proof",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A surprise birthday party",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "predict",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To say what will happen before it actually happens",
+      "options": [
+        {
+          "text": "To say what will happen before it actually happens",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To remember what happened yesterday",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To explain why something happened",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To wish for something to happen",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "optimistic",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Hopeful and confident about the future; expecting good things",
+      "options": [
+        {
+          "text": "Hopeful and confident about the future; expecting good things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Worried and nervous about everything",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Angry about what happened",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetful about past events",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pessimistic",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Expecting bad things to happen; always seeing the negative side",
+      "options": [
+        {
+          "text": "Expecting bad things to happen; always seeing the negative side",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always happy and cheerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very energetic and active",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetful and careless",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "downbeat",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Not hopeful or enthusiastic; feeling sad or negative",
+      "options": [
+        {
+          "text": "Not hopeful or enthusiastic; feeling sad or negative",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very excited and happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of energy and life",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Confused and unsure",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gloomy",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Dark, dim, or depressing; causing sadness",
+      "options": [
+        {
+          "text": "Dark, dim, or depressing; causing sadness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Bright and sunny",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Colorful and beautiful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Loud and noisy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "forecast",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun/Verb) A prediction about what will happen, especially about weather",
+      "options": [
+        {
+          "text": "A prediction about what will happen, especially about weather",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A report about what happened yesterday",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A plan for a holiday trip",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A story from a book",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prognosticate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To predict or tell what will happen in the future",
+      "options": [
+        {
+          "text": "To predict or tell what will happen in the future",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To remember past events clearly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To explain current situations",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate recent successes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prophesy",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To say what will happen in the future, often as if by magic or divine inspiration",
+      "options": [
+        {
+          "text": "To say what will happen in the future, often as if by magic or divine inspiration",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To write about history",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To sing beautiful songs",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To draw pictures of nature",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "foresee",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To see or know something before it happens",
+      "options": [
+        {
+          "text": "To see or know something before it happens",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To forget what happened",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore what is happening",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To misunderstand instructions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "anticipate",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To expect something to happen and prepare for it",
+      "options": [
+        {
+          "text": "To expect something to happen and prepare for it",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To forget about an appointment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To be surprised by everything",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore warning signs",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "auspicious",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Showing signs of future success; favorable or promising",
+      "options": [
+        {
+          "text": "Showing signs of future success; favorable or promising",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Showing signs of failure or bad luck",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being completely average",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very confusing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inauspicious",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Not showing signs of future success; unfavorable or unpromising",
+      "options": [
+        {
+          "text": "Not showing signs of future success; unfavorable or unpromising",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of promise and hope",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very exciting and fun",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely ordinary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "autism",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A condition that affects how a person communicates and relates to others",
+      "options": [
+        {
+          "text": "A condition that affects how a person communicates and relates to others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of music or art",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A sport or physical activity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A food or cooking style",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "compassion",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A feeling of wanting to help someone who is suffering or in trouble",
+      "options": [
+        {
+          "text": "A feeling of wanting to help someone who is suffering or in trouble",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of anger towards someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of jealousy about others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of boredom during class",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sympathy",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) Feeling sorry for someone who is having problems",
+      "options": [
+        {
+          "text": "Feeling sorry for someone who is having problems",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling happy about someone's success",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling angry about unfairness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling excited about a party",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "empathy",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) Understanding and sharing the feelings of another person",
+      "options": [
+        {
+          "text": "Understanding and sharing the feelings of another person",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Ignoring other people's feelings",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Laughing at someone's mistakes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetting important dates",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pragmatic",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Dealing with problems in a practical way rather than following theories or ideas",
+      "options": [
+        {
+          "text": "Dealing with problems in a practical way rather than following theories or ideas",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Following dreams without any plan",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ignoring practical solutions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making things more complicated",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "procrastinate",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To delay or postpone doing something you should do",
+      "options": [
+        {
+          "text": "To delay or postpone doing something you should do",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To finish work quickly and early",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help others with their work",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To plan everything carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

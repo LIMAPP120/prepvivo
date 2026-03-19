@@ -1,0 +1,847 @@
+{
+  "title": "Vocabulary List 2 (Words 91-120)",
+  "description": "Test your knowledge of words 91 to 120",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "definite",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) clearly stated or decided; not vague or doubtful",
+      "options": [
+        {
+          "text": "clearly stated or decided; not vague or doubtful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "unclear and confusing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to guess without knowing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to change your mind often",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "demonstrate",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) to show clearly and deliberately; to prove or make clear by reasoning or evidence",
+      "options": [
+        {
+          "text": "to show clearly and deliberately; to prove or make clear by reasoning or evidence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to hide or keep secret",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to guess without proof",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget what you learned",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deny",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) to state that something is not true; to refuse to admit or accept something",
+      "options": [
+        {
+          "text": "to state that something is not true; to refuse to admit or accept something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to agree with someone completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to accept without question",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to tell everyone the truth",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "depict",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) to represent or show something in a picture, story, or other form",
+      "options": [
+        {
+          "text": "to represent or show something in a picture, story, or other form",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to hide or cover up something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to destroy a picture",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget a story",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deplete",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) to use up the supply or resources of; to reduce greatly",
+      "options": [
+        {
+          "text": "to use up the supply or resources of; to reduce greatly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to add more to something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to save for later use",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to keep everything the same",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "derive",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) to obtain something from a specified source; to come from",
+      "options": [
+        {
+          "text": "to obtain something from a specified source; to come from",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to give something away",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to forget where something came from",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to create something new from nothing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "despite",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Preposition) without being affected by; in spite of",
+      "options": [
+        {
+          "text": "without being affected by; in spite of",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "because of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "as a result of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "together with something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "detect",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) to discover or identify the presence or existence of something",
+      "options": [
+        {
+          "text": "to discover or identify the presence or existence of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to hide something carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore something on purpose",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "determine",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) to firmly decide; to ascertain or establish exactly",
+      "options": [
+        {
+          "text": "to firmly decide; to ascertain or establish exactly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to guess without thinking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to change your mind often",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to ignore important facts",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deviate",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) to depart from an established course or standard",
+      "options": [
+        {
+          "text": "to depart from an established course or standard",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to stay exactly on course",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to follow rules strictly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to never change direction",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "devise",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) to plan or invent by careful thought",
+      "options": [
+        {
+          "text": "to plan or invent by careful thought",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to copy from someone else",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to do something without planning",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget your plans",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dimension",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) a measurable extent of a particular kind, such as length, breadth, or height",
+      "options": [
+        {
+          "text": "a measurable extent of a particular kind, such as length, breadth, or height",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a color or pattern",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a feeling or emotion",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a sound or noise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "diminish",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) to make or become less; to reduce in size, importance, or intensity",
+      "options": [
+        {
+          "text": "to make or become less; to reduce in size, importance, or intensity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make something bigger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to increase in importance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to stay exactly the same",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "discriminate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) to recognize a distinction; to differentiate; to treat someone differently based on group characteristics",
+      "options": [
+        {
+          "text": "to recognize a distinction; to differentiate; to treat someone differently based on group characteristics",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to treat everyone exactly the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore all differences",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to mix everything together",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "distinct",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) recognizably different in nature from something else; clear and definite",
+      "options": [
+        {
+          "text": "recognizably different in nature from something else; clear and definite",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "exactly the same as something else",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "unclear and confusing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "mixed together with other things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "diverse",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) showing a great deal of variety; very different",
+      "options": [
+        {
+          "text": "showing a great deal of variety; very different",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "all exactly the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "only one type or kind",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "simple and plain",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "document",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) to record something in written, photographic, or other form",
+      "options": [
+        {
+          "text": "to record something in written, photographic, or other form",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to forget or lose information",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to hide or destroy records",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to guess without writing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "domestic",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) relating to the running of a home or to family relations; existing or occurring inside a particular country",
+      "options": [
+        {
+          "text": "relating to the running of a home or to family relations; existing or occurring inside a particular country",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "from foreign countries",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "wild and untamed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "related to outer space",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dominate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) to have a commanding influence on; to exercise control over",
+      "options": [
+        {
+          "text": "to have a commanding influence on; to exercise control over",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to have no influence at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to follow others' decisions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to stay quiet and unnoticed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "duration",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) the time during which something continues",
+      "options": [
+        {
+          "text": "the time during which something continues",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "the quality of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the color of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "the location of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dynamic",
+      "order": 21,
+      "points": 1,
+      "explanation": "(Adjective) characterized by constant change, activity, or progress",
+      "options": [
+        {
+          "text": "characterized by constant change, activity, or progress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "always staying the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "boring and inactive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "simple and unchanging",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "economy",
+      "order": 22,
+      "points": 1,
+      "explanation": "(Noun) the system by which goods and services are produced, sold, and bought in a country or region",
+      "options": [
+        {
+          "text": "the system by which goods and services are produced, sold, and bought in a country or region",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a type of food",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a style of clothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a method of transportation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "efficient",
+      "order": 23,
+      "points": 1,
+      "explanation": "(Adjective) achieving maximum productivity with minimum wasted effort or expense",
+      "options": [
+        {
+          "text": "achieving maximum productivity with minimum wasted effort or expense",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "wasting time and resources",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "working slowly and carelessly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "making many mistakes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "elaborate",
+      "order": 24,
+      "points": 1,
+      "explanation": "(Adjective) involving many carefully arranged parts; detailed and complicated",
+      "options": [
+        {
+          "text": "involving many carefully arranged parts; detailed and complicated",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "simple and basic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "quick and easy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "plain and unadorned",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "eliminate",
+      "order": 25,
+      "points": 1,
+      "explanation": "(Verb) to completely remove or get rid of something",
+      "options": [
+        {
+          "text": "to completely remove or get rid of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to add more of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to keep everything as it is",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to hide something temporarily",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "emphasize",
+      "order": 26,
+      "points": 1,
+      "explanation": "(Verb) to give special importance or prominence to something",
+      "options": [
+        {
+          "text": "to give special importance or prominence to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to ignore or overlook something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to make something less important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "enable",
+      "order": 27,
+      "points": 1,
+      "explanation": "(Verb) to give someone the ability or means to do something",
+      "options": [
+        {
+          "text": "to give someone the ability or means to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to stop someone from doing something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to make things more difficult",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to take away someone's ability",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "encounter",
+      "order": 28,
+      "points": 1,
+      "explanation": "(Verb) to unexpectedly experience or be faced with something",
+      "options": [
+        {
+          "text": "to unexpectedly experience or be faced with something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to avoid meeting someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to plan something carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget about an experience",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "enhance",
+      "order": 29,
+      "points": 1,
+      "explanation": "(Verb) to intensify, increase, or further improve the quality or value of something",
+      "options": [
+        {
+          "text": "to intensify, increase, or further improve the quality or value of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make something worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to reduce the quality of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to keep something the same",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "enormous",
+      "order": 30,
+      "points": 1,
+      "explanation": "(Adjective) very large in size, quantity, or extent",
+      "options": [
+        {
+          "text": "very large in size, quantity, or extent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "very small and tiny",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "medium in size",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "ordinary and average",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

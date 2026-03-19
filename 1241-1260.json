@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1241-1260)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "ilk",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A type or kind of person or thing",
+      "options": [
+        {
+          "text": "A type or kind of person or thing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of dairy product",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of illness or discomfort",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sudden, sharp movement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "integral",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Necessary and important as a part of a whole",
+      "options": [
+        {
+          "text": "Necessary and important as a part of a whole",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not connected or related",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent and mathematical",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having to do with international relations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "placard",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A large, printed notice or sign, usually displayed in a public place",
+      "options": [
+        {
+          "text": "A large, printed notice or sign, usually displayed in a public place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A comfortable place to sit or rest",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of plastic material",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A card used for playing games",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nominal",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Existing in name only; very small in amount compared to what is expected",
+      "options": [
+        {
+          "text": "Existing in name only; very small in amount compared to what is expected",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having a famous or well-known name",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Relating to money and finances",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very large and impressive",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "remuneration",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) Money paid for work or a service",
+      "options": [
+        {
+          "text": "Money paid for work or a service",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A reminder to do something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A measurement of time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "flamboyant",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Very showy, colorful, or confident in a way that attracts attention",
+      "options": [
+        {
+          "text": "Very showy, colorful, or confident in a way that attracts attention",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Able to burst into flames easily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very quiet and shy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Related to cooking with flames",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "expunge",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To completely remove or erase something",
+      "options": [
+        {
+          "text": "To completely remove or erase something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To punish someone severely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To expand or grow larger",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To study something in detail",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "schism",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A division or split between strongly opposed groups, especially within a religious organization",
+      "options": [
+        {
+          "text": "A division or split between strongly opposed groups, especially within a religious organization",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of skin condition",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A scientific theory about earthquakes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A system of writing or symbols",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "anathema",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Something or someone that is strongly disliked or opposed",
+      "options": [
+        {
+          "text": "Something or someone that is strongly disliked or opposed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of tropical fruit",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A mathematical formula",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sacred object in a church",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "timorous",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Showing or suffering from nervousness or a lack of confidence",
+      "options": [
+        {
+          "text": "Showing or suffering from nervousness or a lack of confidence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very punctual and on time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a good sense of timing in music",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very brave and courageous",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "utopia",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) An imaginary place or society where everything is perfect",
+      "options": [
+        {
+          "text": "An imaginary place or society where everything is perfect",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A musical instrument from South America",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of tropical climate",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A scientific discovery",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "jaunty",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Having a lively, cheerful, and self-confident manner",
+      "options": [
+        {
+          "text": "Having a lively, cheerful, and self-confident manner",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling tired and sleepy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very serious and solemn",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Related to January or winter",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "truncated",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Shortened by cutting off the top or end",
+      "options": [
+        {
+          "text": "Shortened by cutting off the top or end",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Made longer or extended",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a triangular shape",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very truthful and honest",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ostentatious",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Characterized by vulgar or pretentious display; designed to impress or attract notice",
+      "options": [
+        {
+          "text": "Characterized by vulgar or pretentious display; designed to impress or attract notice",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very modest and humble",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Related to bones and skeletons",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having a strong, pleasant smell",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fractious",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Irritable and quarrelsome; difficult to control",
+      "options": [
+        {
+          "text": "Irritable and quarrelsome; difficult to control",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easily broken into pieces",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very friendly and cooperative",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Mathematically precise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incontrovertible",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Not able to be denied or disputed; definitely true",
+      "options": [
+        {
+          "text": "Not able to be denied or disputed; definitely true",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Open to different interpretations",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Difficult to understand",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Able to be converted to another form",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "importune",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To ask someone repeatedly and annoyingly for something",
+      "options": [
+        {
+          "text": "To ask someone repeatedly and annoyingly for something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To bring goods into a country from abroad",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To have great importance or significance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To travel to a foreign country",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "haven",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A safe or peaceful place",
+      "options": [
+        {
+          "text": "A safe or peaceful place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A place where ships dock",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of grain used for making bread",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A large bird of prey",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "surreptitious",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Done secretly or stealthily to avoid being noticed",
+      "options": [
+        {
+          "text": "Done secretly or stealthily to avoid being noticed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very obvious and open",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Relating to surprise parties",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happening on the surface only",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ultimate",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Being or happening at the end of a process; final; the best or most extreme example",
+      "options": [
+        {
+          "text": "Being or happening at the end of a process; final; the best or most extreme example",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Happening first or at the beginning",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very small and insignificant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happening occasionally or sometimes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

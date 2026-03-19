@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 441-460)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "isolate",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) to separate from other people or things",
+      "options": [
+        {
+          "text": "to separate from other people or things",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to join together with others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to communicate with many people",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to share things with friends",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "justify",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) to show or prove to be right or reasonable",
+      "options": [
+        {
+          "text": "to show or prove to be right or reasonable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make something wrong or bad",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore the reasons",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to create problems without reasons",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "layer",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) a sheet, quantity, or thickness of material covering a surface",
+      "options": [
+        {
+          "text": "a sheet, quantity, or thickness of material covering a surface",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a single flat surface with nothing on it",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a type of machine or tool",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a liquid without any thickness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lecture",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) an educational talk to an audience",
+      "options": [
+        {
+          "text": "an educational talk to an audience",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a short conversation between friends",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a written letter to someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a silent movie without words",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "legal",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) related to the law; allowed by law",
+      "options": [
+        {
+          "text": "related to the law; allowed by law",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "against the law; not allowed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "not important or serious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "related to personal feelings only",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "levy",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) to impose or collect a tax, fee, or fine",
+      "options": [
+        {
+          "text": "to impose or collect a tax, fee, or fine",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to give away money for free",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to refuse to pay any money",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to save money in a bank",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "liberal",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) willing to respect or accept behavior or opinions different from one's own",
+      "options": [
+        {
+          "text": "willing to respect or accept behavior or opinions different from one's own",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "strict and unwilling to accept differences",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "always following old traditions exactly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "not caring about others' opinions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "license",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) a permit from an authority to own, use, or do something",
+      "options": [
+        {
+          "text": "a permit from an authority to own, use, or do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a type of vehicle or car",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a personal opinion or feeling",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "an illegal activity or action",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "likewise",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adverb) in the same way; also",
+      "options": [
+        {
+          "text": "in the same way; also",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "in a completely different way",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "never or not at all",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "only sometimes but not always",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "logic",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) reasoning conducted according to strict principles",
+      "options": [
+        {
+          "text": "reasoning conducted according to strict principles",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "random guessing without thinking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "emotional feelings without reason",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "making decisions based only on luck",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "maintain",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) to keep in an existing state; to preserve",
+      "options": [
+        {
+          "text": "to keep in an existing state; to preserve",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to destroy or break completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore or forget about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to change something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mechanism",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) a system of parts working together",
+      "options": [
+        {
+          "text": "a system of parts working together",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a single piece without connections",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a random collection of things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a simple idea without details",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "medium",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun/Adjective) an agency or means of doing something; a middle state",
+      "options": [
+        {
+          "text": "an agency or means of doing something; a middle state",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "the highest or maximum level",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the lowest or minimum level",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "something that doesn't work at all",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mental",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) relating to the mind",
+      "options": [
+        {
+          "text": "relating to the mind",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "relating to physical strength only",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "about machines and technology",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "connected to food and eating",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "method",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) a particular way of doing something",
+      "options": [
+        {
+          "text": "a particular way of doing something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a random action without planning",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a mistake or error in doing something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "doing nothing at all",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "minimize",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) to reduce to the smallest possible amount or degree",
+      "options": [
+        {
+          "text": "to reduce to the smallest possible amount or degree",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to increase or make larger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to keep exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to ignore completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "monitor",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) to observe and check the progress or quality over time",
+      "options": [
+        {
+          "text": "to observe and check the progress or quality over time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to ignore or not pay attention",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to participate actively in an activity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to forget about something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mutual",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) experienced or done by each of two or more parties toward the other",
+      "options": [
+        {
+          "text": "experienced or done by each of two or more parties toward the other",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "felt by only one person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "not shared with anyone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "against each other or opposed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "network",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) an interconnected system; a group of people who exchange information",
+      "options": [
+        {
+          "text": "an interconnected system; a group of people who exchange information",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a single isolated computer or person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a disconnected group with no communication",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a secret that no one shares",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "neutral",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) not supporting either side in a conflict or disagreement",
+      "options": [
+        {
+          "text": "not supporting either side in a conflict or disagreement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "strongly supporting one side only",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "changing sides frequently",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "creating conflict between sides",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

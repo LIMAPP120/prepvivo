@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1561-1580)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "irrational",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Not based on reason, logic, or clear thinking",
+      "options": [
+        {
+          "text": "Not based on reason, logic, or clear thinking",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Showing great respect and admiration",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Always wanting more, never satisfied",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having extreme greed for wealth",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "revere",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To feel deep respect or admiration for something or someone",
+      "options": [
+        {
+          "text": "To feel deep respect or admiration for something or someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something less severe or painful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To encourage someone strongly to do something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To feel annoyed or resentful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "insatiable",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Impossible to satisfy; always wanting more",
+      "options": [
+        {
+          "text": "Impossible to satisfy; always wanting more",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very lazy and unwilling to work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Dying or coming to an end",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Common and boring, lacking originality",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "avarice",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) Extreme greed for wealth or material gain",
+      "options": [
+        {
+          "text": "Extreme greed for wealth or material gain",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great enthusiasm and enjoyment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A noisy quarrel or fight",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Lack of interest, enthusiasm, or concern",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "moribund",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Dying, coming to an end, or losing effectiveness",
+      "options": [
+        {
+          "text": "Dying, coming to an end, or losing effectiveness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very thin, graceful, and flexible",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely happy and joyful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very fat or overweight in an unhealthy way",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nadir",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) The lowest point in the fortunes of a person or organization",
+      "options": [
+        {
+          "text": "The lowest point in the fortunes of a person or organization",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The highest point of achievement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A rough or noisy fight in a public place",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Great enthusiasm and enjoyment",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obese",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Very fat or overweight in an unhealthy way",
+      "options": [
+        {
+          "text": "Very fat or overweight in an unhealthy way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very thin, graceful, and flexible",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely happy and joyful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Dying or coming to an end",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lithe",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Thin, graceful, and flexible in movement",
+      "options": [
+        {
+          "text": "Thin, graceful, and flexible in movement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very fat or overweight",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely greedy for money",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very lazy and unwilling to work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bliss",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Perfect happiness or great joy",
+      "options": [
+        {
+          "text": "Perfect happiness or great joy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of annoyance or resentment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Lack of interest or concern",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A noisy quarrel or fight",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "adherent",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) Someone who supports a particular person, party, or set of ideas",
+      "options": [
+        {
+          "text": "Someone who supports a particular person, party, or set of ideas",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An enemy or opponent",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Someone who talks a lot",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Someone who is very lazy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exhort",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To strongly encourage or urge someone to do something",
+      "options": [
+        {
+          "text": "To strongly encourage or urge someone to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To feel deep respect for someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To pretend to feel something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pathetic",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Causing feelings of sadness, sympathy, or pity",
+      "options": [
+        {
+          "text": "Causing feelings of sadness, sympathy, or pity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely impressive or beautiful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very fat or overweight",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Thin, graceful, and flexible",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fracas",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A noisy disturbance or quarrel; a small fight",
+      "options": [
+        {
+          "text": "A noisy disturbance or quarrel; a small fight",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Perfect happiness or great joy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The lowest point in someone's life",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extreme greed for money",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "apathy",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) Lack of interest, enthusiasm, or concern",
+      "options": [
+        {
+          "text": "Lack of interest, enthusiasm, or concern",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great enthusiasm and enjoyment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of annoyance or resentment",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extreme greed for wealth",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "adversary",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) An enemy, opponent, or someone you compete against",
+      "options": [
+        {
+          "text": "An enemy, opponent, or someone you compete against",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Someone who supports a person or idea",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Someone who talks a lot",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Someone who is very lazy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gusto",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) Great enthusiasm, energy, and enjoyment in doing something",
+      "options": [
+        {
+          "text": "Great enthusiasm, energy, and enjoyment in doing something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lack of interest or concern",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of annoyance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The lowest point in life",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "indolent",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Lazy; wanting to avoid activity or exertion",
+      "options": [
+        {
+          "text": "Lazy; wanting to avoid activity or exertion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always wanting more, never satisfied",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Thin, graceful, and flexible",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Common and boring, lacking originality",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "banal",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Common, boring, and lacking originality; ordinary",
+      "options": [
+        {
+          "text": "Common, boring, and lacking originality; ordinary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Causing feelings of sadness or pity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very fat or overweight",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Dying or coming to an end",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "garrulous",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Excessively talkative, especially about unimportant matters",
+      "options": [
+        {
+          "text": "Excessively talkative, especially about unimportant matters",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lazy and unwilling to work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very thin, graceful, and flexible",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Showing great respect and admiration",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pique",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A feeling of annoyance or resentment, especially from wounded pride",
+      "options": [
+        {
+          "text": "A feeling of annoyance or resentment, especially from wounded pride",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Perfect happiness or great joy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Great enthusiasm and enjoyment",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Lack of interest or concern",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1821-1840)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Vengeance",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) Punishment inflicted or retribution exacted for an injury or wrong.",
+      "options": [
+        {
+          "text": "Punishment inflicted or retribution exacted for an injury or wrong.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Forgiveness and understanding.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A friendly competition.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A random act of kindness.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Verify",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To make sure or demonstrate that something is true, accurate, or justified.",
+      "options": [
+        {
+          "text": "To make sure or demonstrate that something is true, accurate, or justified.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To guess without evidence.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore the facts.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something false.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Versatile",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Able to adapt or be adapted to many different functions or activities.",
+      "options": [
+        {
+          "text": "Able to adapt or be adapted to many different functions or activities.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Only good for one specific purpose.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Difficult to use or understand.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not suitable for any task.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Vivid",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Producing powerful feelings or strong, clear images in the mind.",
+      "options": [
+        {
+          "text": "Producing powerful feelings or strong, clear images in the mind.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Dull and uninteresting.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Hard to remember or picture.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Confusing and unclear.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Vulnerable",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Susceptible to physical or emotional attack or harm.",
+      "options": [
+        {
+          "text": "Susceptible to physical or emotional attack or harm.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely protected and safe.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Strong and invincible.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Unable to be hurt in any way.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Wander",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To walk or move in a leisurely, casual, or aimless way.",
+      "options": [
+        {
+          "text": "To walk or move in a leisurely, casual, or aimless way.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To move quickly with purpose.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stay in one place without moving.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To follow a strict path.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Weary",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing extreme tiredness, especially as a result of excessive exertion.",
+      "options": [
+        {
+          "text": "Feeling or showing extreme tiredness, especially as a result of excessive exertion.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of energy and enthusiasm.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely rested and refreshed.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Excited and eager to begin.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Wholesome",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Conducive to or suggestive of good health and physical well-being.",
+      "options": [
+        {
+          "text": "Conducive to or suggestive of good health and physical well-being.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Harmful to health or morals.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Unhealthy and damaging.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Dangerous and risky.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Widespread",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Found or distributed over a large area or number of people.",
+      "options": [
+        {
+          "text": "Found or distributed over a large area or number of people.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Limited to a small area.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Known only to a few people.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Secret and hidden.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Witty",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Showing or characterized by quick and inventive verbal humor.",
+      "options": [
+        {
+          "text": "Showing or characterized by quick and inventive verbal humor.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Serious and humorless.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Boring and uninteresting.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Unable to understand jokes.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Withhold",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To refuse to give something that is due or desired.",
+      "options": [
+        {
+          "text": "To refuse to give something that is due or desired.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give generously without hesitation.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To offer more than expected.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To share everything freely.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Wreck",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To destroy or severely damage something.",
+      "options": [
+        {
+          "text": "To destroy or severely damage something.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To build or create something new.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To repair and improve something.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To protect from harm.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Yearn",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To have an intense feeling of longing for something, typically something that one has lost or been separated from.",
+      "options": [
+        {
+          "text": "To have an intense feeling of longing for something, typically something that one has lost or been separated from.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To feel satisfied with what you have.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To dislike something intensely.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about the past.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Yield",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To produce or provide (a natural, agricultural, or industrial product).",
+      "options": [
+        {
+          "text": "To produce or provide (a natural, agricultural, or industrial product).",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To consume or use up resources.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy what has been created.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To prevent something from happening.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Zealous",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing zeal; fervent, passionate.",
+      "options": [
+        {
+          "text": "Having or showing zeal; fervent, passionate.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not caring about anything.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Lazy and unmotivated.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Opposed to enthusiasm.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Zest",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) Great enthusiasm and energy.",
+      "options": [
+        {
+          "text": "Great enthusiasm and energy.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Boredom and lack of interest.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Sadness and depression.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Fear and anxiety.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Variable",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Likely to change or vary; not consistent or stable",
+      "options": [
+        {
+          "text": "Likely to change or vary; not consistent or stable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Predictable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Strong and unchanging",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Version",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A particular form of something differing in certain respects from an earlier form",
+      "options": [
+        {
+          "text": "A particular form of something differing in certain respects from an earlier form",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The original unchanged form",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A complete copy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Visible",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Able to be seen",
+      "options": [
+        {
+          "text": "Able to be seen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Hidden from view",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Impossible to see",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Only heard, not seen",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Visual",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Relating to seeing or sight",
+      "options": [
+        {
+          "text": "Relating to seeing or sight",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Relating to hearing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Relating to touch",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Relating to taste",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

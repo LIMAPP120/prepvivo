@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 261-280)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Prejudice",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A preconceived opinion that is not based on reason or actual experience",
+      "options": [
+        {
+          "text": "A preconceived opinion that is not based on reason or actual experience",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A carefully researched opinion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of friendship and acceptance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A fair judgment based on facts",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Primary",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Of chief importance; principal; first in order or time",
+      "options": [
+        {
+          "text": "Of chief importance; principal; first in order or time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not very important",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Coming last in a sequence",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Optional or extra",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Priority",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) Something that is more important than other things and should be dealt with first",
+      "options": [
+        {
+          "text": "Something that is more important than other things and should be dealt with first",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that can be ignored",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A task of little importance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An optional activity",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Productive",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Achieving or producing a significant amount or result",
+      "options": [
+        {
+          "text": "Achieving or producing a significant amount or result",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Wasting time and achieving nothing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being lazy and inactive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Creating problems instead of solutions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Proficient",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Competent or skilled in doing or using something",
+      "options": [
+        {
+          "text": "Competent or skilled in doing or using something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely unskilled at something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Just beginning to learn something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having no interest in learning",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Prohibit",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To formally forbid something by law, rule, or other authority",
+      "options": [
+        {
+          "text": "To formally forbid something by law, rule, or other authority",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To encourage or allow something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To suggest something as an option",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore a rule",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Prolong",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To extend the duration of; to make something last longer",
+      "options": [
+        {
+          "text": "To extend the duration of; to make something last longer",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something shorter",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To end something immediately",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Prosper",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To succeed in material terms; to be financially successful",
+      "options": [
+        {
+          "text": "To succeed in material terms; to be financially successful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To fail in business",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To lose money regularly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To struggle with finances",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Punctual",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Happening or doing something at the agreed or proper time",
+      "options": [
+        {
+          "text": "Happening or doing something at the agreed or proper time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always arriving late",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Never keeping to a schedule",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetting about time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Pursue",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To follow or chase someone or something; to continue or proceed along a path",
+      "options": [
+        {
+          "text": "To follow or chase someone or something; to continue or proceed along a path",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To avoid or run away from something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To give up on a goal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore an opportunity",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Radiant",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Sending out light; shining or glowing brightly",
+      "options": [
+        {
+          "text": "Sending out light; shining or glowing brightly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Dark and gloomy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Dull and colorless",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely black",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Reassure",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To say or do something to remove someone's doubts or fears",
+      "options": [
+        {
+          "text": "To say or do something to remove someone's doubts or fears",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone more worried",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone's concerns",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create new fears",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Rebellion",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) An act of violent or open resistance to an established government or ruler",
+      "options": [
+        {
+          "text": "An act of violent or open resistance to an established government or ruler",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete obedience to authority",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Peaceful agreement with rules",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Following instructions without question",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Recognize",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To identify someone or something from having encountered them before; to know again",
+      "options": [
+        {
+          "text": "To identify someone or something from having encountered them before; to know again",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To see something for the first time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget someone completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To mistake someone for another person",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Recommend",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To put forward with approval as being suitable for a particular purpose or role",
+      "options": [
+        {
+          "text": "To put forward with approval as being suitable for a particular purpose or role",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To warn someone against something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To criticize something harshly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forbid someone from doing something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Refine",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To remove impurities or unwanted elements from a substance; to improve something by making small changes",
+      "options": [
+        {
+          "text": "To remove impurities or unwanted elements from a substance; to improve something by making small changes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something worse in quality",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To add impurities to something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To leave something unchanged",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Reflect",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To throw back light, heat, or sound without absorbing it; to think deeply or carefully about",
+      "options": [
+        {
+          "text": "To throw back light, heat, or sound without absorbing it; to think deeply or carefully about",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To absorb all light and sound",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To act without thinking",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore what you see",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Refrain",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To stop oneself from doing something",
+      "options": [
+        {
+          "text": "To stop oneself from doing something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To continue doing something without stopping",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To encourage others to do something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget to do something important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Regret",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To feel sad, repentant, or disappointed over something that has happened or been done",
+      "options": [
+        {
+          "text": "To feel sad, repentant, or disappointed over something that has happened or been done",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To feel happy about a past decision",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To have no feelings about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate an achievement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Reinforce",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To strengthen or support, especially with additional personnel or material",
+      "options": [
+        {
+          "text": "To strengthen or support, especially with additional personnel or material",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To weaken or undermine something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To remove support from something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore something that needs help",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

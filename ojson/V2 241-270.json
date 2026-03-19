@@ -1,0 +1,847 @@
+{
+  "title": "Vocabulary List 2 (Words 241-270)",
+  "description": "Test your knowledge of words 241 to 270",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Promote",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) to help something to happen or develop; to move someone to a higher position",
+      "options": [
+        {
+          "text": "to help something to happen or develop; to move someone to a higher position",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make something worse or less successful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore or forget about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to stop something from happening",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Proportion",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) a part, share, or number considered in relation to a whole",
+      "options": [
+        {
+          "text": "a part, share, or number considered in relation to a whole",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "something that is completely separate",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the total amount without parts",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a random guess without calculation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Prospect",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) the possibility or likelihood of some future event occurring",
+      "options": [
+        {
+          "text": "the possibility or likelihood of some future event occurring",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "something that already happened",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a memory from the past",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a certain event with no doubt",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Protocol",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) the official procedure or system of rules governing affairs",
+      "options": [
+        {
+          "text": "the official procedure or system of rules governing affairs",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a random way of doing things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "breaking rules on purpose",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "something without any rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Psychology",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) the scientific study of the human mind and its functions",
+      "options": [
+        {
+          "text": "the scientific study of the human mind and its functions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "the study of plants and animals",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the science of building things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "the study of rocks and minerals",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Pursue",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) to follow or chase someone or something; to continue with an activity",
+      "options": [
+        {
+          "text": "to follow or chase someone or something; to continue with an activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to run away from something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to stop doing something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to ignore or avoid something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Qualitative",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) relating to the quality or standard of something rather than its quantity",
+      "options": [
+        {
+          "text": "relating to the quality or standard of something rather than its quantity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "only about how many or how much",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "not caring about quality at all",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "measuring by counting numbers only",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Quote",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) to repeat someone's exact words; to state the price of something",
+      "options": [
+        {
+          "text": "to repeat someone's exact words; to state the price of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make up new words",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to forget what someone said",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to refuse to give a price",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Radical",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) relating to the fundamental nature of something; thorough or complete",
+      "options": [
+        {
+          "text": "relating to the fundamental nature of something; thorough or complete",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "small and unimportant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "staying exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "only on the surface",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Random",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) made, done, or happening without method or conscious decision",
+      "options": [
+        {
+          "text": "made, done, or happening without method or conscious decision",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "carefully planned and organized",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "following a strict pattern",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "always the same way every time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Range",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) the area of variation between upper and lower limits",
+      "options": [
+        {
+          "text": "the area of variation between upper and lower limits",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "only one specific thing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "everything being exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "having no differences at all",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ratio",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) the quantitative relation between two amounts showing the number of times one value contains or is contained within the other",
+      "options": [
+        {
+          "text": "the quantitative relation between two amounts showing the number of times one value contains or is contained within the other",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "the total amount without comparison",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "just guessing without calculation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "ignoring the relationship between things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Rational",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) based on or in accordance with reason or logic",
+      "options": [
+        {
+          "text": "based on or in accordance with reason or logic",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "based on feelings without thinking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "illogical and unreasonable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "crazy and unpredictable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "React",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) to respond or behave in a particular way in response to something",
+      "options": [
+        {
+          "text": "to respond or behave in a particular way in response to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to ignore something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to do nothing when something happens",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to pretend not to notice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Recover",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) to return to a normal state of health, mind, or strength",
+      "options": [
+        {
+          "text": "to return to a normal state of health, mind, or strength",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to become sick or weak",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to lose something important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to give up and stop trying",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Refine",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) to improve something by making small changes",
+      "options": [
+        {
+          "text": "to improve something by making small changes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make something worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to break something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to leave something as it is",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Regime",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) a government, especially an authoritarian one; a systematic plan",
+      "options": [
+        {
+          "text": "a government, especially an authoritarian one; a systematic plan",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a random way of doing things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "no organization at all",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "breaking rules on purpose",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Region",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) an area or division, especially part of a country or the world",
+      "options": [
+        {
+          "text": "an area or division, especially part of a country or the world",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "the entire world without divisions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a very small point without area",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "something that cannot be located",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Reinforce",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) to strengthen or support",
+      "options": [
+        {
+          "text": "to strengthen or support",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to weaken or damage",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore or forget",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to remove or take away",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Release",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) to allow to escape from confinement; to set free",
+      "options": [
+        {
+          "text": "to allow to escape from confinement; to set free",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to catch and keep something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to hide or lock away",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to prevent from moving",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Relevant",
+      "order": 21,
+      "points": 1,
+      "explanation": "(Adjective) closely connected or appropriate to what is being done or considered",
+      "options": [
+        {
+          "text": "closely connected or appropriate to what is being done or considered",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "not connected or related at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "completely off-topic",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "irrelevant and unimportant",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Reluctance",
+      "order": 22,
+      "points": 1,
+      "explanation": "(Noun) unwillingness or disinclination to do something",
+      "options": [
+        {
+          "text": "unwillingness or disinclination to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "great enthusiasm and eagerness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "immediate agreement without thinking",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "excitement about doing something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Require",
+      "order": 23,
+      "points": 1,
+      "explanation": "(Verb) to need for a particular purpose; to make necessary",
+      "options": [
+        {
+          "text": "to need for a particular purpose; to make necessary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to not need something at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to suggest but not need",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to refuse to use something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Research",
+      "order": 24,
+      "points": 1,
+      "explanation": "(Noun) the systematic investigation into and study of materials and sources",
+      "options": [
+        {
+          "text": "the systematic investigation into and study of materials and sources",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "guessing without checking facts",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "making up information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "ignoring evidence and facts",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Reside",
+      "order": 25,
+      "points": 1,
+      "explanation": "(Verb) to have one's permanent home in a particular place",
+      "options": [
+        {
+          "text": "to have one's permanent home in a particular place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to visit a place temporarily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to be homeless with no fixed address",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to travel constantly without staying",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Resolve",
+      "order": 26,
+      "points": 1,
+      "explanation": "(Verb) to settle or find a solution to a problem or dispute",
+      "options": [
+        {
+          "text": "to settle or find a solution to a problem or dispute",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to make a problem worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore a problem completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to create new problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Resource",
+      "order": 27,
+      "points": 1,
+      "explanation": "(Noun) a stock or supply of materials or assets that can be drawn on",
+      "options": [
+        {
+          "text": "a stock or supply of materials or assets that can be drawn on",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "something useless and worthless",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "an empty place with nothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a problem that cannot be solved",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Respond",
+      "order": 28,
+      "points": 1,
+      "explanation": "(Verb) to say something in reply; to react to something",
+      "options": [
+        {
+          "text": "to say something in reply; to react to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to ignore completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to stay silent without reaction",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to pretend not to hear",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Restore",
+      "order": 29,
+      "points": 1,
+      "explanation": "(Verb) to bring back to a former condition; to return something",
+      "options": [
+        {
+          "text": "to bring back to a former condition; to return something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to damage or destroy completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to make something worse",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to leave something broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Restrict",
+      "order": 30,
+      "points": 1,
+      "explanation": "(Verb) to put a limit on; to keep under control",
+      "options": [
+        {
+          "text": "to put a limit on; to keep under control",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to allow complete freedom",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to encourage without limits",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to make everything available",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

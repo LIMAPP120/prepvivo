@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 181-200)",
+  "description": "Test your knowledge of words 181 to 200",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Initiative",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) The ability to assess and initiate things independently; the power or opportunity to act before others do",
+      "options": [
+        {
+          "text": "The ability to assess and initiate things independently; the power or opportunity to act before others do",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The act of following instructions carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Waiting for others to tell you what to do",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being hesitant to make decisions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Insistent",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Firmly saying that something must be done or that you must have something",
+      "options": [
+        {
+          "text": "Firmly saying that something must be done or that you must have something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not caring about the outcome",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being uncertain about what you want",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Willing to compromise easily",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Inspect",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To look at something carefully in order to check its quality or condition",
+      "options": [
+        {
+          "text": "To look at something carefully in order to check its quality or condition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore problems or flaws",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To quickly glance at something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Inspire",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To fill someone with the urge or ability to do or feel something, especially creative",
+      "options": [
+        {
+          "text": "To fill someone with the urge or ability to do or feel something, especially creative",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To discourage someone from trying",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make someone feel sad",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To force someone to do something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Interpret",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To explain the meaning of something, or to understand something in a particular way",
+      "options": [
+        {
+          "text": "To explain the meaning of something, or to understand something in a particular way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore what someone is saying",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak without thinking",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create confusion",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Intricate",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Very complicated or detailed, with many small parts or patterns",
+      "options": [
+        {
+          "text": "Very complicated or detailed, with many small parts or patterns",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Simple and easy to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Large and bulky",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Plain and undecorated",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Investigate",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To carry out a systematic or formal inquiry to discover and examine facts",
+      "options": [
+        {
+          "text": "To carry out a systematic or formal inquiry to discover and examine facts",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore evidence",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make a quick guess",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To accept something without question",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Invincible",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Too powerful to be defeated or overcome",
+      "options": [
+        {
+          "text": "Too powerful to be defeated or overcome",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easily defeated",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average in strength",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Willing to surrender",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Involve",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To include or affect someone or something, or to cause someone to take part in something",
+      "options": [
+        {
+          "text": "To include or affect someone or something, or to cause someone to take part in something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To exclude someone from participation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To observe from a distance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To work completely alone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Irritate",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To make someone annoyed, impatient, or angry",
+      "options": [
+        {
+          "text": "To make someone annoyed, impatient, or angry",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone very happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To calm someone down",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To help someone relax",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Isolate",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To cause someone or something to be alone or separate from others",
+      "options": [
+        {
+          "text": "To cause someone or something to be alone or separate from others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To bring people together",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To include everyone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To visit many places",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Jealous",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing envy of someone or their achievements and advantages",
+      "options": [
+        {
+          "text": "Feeling or showing envy of someone or their achievements and advantages",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling happy for someone's success",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Not caring about what others have",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being generous and sharing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Jubilant",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or expressing great happiness and triumph",
+      "options": [
+        {
+          "text": "Feeling or expressing great happiness and triumph",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling sad and disappointed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling angry and frustrated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling calm and peaceful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Justice",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) Fair behavior or treatment, or the administration of law",
+      "options": [
+        {
+          "text": "Fair behavior or treatment, or the administration of law",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unfair treatment of people",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ignoring the rules",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Taking revenge",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing eagerness or enthusiasm, or highly developed",
+      "options": [
+        {
+          "text": "Having or showing eagerness or enthusiasm, or highly developed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having no interest in something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being poorly developed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Showing reluctance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Knowledgeable",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Intelligent and well informed about a particular subject",
+      "options": [
+        {
+          "text": "Intelligent and well informed about a particular subject",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Knowing very little about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Guessing without facts",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making up information",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Laboratory",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A room or building equipped for scientific experiments, research, or teaching",
+      "options": [
+        {
+          "text": "A room or building equipped for scientific experiments, research, or teaching",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A place for eating meals",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A room for sleeping",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An outdoor playing field",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Lament",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To express sadness and regret about something, or a passionate expression of grief",
+      "options": [
+        {
+          "text": "To express sadness and regret about something, or a passionate expression of grief",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To celebrate a happy event",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone's feelings",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To laugh at a funny situation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Latitude",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) The distance north or south of the equator, or freedom to behave and make decisions",
+      "options": [
+        {
+          "text": "The distance north or south of the equator, or freedom to behave and make decisions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A measurement of time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of strict rule",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A limitation on freedom",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Leisure",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) Time when you are free from work or other duties and can relax",
+      "options": [
+        {
+          "text": "Time when you are free from work or other duties and can relax",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Time spent working hard",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Time when you are very busy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Time spent doing chores",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 641-660)",
+  "description": "Test your knowledge of words 641 to 660",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "repulse",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To drive back or repel an attack or attacker",
+      "options": [
+        {
+          "text": "To drive back or repel an attack or attacker",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To attract someone very strongly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something very beautiful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak in a very soft voice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mammoth",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Huge; enormous; gigantic",
+      "options": [
+        {
+          "text": "Huge; enormous; gigantic",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and tiny",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely beautiful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and traditional",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "raze",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To completely destroy a building, town, or other site",
+      "options": [
+        {
+          "text": "To completely destroy a building, town, or other site",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To build something very quickly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To paint something in bright colors",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean something very thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "havoc",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) Widespread destruction; great confusion or disorder",
+      "options": [
+        {
+          "text": "Widespread destruction; great confusion or disorder",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very organized system",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete peace and quiet",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of delicious dessert",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "scurry",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To move hurriedly with short quick steps",
+      "options": [
+        {
+          "text": "To move hurriedly with short quick steps",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To walk very slowly and lazily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To run very fast in a race",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To dance in a graceful way",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lethal",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Sufficient to cause death; deadly",
+      "options": [
+        {
+          "text": "Sufficient to cause death; deadly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely harmless and safe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very healthy and nutritious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely funny and amusing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "precipitate",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To cause something to happen suddenly or unexpectedly",
+      "options": [
+        {
+          "text": "To cause something to happen suddenly or unexpectedly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To prevent something from happening",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate something with a party",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget something important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incisive",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Accurate and sharply focused; clear and direct",
+      "options": [
+        {
+          "text": "Accurate and sharply focused; clear and direct",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very confusing and unclear",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely long and boring",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very colorful and bright",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stentorian",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Extremely loud and powerful",
+      "options": [
+        {
+          "text": "Extremely loud and powerful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very soft and gentle",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely beautiful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and weak",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stereotype",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) A widely held but fixed and oversimplified idea about a particular type of person or thing",
+      "options": [
+        {
+          "text": "A widely held but fixed and oversimplified idea about a particular type of person or thing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very accurate description",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A scientific discovery",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "valor",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) Great courage in the face of danger, especially in battle",
+      "options": [
+        {
+          "text": "Great courage in the face of danger, especially in battle",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extreme fear and panic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very good luck",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complete honesty",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "singular",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Exceptionally good or great; remarkable",
+      "options": [
+        {
+          "text": "Exceptionally good or great; remarkable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very ordinary and common",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely bad and terrible",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely normal and average",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sinecure",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A position requiring little or no work but giving the holder status or financial benefit",
+      "options": [
+        {
+          "text": "A position requiring little or no work but giving the holder status or financial benefit",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very difficult and challenging job",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A temporary part-time position",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A job that requires a lot of travel",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bias",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) Prejudice in favor of or against one thing, person, or group compared with another",
+      "options": [
+        {
+          "text": "Prejudice in favor of or against one thing, person, or group compared with another",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete fairness and equality",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extreme happiness and joy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of delicious food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "liquidation",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) The process of closing a business and selling its assets to pay creditors",
+      "options": [
+        {
+          "text": "The process of closing a business and selling its assets to pay creditors",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The process of starting a new business",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A celebration for a successful year",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of delicious drink",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "complicity",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) The state of being involved with others in an illegal activity or wrongdoing",
+      "options": [
+        {
+          "text": "The state of being involved with others in an illegal activity or wrongdoing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete innocence and honesty",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extreme bravery in danger",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "recant",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To say that one no longer holds an opinion or belief, especially one considered heretical",
+      "options": [
+        {
+          "text": "To say that one no longer holds an opinion or belief, especially one considered heretical",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To repeat something many times",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate something loudly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To remember something clearly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "accomplice",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A person who helps another commit a crime",
+      "options": [
+        {
+          "text": "A person who helps another commit a crime",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who prevents a crime",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very good friend",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A police officer",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abrogate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To repeal or do away with a law, right, or formal agreement",
+      "options": [
+        {
+          "text": "To repeal or do away with a law, right, or formal agreement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To create a new law",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate a special day",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To remember an old tradition",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "culpable",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Deserving blame; guilty of doing something wrong",
+      "options": [
+        {
+          "text": "Deserving blame; guilty of doing something wrong",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely innocent and blameless",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely lucky",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very kind and helpful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

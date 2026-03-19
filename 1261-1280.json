@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1261-1280)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "subjugate",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To bring under control or conquer by force",
+      "options": [
+        {
+          "text": "To bring under control or conquer by force",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help someone learn something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something very beautiful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To speak in a very loud voice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "emit",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To send out or give off something like light, sound, or smell",
+      "options": [
+        {
+          "text": "To send out or give off something like light, sound, or smell",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To receive something from someone else",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something smaller in size",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "eventuate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To happen as a result or to be the final outcome",
+      "options": [
+        {
+          "text": "To happen as a result or to be the final outcome",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To celebrate a special occasion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To build something very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "viable",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Capable of working successfully; practical and possible",
+      "options": [
+        {
+          "text": "Capable of working successfully; practical and possible",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very beautiful to look at",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely impossible to do",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and traditional",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "subterranean",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Existing, occurring, or done under the earth's surface",
+      "options": [
+        {
+          "text": "Existing, occurring, or done under the earth's surface",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Located very high up in the mountains",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Found only in tropical countries",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Living in or near the ocean",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "jeopardize",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To put something in danger or at risk of being harmed",
+      "options": [
+        {
+          "text": "To put something in danger or at risk of being harmed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something safer and more secure",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate an achievement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To learn something very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "premise",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) An idea or statement that forms the basis for a theory or argument",
+      "options": [
+        {
+          "text": "An idea or statement that forms the basis for a theory or argument",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very large and expensive building",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The end or conclusion of a story",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of delicious dessert",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "permeate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To spread throughout something; to pass through every part",
+      "options": [
+        {
+          "text": "To spread throughout something; to pass through every part",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stop something from moving forward",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To clean something very thoroughly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To build something from scratch",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incredulous",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Unwilling or unable to believe something; showing disbelief",
+      "options": [
+        {
+          "text": "Unwilling or unable to believe something; showing disbelief",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very happy and excited about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely intelligent and clever",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very sleepy and tired",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "surmise",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To suppose or guess something without certain evidence",
+      "options": [
+        {
+          "text": "To suppose or guess something without certain evidence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To know something for absolutely certain",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate a special event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "propitious",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Giving or indicating a good chance of success; favorable",
+      "options": [
+        {
+          "text": "Giving or indicating a good chance of success; favorable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very dangerous and risky",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely useless and worthless",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely difficult to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "repress",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To try not to have or show a feeling, thought, or memory",
+      "options": [
+        {
+          "text": "To try not to have or show a feeling, thought, or memory",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To express feelings very openly and loudly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To remember something very clearly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate something with enthusiasm",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "curtail",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To reduce or limit something; to cut short",
+      "options": [
+        {
+          "text": "To reduce or limit something; to cut short",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something bigger or longer",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate with a big party",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To learn something new quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inchoate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Just begun and not fully formed or developed; rudimentary",
+      "options": [
+        {
+          "text": "Just begun and not fully formed or developed; rudimentary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely finished and perfect",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very old and traditional",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely complicated and difficult",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cryptic",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Having a meaning that is mysterious or obscure",
+      "options": [
+        {
+          "text": "Having a meaning that is mysterious or obscure",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very clear and easy to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely loud and noisy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very colorful and bright",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inveigh",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To speak or write about something with great hostility or anger",
+      "options": [
+        {
+          "text": "To speak or write about something with great hostility or anger",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone very highly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak in a very soft whisper",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget what you wanted to say",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "aspire",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To direct one's hopes or ambitions toward achieving something",
+      "options": [
+        {
+          "text": "To direct one's hopes or ambitions toward achieving something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To feel very tired and sleepy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget an important appointment",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To be afraid of trying new things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "overt",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Done or shown openly; plainly or readily apparent",
+      "options": [
+        {
+          "text": "Done or shown openly; plainly or readily apparent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Hidden and difficult to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very small and insignificant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely false and wrong",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nettle",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To irritate or annoy someone",
+      "options": [
+        {
+          "text": "To irritate or annoy someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone very happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone with a problem",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone a new skill",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "supine",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Lying face upward; or failing to act or protest as a result of laziness",
+      "options": [
+        {
+          "text": "Lying face upward; or failing to act or protest as a result of laziness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Standing very straight and tall",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Running very quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Working very hard and diligently",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

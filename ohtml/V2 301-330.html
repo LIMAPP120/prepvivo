@@ -1,0 +1,1571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Quiz - Words 301-330</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #ff7f50 0%, #1e90ff 100%);
+            color: #333;
+            min-height: 100vh;
+            padding: 8px;
+            font-size: 14px;
+            overflow-x: hidden;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: rgba(255, 255, 255, 0.98);
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+            overflow: hidden;
+        }
+        
+        header {
+            padding: 12px 15px;
+            text-align: center;
+            background: linear-gradient(to right, #ff7f50, #1e90ff);
+            color: white;
+            position: relative;
+        }
+        
+        h1 {
+            font-size: 1.4rem;
+            margin-bottom: 4px;
+        }
+        
+        .subtitle {
+            font-size: 0.8rem;
+            opacity: 0.9;
+        }
+        
+        /* Navigation back to parent directory */
+        .nav-back {
+            position: absolute;
+            left: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        
+        .nav-back a {
+            color: white;
+            text-decoration: none;
+            font-size: 0.8rem;
+            padding: 5px 10px;
+            background-color: rgba(255, 255, 255, 0.2);
+            border-radius: 15px;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .nav-back a:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+            transform: translateX(-3px);
+        }
+        
+        @media (max-width: 768px) {
+            .nav-back {
+                position: relative;
+                left: 0;
+                top: 0;
+                transform: none;
+                text-align: center;
+                margin-bottom: 8px;
+            }
+            
+            .nav-back a {
+                display: inline-flex;
+                justify-content: center;
+            }
+        }
+        
+        .instructions {
+            padding: 6px 12px;
+            background-color: #f0f8ff;
+            border-bottom: 1px solid #ddd;
+            font-size: 8px;
+            line-height: 1.2;
+            color: #444;
+        }
+        
+        .instructions i {
+            color: #1e90ff;
+            margin-right: 4px;
+            font-size: 8px;
+        }
+        
+        .timer-section {
+            padding: 8px 12px;
+            background-color: #f8faff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .timer {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #1e90ff;
+            background-color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.06);
+        }
+        
+        .timer.warning {
+            color: #ff4500;
+            animation: pulse 1s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.02); }
+            100% { transform: scale(1); }
+        }
+        
+        .question-counter {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .quiz-container {
+            padding: 12px;
+        }
+        
+        .question-box {
+            margin-bottom: 10px;
+            padding: 12px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+        }
+        
+        .word {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #1e90ff;
+            margin-bottom: 8px;
+            text-align: center;
+        }
+        
+        .options {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+        }
+        
+        @media (max-width: 768px) {
+            .options {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .option {
+            padding: 8px 10px;
+            background-color: white;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+            line-height: 1.2;
+        }
+        
+        .option:hover {
+            background-color: #f0f8ff;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.06);
+        }
+        
+        .option.selected {
+            border-color: #1e90ff;
+            background-color: rgba(30, 144, 255, 0.1);
+        }
+        
+        .option.correct {
+            border-color: #2ecc71;
+            background-color: rgba(46, 204, 113, 0.1);
+            font-weight: bold;
+            color: #27ae60;
+        }
+        
+        .option.incorrect {
+            border-color: #e74c3c;
+            background-color: rgba(231, 76, 60, 0.1);
+            font-weight: bold;
+            color: #c0392b;
+        }
+        
+        .option.unattempted {
+            border-color: #f39c12;
+            background-color: rgba(243, 156, 18, 0.1);
+            font-weight: bold;
+            color: #d35400;
+        }
+        
+        /* All buttons in one row */
+        .buttons-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 12px;
+            gap: 6px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .nav-button {
+            padding: 6px 10px;
+            font-size: 0.8rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            flex: 1;
+            white-space: nowrap;
+        }
+        
+        .nav-button:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+        }
+        
+        #prev-btn {
+            background-color: #ff7f50;
+            color: white;
+        }
+        
+        #prev-btn:hover {
+            background-color: #ff6a36;
+        }
+        
+        #reset-btn {
+            background-color: #9b59b6;
+            color: white;
+        }
+        
+        #reset-btn:hover {
+            background-color: #8e44ad;
+        }
+        
+        #next-btn {
+            background-color: #1e90ff;
+            color: white;
+        }
+        
+        #next-btn:hover {
+            background-color: #0d7dd8;
+        }
+        
+        #submit-btn {
+            background-color: #2ecc71;
+            color: white;
+        }
+        
+        #submit-btn:hover {
+            background-color: #27ae60;
+        }
+        
+        .progress-section {
+            padding: 6px 12px 10px 12px;
+            background-color: #f8faff;
+        }
+        
+        .progress-container {
+            width: 100%;
+            background-color: #e0e0e0;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            height: 10px;
+        }
+        
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(to right, #ff7f50, #1e90ff);
+            border-radius: 6px;
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+        
+        .question-nav-container {
+            padding: 0 12px 8px 12px;
+        }
+        
+        .question-nav {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 3px;
+            justify-content: center;
+        }
+        
+        .question-nav-btn {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            border: 1px solid #ddd;
+            background-color: white;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 0.65rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .question-nav-btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+        }
+        
+        .question-nav-btn.current {
+            background-color: #1e90ff;
+            color: white;
+            border-color: #1e90ff;
+        }
+        
+        .question-nav-btn.answered {
+            background-color: #a8e6cf;
+            border-color: #2ecc71;
+        }
+        
+        /* Results page buttons */
+        .results-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+        
+        .action-button {
+            padding: 8px 15px;
+            font-size: 0.9rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .action-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        #print-btn {
+            background-color: #9b59b6;
+            color: white;
+        }
+        
+        #print-btn:hover {
+            background-color: #8e44ad;
+        }
+        
+        #try-again-btn {
+            background-color: #ff7f50;
+            color: white;
+        }
+        
+        #try-again-btn:hover {
+            background-color = "#ff6a36";
+        }
+        
+        .results-container {
+            padding: 12px;
+            display: none;
+        }
+        
+        .score-section {
+            text-align: center;
+            margin-bottom: 15px;
+            padding: 12px;
+            background: linear-gradient(to right, #1e90ff, #ff7f50);
+            border-radius: 8px;
+            color: white;
+        }
+        
+        .score {
+            font-size: 2.2rem;
+            font-weight: 800;
+            margin: 4px 0;
+        }
+        
+        .score-text {
+            font-size: 1rem;
+        }
+        
+        .word-details {
+            margin-top: 15px;
+        }
+        
+        .word-card {
+            margin-bottom: 12px;
+            padding: 12px;
+            background-color: #f9f9f9;
+            border-radius: 6px;
+            box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+            page-break-inside: avoid;
+        }
+        
+        .word-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .word-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #1e90ff;
+        }
+        
+        .part-of-speech {
+            font-style: italic;
+            color: #ff7f50;
+            font-weight: 600;
+            font-size: 0.8rem;
+        }
+        
+        .definition {
+            margin-bottom: 8px;
+            line-height: 1.3;
+            font-size: 0.9rem;
+        }
+        
+        .example {
+            padding: 5px 6px;
+            background-color: white;
+            margin-bottom: 4px;
+            border-left: 2px solid #1e90ff;
+            border-radius: 0 3px 3px 0;
+            line-height: 1.2;
+            font-size: 0.85rem;
+        }
+        
+        .user-answer {
+            margin-top: 6px;
+            padding: 4px 6px;
+            border-radius: 3px;
+            font-weight: bold;
+            font-size: 0.85rem;
+        }
+        
+        .user-answer.correct {
+            background-color: rgba(46, 204, 113, 0.2);
+            color: #27ae60;
+        }
+        
+        .user-answer.incorrect {
+            background-color: rgba(231, 76, 60, 0.2);
+            color: #c0392b;
+        }
+        
+        .user-answer.unattempted {
+            background-color: rgba(243, 156, 18, 0.2);
+            color: #d35400;
+        }
+        
+        .print-header {
+            display: none;
+        }
+        
+        @media print {
+            body {
+                background: white !important;
+                padding: 0 !important;
+                margin: 0 !important;
+                font-size: 12px;
+                overflow: visible !important;
+                height: auto !important;
+                min-height: auto !important;
+            }
+            
+            .container {
+                box-shadow: none !important;
+                border-radius: 0 !important;
+                max-width: 100% !important;
+                margin: 0 !important;
+                background: white !important;
+                overflow: visible !important;
+                height: auto !important;
+                min-height: auto !important;
+                padding: 0 !important;
+            }
+            
+            header, .timer-section, .buttons-row, .question-nav, .instructions, .progress-section, .results-buttons, .footer-note {
+                display: none !important;
+            }
+            
+            .print-header {
+                display: block !important;
+                text-align: center;
+                padding: 15px !important;
+                border-bottom: 2px solid #1e90ff;
+                margin-bottom: 20px;
+                page-break-after: avoid;
+            }
+            
+            .print-header h2 {
+                color: #1e90ff;
+                margin-bottom: 5px;
+                font-size: 1.5rem;
+            }
+            
+            .print-date {
+                font-size: 1rem;
+                color: #333;
+            }
+            
+            .results-container {
+                display: block !important;
+                padding: 0 !important;
+                margin: 0 !important;
+                overflow: visible !important;
+                height: auto !important;
+                page-break-before: avoid !important;
+                break-before: avoid !important;
+            }
+            
+            .score-section {
+                -webkit-print-color-adjust: exact !important;
+                print-color-adjust: exact !important;
+                padding: 15px !important;
+                margin-bottom: 20px !important;
+                page-break-after: avoid !important;
+                break-after: avoid !important;
+            }
+            
+            .score {
+                font-size: 2.5rem;
+            }
+            
+            .score-text {
+                font-size: 1.2rem;
+            }
+            
+            .word-details {
+                margin-top: 20px !important;
+                overflow: visible !important;
+                height: auto !important;
+                max-height: none !important;
+            }
+            
+            .word-card {
+                padding: 10px !important;
+                margin-bottom: 15px !important;
+                page-break-inside: avoid !important;
+                break-inside: avoid !important;
+            }
+            
+            /* Prevent extra blank page */
+            html, body {
+                height: auto !important;
+                overflow: visible !important;
+            }
+            
+            /* Ensure all content prints */
+            .word-card:nth-child(n) {
+                display: block !important;
+                opacity: 1 !important;
+                visibility: visible !important;
+            }
+        }
+        
+        .footer-note {
+            text-align: center;
+            padding: 8px;
+            color: #666;
+            font-size: 0.7rem;
+            border-top: 1px solid #eee;
+        }
+        
+        /* Ensure everything fits in one screen */
+        @media (max-height: 800px) {
+            .word {
+                font-size: 1.2rem;
+                margin-bottom: 6px;
+            }
+            
+            .option {
+                padding: 6px 8px;
+                font-size: 0.85rem;
+            }
+            
+            .quiz-container {
+                padding: 8px 12px;
+            }
+            
+            .question-box {
+                padding: 10px;
+                margin-bottom: 8px;
+            }
+            
+            .buttons-row {
+                padding: 6px 8px;
+            }
+            
+            .nav-button {
+                padding: 5px 8px;
+                font-size: 0.75rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <!-- Navigation back to parent directory -->
+            <div class="nav-back">
+                <a href="../index.html">
+                    <i class="fas fa-arrow-left"></i>
+                    Back to Main Menu
+                </a>
+            </div>
+            
+            <h1>Vocabulary Quiz - Words 301-330</h1>
+            <p class="subtitle">Test your knowledge of 30 important words</p>
+        </header>
+        
+        <div class="instructions">
+            <p><i class="fas fa-info-circle"></i> Read each word carefully and choose the correct meaning. You have 30 minutes to complete all 30 questions. Use the navigation buttons or question numbers to move between questions. After submitting, you'll see your score and detailed explanations for each word.</p>
+        </div>
+        
+        <div class="timer-section">
+            <div class="question-counter">Question: <span id="current-question">1</span> of 30</div>
+            <div class="timer" id="timer">30:00</div>
+        </div>
+        
+        <div class="quiz-container" id="quiz-container">
+            <!-- Questions will be dynamically inserted here -->
+        </div>
+        
+        <!-- All navigation buttons in one row -->
+        <div class="buttons-row">
+            <button id="prev-btn" class="nav-button" disabled><i class="fas fa-arrow-left"></i> Previous</button>
+            <button id="reset-btn" class="nav-button"><i class="fas fa-redo"></i> Reset</button>
+            <button id="next-btn" class="nav-button">Next <i class="fas fa-arrow-right"></i></button>
+        </div>
+        
+        <div class="progress-section">
+            <div class="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            
+            <div class="question-nav-container">
+                <div class="question-nav" id="question-nav">
+                    <!-- Question navigation buttons will be inserted here -->
+                </div>
+            </div>
+        </div>
+        
+        <div class="results-container" id="results-container">
+            <div class="print-header">
+                <h2>Vocabulary Quiz Results - Words 301-330</h2>
+                <div class="print-date" id="print-date"></div>
+            </div>
+            
+            <div class="score-section">
+                <h2>Your Vocabulary Quiz Score</h2>
+                <div class="score" id="score">0/30</div>
+                <p class="score-text" id="score-text">Keep practicing to improve your vocabulary!</p>
+            </div>
+            
+            <div class="word-details" id="word-details">
+                <!-- Word details will be dynamically inserted here -->
+            </div>
+            
+            <!-- Results page buttons -->
+            <div class="results-buttons">
+                <button id="print-btn" class="action-button"><i class="fas fa-print"></i> Print Results</button>
+                <button id="try-again-btn" class="action-button"><i class="fas fa-redo"></i> Try Again</button>
+                <a href="../index.html" class="action-button" style="text-decoration: none; background-color: #ff7f50; color: white;">
+                    <i class="fas fa-home"></i> Main Menu
+                </a>
+            </div>
+        </div>
+        
+        <div class="footer-note">
+            <p>Designed for Primary 5 learners | <a href="../index.html" style="color: #1e90ff; text-decoration: none;">Return to Main Menu</a></p>
+        </div>
+    </div>
+
+    <script>
+        // Vocabulary data extracted from VOC A 301-330.html
+        const originalVocabulary = [
+            {
+                word: "Terminate",
+                definition: "To bring to an end; to stop",
+                partOfSpeech: "Verb",
+                examples: [
+                    "The company decided to terminate his contract.",
+                    "The bus route terminates at the city center."
+                ],
+                correctOption: "To bring to an end; to stop",
+                options: [
+                    "To bring to an end; to stop",
+                    "To start something new",
+                    "To continue forever",
+                    "To make something longer"
+                ]
+            },
+            {
+                word: "Text",
+                definition: "The main written part of a book or other publication; to send a written message",
+                partOfSpeech: "Noun/Verb",
+                examples: [
+                    "Please read the text on page 45.",
+                    "I will text you when I arrive."
+                ],
+                correctOption: "The main written part of a book or other publication; to send a written message",
+                options: [
+                    "The main written part of a book or other publication; to send a written message",
+                    "A type of food",
+                    "A drawing or picture",
+                    "A spoken conversation"
+                ]
+            },
+            {
+                word: "Theme",
+                definition: "The subject or main idea in a talk, piece of writing, or work of art",
+                partOfSpeech: "Noun",
+                examples: [
+                    "The theme of the story is friendship.",
+                    "The party had a pirate theme."
+                ],
+                correctOption: "The subject or main idea in a talk, piece of writing, or work of art",
+                options: [
+                    "The subject or main idea in a talk, piece of writing, or work of art",
+                    "A random thought",
+                    "A small detail",
+                    "The ending of a story"
+                ]
+            },
+            {
+                word: "Theory",
+                definition: "A set of ideas intended to explain something",
+                partOfSpeech: "Noun",
+                examples: [
+                    "Einstein's theory of relativity changed physics.",
+                    "I have a theory about why he's always late."
+                ],
+                correctOption: "A set of ideas intended to explain something",
+                options: [
+                    "A set of ideas intended to explain something",
+                    "A proven fact",
+                    "A simple guess",
+                    "A type of machine"
+                ]
+            },
+            {
+                word: "Thesis",
+                definition: "A long piece of writing on a particular subject for a university degree",
+                partOfSpeech: "Noun",
+                examples: [
+                    "She spent a year writing her master's thesis.",
+                    "His thesis argued that exercise improves learning."
+                ],
+                correctOption: "A long piece of writing on a particular subject for a university degree",
+                options: [
+                    "A long piece of writing on a particular subject for a university degree",
+                    "A short note",
+                    "A conversation",
+                    "A type of test"
+                ]
+            },
+            {
+                word: "Topic",
+                definition: "A subject that is discussed, written about, or studied",
+                partOfSpeech: "Noun",
+                examples: [
+                    "Our topic for today's discussion is climate change.",
+                    "What topic did you choose for your research paper?"
+                ],
+                correctOption: "A subject that is discussed, written about, or studied",
+                options: [
+                    "A subject that is discussed, written about, or studied",
+                    "A random word",
+                    "The answer to a question",
+                    "A type of food"
+                ]
+            },
+            {
+                word: "Trace",
+                definition: "To find or discover about something by investigation; a very small amount",
+                partOfSpeech: "Verb/Noun",
+                examples: [
+                    "Police are trying to trace the missing person.",
+                    "There was only a trace of sugar left in the bowl."
+                ],
+                correctOption: "To find or discover about something by investigation; a very small amount",
+                options: [
+                    "To find or discover about something by investigation; a very small amount",
+                    "To lose something",
+                    "A large quantity",
+                    "To forget something"
+                ]
+            },
+            {
+                word: "Tradition",
+                definition: "A belief, custom, or way of doing something that has existed for a long time",
+                partOfSpeech: "Noun",
+                examples: [
+                    "It's a family tradition to open one present on Christmas Eve.",
+                    "The school has many traditions that date back over 100 years."
+                ],
+                correctOption: "A belief, custom, or way of doing something that has existed for a long time",
+                options: [
+                    "A belief, custom, or way of doing something that has existed for a long time",
+                    "Something new and modern",
+                    "A mistake",
+                    "A type of food"
+                ]
+            },
+            {
+                word: "Transfer",
+                definition: "To move from one place to another; to change to a different situation",
+                partOfSpeech: "Verb",
+                examples: [
+                    "You need to transfer to the blue line at the next station.",
+                    "She transferred to a new school last semester."
+                ],
+                correctOption: "To move from one place to another; to change to a different situation",
+                options: [
+                    "To move from one place to another; to change to a different situation",
+                    "To stay in the same place",
+                    "To forget something",
+                    "To break something"
+                ]
+            },
+            {
+                word: "Transform",
+                definition: "To change completely in form, appearance, or nature",
+                partOfSpeech: "Verb",
+                examples: [
+                    "The caterpillar transformed into a butterfly.",
+                    "They transformed the empty lot into a beautiful garden."
+                ],
+                correctOption: "To change completely in form, appearance, or nature",
+                options: [
+                    "To change completely in form, appearance, or nature",
+                    "To stay the same",
+                    "To make something worse",
+                    "To hide something"
+                ]
+            },
+            {
+                word: "Transmit",
+                definition: "To pass something from one person or place to another",
+                partOfSpeech: "Verb",
+                examples: [
+                    "Radio stations transmit signals through the air.",
+                    "Some diseases can be transmitted through the air."
+                ],
+                correctOption: "To pass something from one person or place to another",
+                options: [
+                    "To pass something from one person or place to another",
+                    "To keep something secret",
+                    "To destroy something",
+                    "To forget something"
+                ]
+            },
+            {
+                word: "Trend",
+                definition: "A general direction in which something is developing or changing",
+                partOfSpeech: "Noun",
+                examples: [
+                    "There's a trend toward healthier eating in schools.",
+                    "The latest fashion trend is wearing bright colors."
+                ],
+                correctOption: "A general direction in which something is developing or changing",
+                options: [
+                    "A general direction in which something is developing or changing",
+                    "Something that never changes",
+                    "A type of food",
+                    "A random event"
+                ]
+            },
+            {
+                word: "Ultimate",
+                definition: "Being the best or most extreme example of its kind; final",
+                partOfSpeech: "Adjective",
+                examples: [
+                    "Winning the championship was our ultimate goal.",
+                    "The ultimate decision rests with the principal."
+                ],
+                correctOption: "Being the best or most extreme example of its kind; final",
+                options: [
+                    "Being the best or most extreme example of its kind; final",
+                    "The first or beginning",
+                    "Unimportant",
+                    "Temporary"
+                ]
+            },
+            {
+                word: "Undergo",
+                definition: "To experience or be subjected to something",
+                partOfSpeech: "Verb",
+                examples: [
+                    "She had to undergo surgery on her knee.",
+                    "The school is undergoing renovations this summer."
+                ],
+                correctOption: "To experience or be subjected to something",
+                options: [
+                    "To experience or be subjected to something",
+                    "To avoid something",
+                    "To forget something",
+                    "To watch something"
+                ]
+            },
+            {
+                word: "Underlying",
+                definition: "Existing beneath the surface; fundamental",
+                partOfSpeech: "Adjective",
+                examples: [
+                    "The underlying problem was a lack of communication.",
+                    "There may be underlying reasons for his behavior."
+                ],
+                correctOption: "Existing beneath the surface; fundamental",
+                options: [
+                    "Existing beneath the surface; fundamental",
+                    "On the surface only",
+                    "Unimportant",
+                    "Easy to see"
+                ]
+            },
+            {
+                word: "Undertake",
+                definition: "To commit oneself to and begin an enterprise or responsibility",
+                partOfSpeech: "Verb",
+                examples: [
+                    "The company will undertake a new project next month.",
+                    "She undertook the task of organizing the school fair."
+                ],
+                correctOption: "To commit oneself to and begin an enterprise or responsibility",
+                options: [
+                    "To commit oneself to and begin an enterprise or responsibility",
+                    "To avoid work",
+                    "To forget a task",
+                    "To watch someone else work"
+                ]
+            },
+            {
+                word: "Uniform",
+                definition: "Remaining the same in all cases and at all times; identical clothing",
+                partOfSpeech: "Adjective/Noun",
+                examples: [
+                    "The school requires students to wear a uniform.",
+                    "The bricks should be of uniform size."
+                ],
+                correctOption: "Remaining the same in all cases and at all times; identical clothing",
+                options: [
+                    "Remaining the same in all cases and at all times; identical clothing",
+                    "Different in every case",
+                    "Colorful and varied",
+                    "Temporary clothing"
+                ]
+            },
+            {
+                word: "Unique",
+                definition: "Being the only one of its kind; unlike anything else",
+                partOfSpeech: "Adjective",
+                examples: [
+                    "Each person's fingerprints are unique.",
+                    "This painting is unique because it's the artist's only self-portrait."
+                ],
+                correctOption: "Being the only one of its kind; unlike anything else",
+                options: [
+                    "Being the only one of its kind; unlike anything else",
+                    "The same as everything else",
+                    "Ordinary and common",
+                    "Temporary"
+                ]
+            },
+            {
+                word: "Utilize",
+                definition: "To make practical and effective use of something",
+                partOfSpeech: "Verb",
+                examples: [
+                    "We should utilize our time wisely during the exam.",
+                    "The team utilized all available resources to complete the project."
+                ],
+                correctOption: "To make practical and effective use of something",
+                options: [
+                    "To make practical and effective use of something",
+                    "To waste something",
+                    "To ignore something",
+                    "To destroy something"
+                ]
+            },
+            {
+                word: "Valid",
+                definition: "Having a sound basis in logic or fact; legally acceptable",
+                partOfSpeech: "Adjective",
+                examples: [
+                    "You need a valid reason for being absent.",
+                    "Your bus pass is valid until the end of the month."
+                ],
+                correctOption: "Having a sound basis in logic or fact; legally acceptable",
+                options: [
+                    "Having a sound basis in logic or fact; legally acceptable",
+                    "Based on lies",
+                    "Illegal",
+                    "Temporary"
+                ]
+            },
+            {
+                word: "Variable",
+                definition: "Likely to change or vary; not consistent or stable",
+                partOfSpeech: "Adjective",
+                examples: [
+                    "The weather has been variable this week.",
+                    "In science experiments, we change one variable at a time."
+                ],
+                correctOption: "Likely to change or vary; not consistent or stable",
+                options: [
+                    "Likely to change or vary; not consistent or stable",
+                    "Always the same",
+                    "Predictable",
+                    "Strong and unchanging"
+                ]
+            },
+            {
+                word: "Version",
+                definition: "A particular form of something differing in certain respects from an earlier form",
+                partOfSpeech: "Noun",
+                examples: [
+                    "This is the updated version of the software.",
+                    "She told her version of what happened."
+                ],
+                correctOption: "A particular form of something differing in certain respects from an earlier form",
+                options: [
+                    "A particular form of something differing in certain respects from an earlier form",
+                    "The original unchanged form",
+                    "A complete copy",
+                    "A type of food"
+                ]
+            },
+            {
+                word: "Visible",
+                definition: "Able to be seen",
+                partOfSpeech: "Adjective",
+                examples: [
+                    "The moon was clearly visible in the night sky.",
+                    "Make sure your name is visible on your test paper."
+                ],
+                correctOption: "Able to be seen",
+                options: [
+                    "Able to be seen",
+                    "Hidden from view",
+                    "Impossible to see",
+                    "Only heard, not seen"
+                ]
+            },
+            {
+                word: "Visual",
+                definition: "Relating to seeing or sight",
+                partOfSpeech: "Adjective",
+                examples: [
+                    "The teacher used visual aids to help us understand.",
+                    "Some people are visual learners who remember what they see."
+                ],
+                correctOption: "Relating to seeing or sight",
+                options: [
+                    "Relating to seeing or sight",
+                    "Relating to hearing",
+                    "Relating to touch",
+                    "Relating to taste"
+                ]
+            },
+            {
+                word: "Volume",
+                definition: "The amount of space that a substance or object occupies",
+                partOfSpeech: "Noun",
+                examples: [
+                    "The volume of the box is 24 cubic centimeters.",
+                    "Please turn down the volume on the television."
+                ],
+                correctOption: "The amount of space that a substance or object occupies",
+                options: [
+                    "The amount of space that a substance or object occupies",
+                    "The weight of something",
+                    "The color of something",
+                    "The smell of something"
+                ]
+            },
+            {
+                word: "Welfare",
+                definition: "The health, happiness, and fortunes of a person or group",
+                partOfSpeech: "Noun",
+                examples: [
+                    "The government provides welfare services for those in need.",
+                    "Animal welfare is important to our organization."
+                ],
+                correctOption: "The health, happiness, and fortunes of a person or group",
+                options: [
+                    "The health, happiness, and fortunes of a person or group",
+                    "The sadness of someone",
+                    "The wealth of a country",
+                    "The size of something"
+                ]
+            },
+            {
+                word: "Whereas",
+                definition: "In contrast or comparison with the fact that",
+                partOfSpeech: "Conjunction",
+                examples: [
+                    "She loves spicy food, whereas her brother prefers mild flavors.",
+                    "I enjoy team sports, whereas my sister prefers individual activities."
+                ],
+                correctOption: "In contrast or comparison with the fact that",
+                options: [
+                    "In contrast or comparison with the fact that",
+                    "Because of something",
+                    "At the same time as",
+                    "After something happens"
+                ]
+            },
+            {
+                word: "Widespread",
+                definition: "Found or distributed over a large area or number of people",
+                partOfSpeech: "Adjective",
+                examples: [
+                    "There is widespread support for the new policy.",
+                    "The flu became widespread during the winter months."
+                ],
+                correctOption: "Found or distributed over a large area or number of people",
+                options: [
+                    "Found or distributed over a large area or number of people",
+                    "Limited to a small area",
+                    "Secret and hidden",
+                    "Temporary"
+                ]
+            },
+            {
+                word: "Withdraw",
+                definition: "To remove or take away something; to take money out of an account",
+                partOfSpeech: "Verb",
+                examples: [
+                    "He had to withdraw from the race due to injury.",
+                    "You can withdraw money from the ATM."
+                ],
+                correctOption: "To remove or take away something; to take money out of an account",
+                options: [
+                    "To remove or take away something; to take money out of an account",
+                    "To add something",
+                    "To keep something the same",
+                    "To hide something"
+                ]
+            },
+            {
+                word: "Yield",
+                definition: "To produce or provide; to give way to arguments, demands, or pressure",
+                partOfSpeech: "Verb",
+                examples: [
+                    "The farm yields a good harvest each year.",
+                    "Drivers must yield to pedestrians at crosswalks."
+                ],
+                correctOption: "To produce or provide; to give way to arguments, demands, or pressure",
+                options: [
+                    "To produce or provide; to give way to arguments, demands, or pressure",
+                    "To take away",
+                    "To refuse to give",
+                    "To destroy"
+                ]
+            }
+        ];
+
+        // Function to shuffle array (Fisher-Yates algorithm)
+        function shuffleArray(array) {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        }
+
+        // Create a copy of original vocabulary with shuffled options
+        function createShuffledVocabulary() {
+            return originalVocabulary.map(word => {
+                return {
+                    ...word,
+                    options: shuffleArray([...word.options])
+                };
+            });
+        }
+
+        // Current vocabulary for this session (will be shuffled on init/reset)
+        let vocabulary = [];
+
+        // Quiz state variables
+        let currentQuestionIndex = 0;
+        let userAnswers = new Array(originalVocabulary.length).fill(null);
+        let timeLeft = 30 * 60; // 30 minutes in seconds
+        let timerInterval;
+        let quizSubmitted = false;
+
+        // DOM elements
+        const quizContainer = document.getElementById('quiz-container');
+        const resultsContainer = document.getElementById('results-container');
+        const timerElement = document.getElementById('timer');
+        const currentQuestionElement = document.getElementById('current-question');
+        const progressBar = document.getElementById('progress-bar');
+        const questionNavElement = document.getElementById('question-nav');
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const resetBtn = document.getElementById('reset-btn');
+        const printBtn = document.getElementById('print-btn');
+        const tryAgainBtn = document.getElementById('try-again-btn');
+        const scoreElement = document.getElementById('score');
+        const scoreTextElement = document.getElementById('score-text');
+        const wordDetailsElement = document.getElementById('word-details');
+        const printDateElement = document.getElementById('print-date');
+
+        // Initialize the quiz
+        function initQuiz() {
+            // Create new shuffled vocabulary for this session
+            vocabulary = createShuffledVocabulary();
+            
+            displayQuestion();
+            createQuestionNav();
+            startTimer();
+            updateProgressBar();
+            
+            // Add event listeners
+            prevBtn.addEventListener('click', goToPrevQuestion);
+            nextBtn.addEventListener('click', goToNextQuestion);
+            resetBtn.addEventListener('click', resetQuiz);
+            printBtn.addEventListener('click', printResults);
+            tryAgainBtn.addEventListener('click', resetQuiz);
+        }
+
+        // Display the current question
+        function displayQuestion() {
+            const question = vocabulary[currentQuestionIndex];
+            
+            // Update question counter
+            currentQuestionElement.textContent = currentQuestionIndex + 1;
+            
+            // Update navigation buttons state
+            updateNavButtons();
+            
+            // Create question HTML
+            let optionsHTML = '';
+            question.options.forEach((option, index) => {
+                const optionId = `q${currentQuestionIndex}-option${index}`;
+                let optionClass = 'option';
+                
+                // If quiz has been submitted, show correct/incorrect status
+                if (quizSubmitted) {
+                    if (option === question.correctOption) {
+                        optionClass += ' correct';
+                    } else if (userAnswers[currentQuestionIndex] === option) {
+                        optionClass += ' incorrect';
+                    } else {
+                        optionClass += ' unattempted';
+                    }
+                } else if (userAnswers[currentQuestionIndex] === option) {
+                    optionClass += ' selected';
+                }
+                
+                optionsHTML += `
+                    <div class="${optionClass}" data-option="${option}" onclick="selectOption(${currentQuestionIndex}, '${option.replace(/'/g, "\\'")}')">
+                        ${option}
+                    </div>
+                `;
+            });
+            
+            const questionHTML = `
+                <div class="question-box">
+                    <div class="word">${question.word}</div>
+                    <div class="options">${optionsHTML}</div>
+                </div>
+            `;
+            
+            quizContainer.innerHTML = questionHTML;
+        }
+
+        // Create question navigation buttons
+        function createQuestionNav() {
+            let navHTML = '';
+            for (let i = 0; i < vocabulary.length; i++) {
+                let btnClass = 'question-nav-btn';
+                if (i === currentQuestionIndex) {
+                    btnClass += ' current';
+                }
+                if (userAnswers[i] !== null) {
+                    btnClass += ' answered';
+                }
+                navHTML += `<button class="${btnClass}" onclick="goToQuestion(${i})">${i + 1}</button>`;
+            }
+            questionNavElement.innerHTML = navHTML;
+        }
+
+        // Update question navigation buttons
+        function updateQuestionNav() {
+            const buttons = questionNavElement.querySelectorAll('.question-nav-btn');
+            buttons.forEach((btn, index) => {
+                btn.className = 'question-nav-btn';
+                if (index === currentQuestionIndex) {
+                    btn.classList.add('current');
+                }
+                if (userAnswers[index] !== null) {
+                    btn.classList.add('answered');
+                }
+            });
+        }
+
+        // Go to a specific question
+        function goToQuestion(index) {
+            if (quizSubmitted) return; // Don't allow navigation after submission
+            
+            currentQuestionIndex = index;
+            displayQuestion();
+            updateQuestionNav();
+            updateProgressBar();
+            window.scrollTo(0, 0);
+        }
+
+        // Go to previous question
+        function goToPrevQuestion() {
+            if (currentQuestionIndex > 0) {
+                goToQuestion(currentQuestionIndex - 1);
+            }
+        }
+
+        // Go to next question - on last question, this becomes submit
+        function goToNextQuestion() {
+            if (currentQuestionIndex === vocabulary.length - 1) {
+                submitQuiz();
+            } else if (currentQuestionIndex < vocabulary.length - 1) {
+                goToQuestion(currentQuestionIndex + 1);
+            }
+        }
+
+        // Update navigation buttons state
+        function updateNavButtons() {
+            prevBtn.disabled = currentQuestionIndex === 0;
+            
+            if (currentQuestionIndex === vocabulary.length - 1) {
+                nextBtn.innerHTML = 'Submit Quiz <i class="fas fa-paper-plane"></i>';
+                nextBtn.style.backgroundColor = '#2ecc71';
+            } else {
+                nextBtn.innerHTML = 'Next <i class="fas fa-arrow-right"></i>';
+                nextBtn.style.backgroundColor = '#1e90ff';
+            }
+        }
+
+        // Update progress bar
+        function updateProgressBar() {
+            const progress = ((currentQuestionIndex + 1) / vocabulary.length) * 100;
+            progressBar.style.width = `${progress}%`;
+        }
+
+        // Select an option for a question
+        function selectOption(questionIndex, option) {
+            if (quizSubmitted) return; // Don't allow selection after submission
+            
+            userAnswers[questionIndex] = option;
+            
+            // Update the question display if we're on that question
+            if (questionIndex === currentQuestionIndex) {
+                displayQuestion();
+            }
+            
+            // Update the navigation buttons
+            updateQuestionNav();
+        }
+
+        // Start the countdown timer
+        function startTimer() {
+            clearInterval(timerInterval); // Clear any existing timer
+            
+            timerInterval = setInterval(() => {
+                timeLeft--;
+                
+                // Update timer display
+                const minutes = Math.floor(timeLeft / 60);
+                const seconds = timeLeft % 60;
+                timerElement.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                
+                // Add warning class when less than 5 minutes remain
+                if (timeLeft <= 300 && !timerElement.classList.contains('warning')) {
+                    timerElement.classList.add('warning');
+                }
+                
+                // Auto-submit when time runs out
+                if (timeLeft <= 0) {
+                    clearInterval(timerInterval);
+                    submitQuiz();
+                }
+            }, 1000);
+        }
+
+        // Submit the quiz and show results
+        function submitQuiz() {
+            clearInterval(timerInterval);
+            quizSubmitted = true;
+            
+            // Calculate score
+            let score = 0;
+            vocabulary.forEach((question, index) => {
+                if (userAnswers[index] === question.correctOption) {
+                    score++;
+                }
+            });
+            
+            // Display score
+            scoreElement.textContent = `${score}/${vocabulary.length}`;
+            
+            // Set score text based on performance
+            let scoreText = '';
+            if (score === vocabulary.length) {
+                scoreText = "Perfect! You're a vocabulary expert!";
+            } else if (score >= vocabulary.length * 0.8) {
+                scoreText = "Excellent! You know most of these words!";
+            } else if (score >= vocabulary.length * 0.6) {
+                scoreText = "Good job! You're learning well!";
+            } else if (score >= vocabulary.length * 0.4) {
+                scoreText = "Keep practicing to improve your vocabulary!";
+            } else {
+                scoreText = "Don't give up! Learning new words takes time!";
+            }
+            scoreTextElement.textContent = scoreText;
+            
+            // Display word details
+            displayWordDetails();
+            
+            // Set print date
+            const now = new Date();
+            printDateElement.textContent = `Printed on: ${now.toLocaleDateString()} at ${now.toLocaleTimeString()}`;
+            
+            // Switch to results view
+            document.querySelector('.quiz-container').style.display = 'none';
+            document.querySelector('.timer-section').style.display = 'none';
+            document.querySelector('.buttons-row').style.display = 'none';
+            document.querySelector('.progress-section').style.display = 'none';
+            resultsContainer.style.display = 'block';
+            
+            // Scroll to top
+            window.scrollTo(0, 0);
+        }
+
+        // Display word details after quiz submission
+        function displayWordDetails() {
+            let detailsHTML = '';
+            
+            vocabulary.forEach((word, index) => {
+                const userAnswer = userAnswers[index];
+                const isCorrect = userAnswer === word.correctOption;
+                let answerStatusClass = '';
+                let answerStatusText = '';
+                
+                if (userAnswer === null) {
+                    answerStatusClass = 'unattempted';
+                    answerStatusText = 'Unattempted';
+                } else if (isCorrect) {
+                    answerStatusClass = 'correct';
+                    answerStatusText = 'Correct';
+                } else {
+                    answerStatusClass = 'incorrect';
+                    answerStatusText = 'Incorrect';
+                }
+                
+                detailsHTML += `
+                    <div class="word-card">
+                        <div class="word-header">
+                            <div class="word-title">${word.word}</div>
+                            <div class="part-of-speech">${word.partOfSpeech}</div>
+                        </div>
+                        <div class="definition"><strong>Definition:</strong> ${word.definition}</div>
+                        <div class="user-answer ${answerStatusClass}">
+                            <strong>Your answer:</strong> ${userAnswer || 'No answer selected'} (${answerStatusText})
+                        </div>
+                        <div class="example"><strong>Example 1:</strong> ${word.examples[0]}</div>
+                        <div class="example"><strong>Example 2:</strong> ${word.examples[1]}</div>
+                    </div>
+                `;
+            });
+            
+            wordDetailsElement.innerHTML = detailsHTML;
+        }
+
+        // Reset the quiz to initial state
+        function resetQuiz() {
+            // Create new shuffled vocabulary
+            vocabulary = createShuffledVocabulary();
+            
+            currentQuestionIndex = 0;
+            userAnswers = new Array(vocabulary.length).fill(null);
+            timeLeft = 30 * 60;
+            quizSubmitted = false;
+            
+            // Reset timer display
+            timerElement.textContent = "30:00";
+            timerElement.classList.remove('warning');
+            
+            // Reset progress bar
+            progressBar.style.width = "3.33%";
+            
+            // Show all quiz elements
+            document.querySelector('.quiz-container').style.display = 'block';
+            document.querySelector('.timer-section').style.display = 'flex';
+            document.querySelector('.buttons-row').style.display = 'flex';
+            document.querySelector('.progress-section').style.display = 'block';
+            resultsContainer.style.display = 'none';
+            
+            // Restart timer and display first question
+            startTimer();
+            displayQuestion();
+            createQuestionNav();
+            updateProgressBar();
+            updateNavButtons();
+            
+            // Scroll to top
+            window.scrollTo(0, 0);
+        }
+
+        // Print the results
+        function printResults() {
+            // Ensure all content is visible for printing
+            const wordDetails = document.getElementById('word-details');
+            wordDetails.style.maxHeight = 'none';
+            wordDetails.style.overflow = 'visible';
+            
+            // Print the page
+            window.print();
+        }
+
+        // Make functions available globally
+        window.selectOption = selectOption;
+        window.goToQuestion = goToQuestion;
+
+        // Initialize the quiz when the page loads
+        document.addEventListener('DOMContentLoaded', initQuiz);
+    </script>
+</body>
+</html>

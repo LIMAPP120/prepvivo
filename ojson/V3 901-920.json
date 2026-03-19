@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 901-920)",
+  "description": "Test your knowledge of words 901 to 920",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "voluminous",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Taking up a lot of space; very large in size or quantity",
+      "options": [
+        {
+          "text": "Taking up a lot of space; very large in size or quantity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and compact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely light in weight",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely empty or hollow",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "besmirch",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To damage the reputation of someone or something; to make dirty or stained",
+      "options": [
+        {
+          "text": "To damage the reputation of someone or something; to make dirty or stained",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To clean something until it shines",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To praise someone highly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repair something that is broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "egotist",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A person who is excessively self-centered and talks about themselves too much",
+      "options": [
+        {
+          "text": "A person who is excessively self-centered and talks about themselves too much",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very humble and modest person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Someone who helps others without expecting anything in return",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who studies human behavior",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "retrospect",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) Looking back on or thinking about past events",
+      "options": [
+        {
+          "text": "Looking back on or thinking about past events",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Planning for future events",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Observing current events carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetting about the past completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pungent",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Having a strong, sharp smell or taste",
+      "options": [
+        {
+          "text": "Having a strong, sharp smell or taste",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having no smell or taste at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a sweet and pleasant smell",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having a mild and faint smell",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "humility",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) The quality of being modest and not thinking you are better than others",
+      "options": [
+        {
+          "text": "The quality of being modest and not thinking you are better than others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extreme pride and arrogance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete confidence in one's abilities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tendency to show off",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "adamant",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Refusing to change one's mind; very determined",
+      "options": [
+        {
+          "text": "Refusing to change one's mind; very determined",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easily persuaded to change opinions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely uncertain about everything",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very flexible and adaptable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inveterate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Having a particular habit, activity, or interest that is long-established and unlikely to change",
+      "options": [
+        {
+          "text": "Having a particular habit, activity, or interest that is long-established and unlikely to change",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Trying something for the first time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Frequently changing interests and hobbies",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having no particular habits or routines",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bedlam",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A scene of uproar and confusion",
+      "options": [
+        {
+          "text": "A scene of uproar and confusion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A place of perfect peace and quiet",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A highly organized system",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A formal ceremony or ritual",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exploit",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To make full use of and derive benefit from; to use unfairly for one's own advantage",
+      "options": [
+        {
+          "text": "To make full use of and derive benefit from; to use unfairly for one's own advantage",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To waste or misuse resources",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To share equally with everyone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore or overlook something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cacophony",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A harsh, discordant mixture of sounds",
+      "options": [
+        {
+          "text": "A harsh, discordant mixture of sounds",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A beautiful and harmonious melody",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete and total silence",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A single, clear sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "disgruntled",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Angry or dissatisfied",
+      "options": [
+        {
+          "text": "Angry or dissatisfied",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely happy and content",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely indifferent and uninterested",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very excited and enthusiastic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "propinquity",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) The state of being close to someone or something; proximity",
+      "options": [
+        {
+          "text": "The state of being close to someone or something; proximity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very far away from something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete separation from others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of loneliness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "panacea",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A solution or remedy for all difficulties or diseases",
+      "options": [
+        {
+          "text": "A solution or remedy for all difficulties or diseases",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A problem that has no solution",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A medicine that works for only one specific illness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A temporary fix for a minor problem",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "infallible",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Incapable of making mistakes or being wrong",
+      "options": [
+        {
+          "text": "Incapable of making mistakes or being wrong",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Frequently making errors",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Willing to admit when wrong",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Learning from mistakes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "eradicate",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To destroy completely; to put an end to",
+      "options": [
+        {
+          "text": "To destroy completely; to put an end to",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To create something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To temporarily hide something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repair something that is damaged",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "equanimity",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) Mental calmness, composure, and evenness of temper, especially in a difficult situation",
+      "options": [
+        {
+          "text": "Mental calmness, composure, and evenness of temper, especially in a difficult situation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extreme panic and anxiety",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Great excitement and enthusiasm",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complete indifference to everything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sedate",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective/Verb) Calm, dignified, and unhurried",
+      "options": [
+        {
+          "text": "Calm, dignified, and unhurried",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Wild and uncontrollable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely fast and rushed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very loud and noisy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "serenity",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) The state of being calm, peaceful, and untroubled",
+      "options": [
+        {
+          "text": "The state of being calm, peaceful, and untroubled",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A state of chaos and confusion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extreme excitement and energy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of anger and frustration",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "compatible",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Able to exist or work together without conflict",
+      "options": [
+        {
+          "text": "Able to exist or work together without conflict",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely opposite and conflicting",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Working independently without connection",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Causing problems when together",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

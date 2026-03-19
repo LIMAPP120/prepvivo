@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 341-360)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Cease",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To bring or come to an end; stop",
+      "options": [
+        {
+          "text": "To bring or come to an end; stop",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To begin or start something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To continue without interruption",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To pause temporarily",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Challenge",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A task or situation that tests someone's abilities",
+      "options": [
+        {
+          "text": "A task or situation that tests someone's abilities",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something very easy to do",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A boring routine task",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An impossible task",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Channel",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A medium for communication or the passage of information",
+      "options": [
+        {
+          "text": "A medium for communication or the passage of information",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A barrier that blocks communication",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of television program",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A closed door",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Circumstance",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) A fact or condition connected with or relevant to an event or action",
+      "options": [
+        {
+          "text": "A fact or condition connected with or relevant to an event or action",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random occurrence with no cause",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that never changes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An unimportant detail",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Cite",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To quote as evidence for or justification of an argument or statement",
+      "options": [
+        {
+          "text": "To quote as evidence for or justification of an argument or statement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore evidence",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make up information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget where information came from",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Clarify",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To make a statement or situation less confused and more comprehensible",
+      "options": [
+        {
+          "text": "To make a statement or situation less confused and more comprehensible",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something more confusing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide the true meaning",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore questions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Collaborate",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To work jointly on an activity or project",
+      "options": [
+        {
+          "text": "To work jointly on an activity or project",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To work completely alone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To compete against others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore team members",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Commence",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To begin; start",
+      "options": [
+        {
+          "text": "To begin; start",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To finish or end",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To pause in the middle",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To cancel plans",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Commission",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) An instruction, command, or duty given to a person or group",
+      "options": [
+        {
+          "text": "An instruction, command, or duty given to a person or group",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random suggestion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An unimportant task",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A personal hobby",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Commitment",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) The state or quality of being dedicated to a cause or activity",
+      "options": [
+        {
+          "text": "The state or quality of being dedicated to a cause or activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A lack of interest or dedication",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A temporary interest",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An unwillingness to participate",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Communicate",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To share or exchange information, news, or ideas",
+      "options": [
+        {
+          "text": "To share or exchange information, news, or ideas",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To keep secrets from others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore messages",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To work in silence",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Community",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A group of people living in the same place or having a particular characteristic in common",
+      "options": [
+        {
+          "text": "A group of people living in the same place or having a particular characteristic in common",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A single person living alone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "People who have nothing in common",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A temporary gathering",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Compensate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To give someone something, typically money, in recognition of loss, suffering, or injury",
+      "options": [
+        {
+          "text": "To give someone something, typically money, in recognition of loss, suffering, or injury",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To take something away from someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone's needs",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To cause harm to someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Competence",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) The ability to do something successfully or efficiently",
+      "options": [
+        {
+          "text": "The ability to do something successfully or efficiently",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The inability to perform a task",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A lack of knowledge or skill",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Beginners luck",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Comply",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To act in accordance with a wish or command",
+      "options": [
+        {
+          "text": "To act in accordance with a wish or command",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To refuse to follow instructions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore rules and regulations",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create your own rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Compose",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To write or create a work of art, especially music or poetry",
+      "options": [
+        {
+          "text": "To write or create a work of art, especially music or poetry",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To destroy a work of art",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To copy someone else's work",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget a creative idea",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Compound",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To make something bad become worse; to intensify",
+      "options": [
+        {
+          "text": "To make something bad become worse; to intensify",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To solve a problem completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something better",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore a difficult situation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Compromise",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) An agreement or settlement of a dispute that is reached by each side making concessions",
+      "options": [
+        {
+          "text": "An agreement or settlement of a dispute that is reached by each side making concessions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A situation where one person gets everything they want",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A complete refusal to negotiate",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An argument with no solution",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Conceive",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To form or devise a plan or idea in the mind",
+      "options": [
+        {
+          "text": "To form or devise a plan or idea in the mind",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To forget an important idea",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To reject all new thoughts",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To copy someone else's plan",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Concentrate",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To focus one's attention or mental effort on a particular object or activity",
+      "options": [
+        {
+          "text": "To focus one's attention or mental effort on a particular object or activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To let your mind wander",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore important information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To multitask with many things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

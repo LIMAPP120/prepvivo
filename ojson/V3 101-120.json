@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 101-120)",
+  "description": "Test your knowledge of words 101 to 120",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "sneer",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb/Noun) To smile or speak in a way that shows you don't respect someone",
+      "options": [
+        {
+          "text": "To smile or speak in a way that shows you don't respect someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To laugh happily with friends",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone who is in trouble",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To whisper a secret to a friend",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "snitch",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb/Noun) To tell someone in authority about something wrong that someone did",
+      "options": [
+        {
+          "text": "To tell someone in authority about something wrong that someone did",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To borrow something and return it later",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To share your lunch with a friend",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To study hard for a difficult test",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "snob",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A person who thinks they are better than other people because of their taste or social class",
+      "options": [
+        {
+          "text": "A person who thinks they are better than other people because of their taste or social class",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who helps everyone without expecting anything in return",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who is always happy and smiling",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who is very good at sports",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nonchalant",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Acting calm and relaxed, as if you don't care about something",
+      "options": [
+        {
+          "text": "Acting calm and relaxed, as if you don't care about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very excited and jumping up and down",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling very worried and nervous",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Working very hard on a difficult task",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intrepid",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Very brave and not afraid of danger",
+      "options": [
+        {
+          "text": "Very brave and not afraid of danger",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very scared of small insects",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very tired after a long day",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very hungry and wanting to eat",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "furtive",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Done secretly because you don't want to be seen or noticed",
+      "options": [
+        {
+          "text": "Done secretly because you don't want to be seen or noticed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Done loudly and proudly for everyone to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Done very slowly and carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Done quickly without thinking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "reticent",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Not willing to talk about your thoughts or feelings",
+      "options": [
+        {
+          "text": "Not willing to talk about your thoughts or feelings",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Talking too much and annoying people",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Sharing everything with everyone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Singing loudly and happily",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "plethora",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A very large amount of something, more than is needed",
+      "options": [
+        {
+          "text": "A very large amount of something, more than is needed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very small amount that is not enough",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly the right amount for what is needed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something that is very expensive",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "felon",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A person who has committed a serious crime",
+      "options": [
+        {
+          "text": "A person who has committed a serious crime",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who helps sick people get better",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who teaches children in school",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who fixes cars for a living",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "irate",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Very angry or furious about something",
+      "options": [
+        {
+          "text": "Very angry or furious about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very happy and excited about good news",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very sad about losing something important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very tired after working all day",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hapless",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Unlucky or unfortunate",
+      "options": [
+        {
+          "text": "Unlucky or unfortunate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very lucky and successful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very smart and intelligent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very strong and powerful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fabricate",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To make up something that is not true; to invent a lie",
+      "options": [
+        {
+          "text": "To make up something that is not true; to invent a lie",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To tell the truth about what happened",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To build something with tools and materials",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To draw a beautiful picture with colors",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pretext",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A false reason given to hide the real reason for doing something",
+      "options": [
+        {
+          "text": "A false reason given to hide the real reason for doing something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The main reason why something happens",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very good reason that everyone believes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A plan for what you want to do in the future",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gesticulate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To make hand movements while speaking to express yourself better",
+      "options": [
+        {
+          "text": "To make hand movements while speaking to express yourself better",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To sit very still and not move at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To write something down in a notebook",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To whisper so no one else can hear",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "adroit",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Skillful and clever in handling difficult situations",
+      "options": [
+        {
+          "text": "Skillful and clever in handling difficult situations",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Clumsy and likely to drop things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Slow at understanding new ideas",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgetful and always losing things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "avid",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Very enthusiastic and interested in something",
+      "options": [
+        {
+          "text": "Very enthusiastic and interested in something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not interested in anything at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Afraid of trying new things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tired of doing the same thing every day",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vigilant",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Watching carefully for possible danger or problems",
+      "options": [
+        {
+          "text": "Watching carefully for possible danger or problems",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Sleeping deeply and not waking up easily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ignoring things that might be important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Playing without paying attention to anything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rudimentary",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Basic, simple, or not fully developed",
+      "options": [
+        {
+          "text": "Basic, simple, or not fully developed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very advanced and complicated",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Perfect and without any flaws",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Colorful and beautiful to look at",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cajole",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To persuade someone to do something by being nice to them",
+      "options": [
+        {
+          "text": "To persuade someone to do something by being nice to them",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To force someone to do something by threatening them",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone who is asking for help",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To argue with someone about what is right",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nuance",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A small difference in meaning, feeling, or tone",
+      "options": [
+        {
+          "text": "A small difference in meaning, feeling, or tone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very big difference that is easy to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that is exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A mistake that changes everything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

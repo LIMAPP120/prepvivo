@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 1041-1060)",
+  "description": "Test your knowledge of words 1041 to 1060",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "parable",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A simple story that teaches a moral or spiritual lesson",
+      "options": [
+        {
+          "text": "A simple story that teaches a moral or spiritual lesson",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of fruit that is sweet and juicy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A tool used for digging in the garden",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A loud musical instrument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "countenance",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A person's face or facial expression",
+      "options": [
+        {
+          "text": "A person's face or facial expression",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of clothing worn in cold weather",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small bird with colorful feathers",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool for counting numbers",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lampoon",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To publicly criticize someone or something by using humor or mockery",
+      "options": [
+        {
+          "text": "To publicly criticize someone or something by using humor or mockery",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To clean something until it shines brightly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To play a musical instrument very softly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To write a serious and formal letter",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sanctimonious",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Acting morally superior to others; pretending to be very holy or good",
+      "options": [
+        {
+          "text": "Acting morally superior to others; pretending to be very holy or good",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very kind and helpful to everyone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a strong interest in science",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being physically strong and athletic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nonentity",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A person or thing with no special importance or significance",
+      "options": [
+        {
+          "text": "A person or thing with no special importance or significance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very important and famous person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of delicious dessert",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A vehicle that can travel in space",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "effrontery",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) Extreme rudeness or boldness that is shocking or disrespectful",
+      "options": [
+        {
+          "text": "Extreme rudeness or boldness that is shocking or disrespectful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A special talent for painting beautiful pictures",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being very careful and paying attention to details",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of great happiness and excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "debacle",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A complete failure or disaster, especially in a humiliating way",
+      "options": [
+        {
+          "text": "A complete failure or disaster, especially in a humiliating way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A delicious type of French pastry",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small boat used for fishing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A successful and well-organized event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "flabbergasted",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Extremely surprised or shocked; speechless with amazement",
+      "options": [
+        {
+          "text": "Extremely surprised or shocked; speechless with amazement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling very tired and wanting to sleep",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being extremely hungry before dinner",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling cold on a winter day",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gaunt",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Very thin and bony, often because of illness, hunger, or worry",
+      "options": [
+        {
+          "text": "Very thin and bony, often because of illness, hunger, or worry",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely tall and impressive",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a round and chubby face",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very strong with big muscles",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vivacious",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Full of life and energy; lively and cheerful",
+      "options": [
+        {
+          "text": "Full of life and energy; lively and cheerful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very quiet and shy around people",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being serious and thoughtful most of the time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having a talent for solving math problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hirsute",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Having a lot of hair, especially on the face or body",
+      "options": [
+        {
+          "text": "Having a lot of hair, especially on the face or body",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being completely bald with no hair",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having very smooth and soft skin",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very tall and thin",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mien",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A person's appearance, manner, or demeanor, especially as showing their character",
+      "options": [
+        {
+          "text": "A person's appearance, manner, or demeanor, especially as showing their character",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small insect that lives in gardens",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of delicious cheese from France",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool used for cleaning windows",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pensive",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Engaged in deep or serious thought; appearing thoughtful or reflective",
+      "options": [
+        {
+          "text": "Engaged in deep or serious thought; appearing thoughtful or reflective",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very active and running around",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Laughing loudly and having fun",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Eating food very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "refute",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To prove a statement, theory, or person to be wrong or false",
+      "options": [
+        {
+          "text": "To prove a statement, theory, or person to be wrong or false",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To agree completely with someone's opinion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make a loud noise to get attention",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repair something that is broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stupor",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A state of near-unconsciousness or mental numbness, often from shock, illness, or drugs",
+      "options": [
+        {
+          "text": "A state of near-unconsciousness or mental numbness, often from shock, illness, or drugs",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great excitement and happiness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A loud celebration with music and dancing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A very intelligent and clever idea",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "whet",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To sharpen a blade or tool; to stimulate or increase appetite, interest, or desire",
+      "options": [
+        {
+          "text": "To sharpen a blade or tool; to stimulate or increase appetite, interest, or desire",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something wet with water",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To clean something until it shines",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To throw something away in the trash",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cliché",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) An overused phrase or idea that has lost its original effectiveness",
+      "options": [
+        {
+          "text": "An overused phrase or idea that has lost its original effectiveness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A brand new and original idea",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of French pastry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A loud and sudden noise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "wince",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To make a slight involuntary grimace or shrinking movement, especially from pain or distress",
+      "options": [
+        {
+          "text": "To make a slight involuntary grimace or shrinking movement, especially from pain or distress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To smile brightly at someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To run very quickly in a race",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To sing a song loudly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "candid",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Truthful and straightforward; frank; not posed or rehearsed",
+      "options": [
+        {
+          "text": "Truthful and straightforward; frank; not posed or rehearsed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being shy and avoiding eye contact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Wearing fancy and expensive clothes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Speaking in a very soft voice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "genre",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A category or style of art, music, or literature with a particular form or content",
+      "options": [
+        {
+          "text": "A category or style of art, music, or literature with a particular form or content",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of fruit that is yellow and curved",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A tool used for painting pictures",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A country in Europe known for its food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

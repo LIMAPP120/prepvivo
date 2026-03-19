@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 1081-1100)",
+  "description": "Test your knowledge of words 1081 to 1100",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "servile",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Excessively willing to serve or please others; behaving like a servant",
+      "options": [
+        {
+          "text": "Excessively willing to serve or please others; behaving like a servant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very brave and courageous in difficult situations",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Highly intelligent and knowledgeable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely creative and artistic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "austere",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Simple, plain, and without luxury or decoration; strict and serious",
+      "options": [
+        {
+          "text": "Simple, plain, and without luxury or decoration; strict and serious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very colorful and decorated with many ornaments",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely comfortable and luxurious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of laughter and fun activities",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sojourn",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A temporary stay or visit in a place away from home",
+      "options": [
+        {
+          "text": "A temporary stay or visit in a place away from home",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A permanent move to a new country",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A short walk in the neighborhood",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of long-distance journey by ship",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "halcyon",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Peaceful, happy, and prosperous; a time of peace and tranquility",
+      "options": [
+        {
+          "text": "Peaceful, happy, and prosperous; a time of peace and tranquility",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very stormy and chaotic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely difficult and challenging",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of worries and anxiety",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "felicitous",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Well chosen or suited to the circumstances; pleasing and fortunate",
+      "options": [
+        {
+          "text": "Well chosen or suited to the circumstances; pleasing and fortunate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Poorly chosen and inappropriate",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very ordinary and unremarkable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely random and without planning",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "superfluous",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) More than what is needed; unnecessary or excessive",
+      "options": [
+        {
+          "text": "More than what is needed; unnecessary or excessive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Absolutely necessary and essential",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly the right amount needed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely missing or absent",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tenable",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Able to be defended or maintained; reasonable and logical",
+      "options": [
+        {
+          "text": "Able to be defended or maintained; reasonable and logical",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely false and impossible to defend",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very weak and easily broken",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely complicated and confusing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rationalize",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To try to explain or justify behavior with logical reasons, even if they're not true",
+      "options": [
+        {
+          "text": "To try to explain or justify behavior with logical reasons, even if they're not true",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To tell the complete truth without excuses",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something more complicated than it needs to be",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "motivate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To provide someone with a reason to do something; to inspire action",
+      "options": [
+        {
+          "text": "To provide someone with a reason to do something; to inspire action",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To discourage someone from doing something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To confuse someone with too many options",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To prevent someone from taking action",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nascent",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Just beginning to exist or develop; in the early stages",
+      "options": [
+        {
+          "text": "Just beginning to exist or develop; in the early stages",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Fully developed and mature",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Coming to an end or finishing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and well-established",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "therapy",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) Treatment intended to relieve or heal a disorder; help for emotional or physical problems",
+      "options": [
+        {
+          "text": "Treatment intended to relieve or heal a disorder; help for emotional or physical problems",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of game or entertainment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A scientific experiment in a laboratory",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A difficult test or examination",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "erudite",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing great knowledge or learning; scholarly",
+      "options": [
+        {
+          "text": "Having or showing great knowledge or learning; scholarly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having very little education or knowledge",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being physically strong and athletic",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having natural talent without formal training",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "iconoclast",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A person who attacks cherished beliefs or institutions; someone who challenges tradition",
+      "options": [
+        {
+          "text": "A person who attacks cherished beliefs or institutions; someone who challenges tradition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who strictly follows all rules and traditions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A religious leader who performs ceremonies",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A builder who constructs houses and buildings",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "germane",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Relevant and appropriate to what is being discussed or considered",
+      "options": [
+        {
+          "text": "Relevant and appropriate to what is being discussed or considered",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely unrelated and off-topic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very boring and uninteresting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely important and critical",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "phobia",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) An extreme or irrational fear of a specific thing or situation",
+      "options": [
+        {
+          "text": "An extreme or irrational fear of a specific thing or situation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A strong liking or preference for something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A mild curiosity about something new",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complete indifference or lack of interest",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "conducive",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Making a certain situation or outcome likely or possible; favorable",
+      "options": [
+        {
+          "text": "Making a certain situation or outcome likely or possible; favorable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Preventing something from happening successfully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely unrelated to the outcome",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making something more difficult than necessary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vertigo",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A dizzy sensation of spinning or losing balance, often when looking down from heights",
+      "options": [
+        {
+          "text": "A dizzy sensation of spinning or losing balance, often when looking down from heights",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great happiness and excitement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A sharp pain in the head or temples",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sudden rush of energy and strength",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "homogeneous",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Made up of the same kind of people or things; uniform in composition",
+      "options": [
+        {
+          "text": "Made up of the same kind of people or things; uniform in composition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Made up of many different and varied elements",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Changing constantly and unpredictably",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very colorful and visually diverse",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "glib",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Speaking easily and confidently, but without careful thought or sincerity",
+      "options": [
+        {
+          "text": "Speaking easily and confidently, but without careful thought or sincerity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Speaking with great thought and sincerity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Speaking very slowly and carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being unable to speak clearly or fluently",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "legerdemain",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) Skillful use of one's hands, especially in performing magic tricks; deception or trickery",
+      "options": [
+        {
+          "text": "Skillful use of one's hands, especially in performing magic tricks; deception or trickery",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete honesty and transparency in all actions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Clumsy and awkward handling of objects",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A straightforward and simple explanation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

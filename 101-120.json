@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 101-120)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Efficient",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Working in a way that gets results without wasting time or energy",
+      "options": [
+        {
+          "text": "Working in a way that gets results without wasting time or energy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something more complicated than necessary",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To raise or lift something up",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To remove or get rid of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Elaborate",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Containing a lot of careful detail or many detailed parts",
+      "options": [
+        {
+          "text": "Simple and easy to understand",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Containing a lot of careful detail or many detailed parts",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To make something better or more valuable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make someone feel excited and interested",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Elevate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To raise something or lift something up",
+      "options": [
+        {
+          "text": "To lower something or make it worse",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To remove something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To raise something or lift something up",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "To make something less important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Eliminate",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To remove or get rid of something",
+      "options": [
+        {
+          "text": "To add something new",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To remove or get rid of something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To make something better",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To choose something carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Eloquent",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Able to use language and express your opinions well",
+      "options": [
+        {
+          "text": "Unable to speak clearly",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Able to use language and express your opinions well",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Speaking too quietly to be heard",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Using difficult words that are hard to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Emphasize",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To show that something is especially important or needs special attention",
+      "options": [
+        {
+          "text": "To ignore or forget about something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To show that something is especially important or needs special attention",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To make something less noticeable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repeat something many times",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Encourage",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To give someone support, confidence or hope",
+      "options": [
+        {
+          "text": "To give someone support, confidence or hope",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone feel sad or disappointed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stop someone from doing something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To tell someone they are wrong",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Endanger",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To put someone or something in danger",
+      "options": [
+        {
+          "text": "To protect someone from harm",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To put someone or something in danger",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To help someone in trouble",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To save someone from danger",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Endurance",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) The ability to keep doing something difficult or painful for a long time",
+      "options": [
+        {
+          "text": "The ability to keep doing something difficult or painful for a long time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The feeling of being very tired",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The desire to stop doing something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The ability to do something quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Enhance",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To improve the quality, amount or strength of something",
+      "options": [
+        {
+          "text": "To make something worse",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To improve the quality, amount or strength of something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To remove something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To keep something the same",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Enthusiastic",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Showing intense and eager enjoyment, interest, or approval",
+      "options": [
+        {
+          "text": "Showing no interest or emotion",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Showing intense and eager enjoyment, interest, or approval",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Feeling worried or nervous",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being angry or upset",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Environment",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) The surroundings or conditions in which a person, animal, or plant lives",
+      "options": [
+        {
+          "text": "The inside of a building",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "The surroundings or conditions in which a person, animal, or plant lives",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "A place where people work",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A natural disaster",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Envious",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Wanting something that someone else has",
+      "options": [
+        {
+          "text": "Happy for someone else's success",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Wanting something that someone else has",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Not caring about what others have",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling satisfied with what you have",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Essential",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Extremely important and necessary",
+      "options": [
+        {
+          "text": "Not very important",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Extremely important and necessary",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Nice to have but not necessary",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Rare and difficult to find",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Establish",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To set up or create something that will last for a long time",
+      "options": [
+        {
+          "text": "To destroy or break something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To set up or create something that will last for a long time",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To visit a place briefly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To think about an idea",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Estimate",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To guess or calculate the cost, size, value, etc. of something",
+      "options": [
+        {
+          "text": "To know something for sure",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To guess or calculate the cost, size, value, etc. of something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To pay for something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To measure something exactly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Evaluate",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To judge or calculate the quality, importance, amount, or value of something",
+      "options": [
+        {
+          "text": "To ignore or forget about something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To judge or calculate the quality, importance, amount, or value of something",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To create something new",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Evidence",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) Facts or physical signs that help to prove something",
+      "options": [
+        {
+          "text": "Facts or physical signs that help to prove something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling that something is true",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A story that might not be true",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An opinion without facts",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Evolution",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) The gradual development of something, especially from simple to more complex forms",
+      "options": [
+        {
+          "text": "The sudden change of something",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "The gradual development of something, especially from simple to more complex forms",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "The destruction of something over time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The repetition of the same thing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Exaggerate",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To make something seem larger, better, worse, or more important than it really is",
+      "options": [
+        {
+          "text": "To make something seem larger, better, worse, or more important than it really is",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To tell the exact truth about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something smaller than it is",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget important details",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

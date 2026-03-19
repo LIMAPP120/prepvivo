@@ -1,0 +1,175 @@
+{
+  "title": "Extracted Vocabulary Questions (Last 10 from each list)",
+  "description": "Combined last 10 questions from all vocabulary lists (words 321‑650).",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Volume",
+      "points": 1,
+      "explanation": "(Noun) The amount of space that a substance or object occupies",
+      "options": [
+        {
+          "text": "The amount of space that a substance or object occupies",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The weight of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The color of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The smell of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 105
+    },
+    {
+      "text": "Welfare",
+      "points": 1,
+      "explanation": "(Noun) The health, happiness, and fortunes of a person or group",
+      "options": [
+        {
+          "text": "The health, happiness, and fortunes of a person or group",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The sadness of someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The wealth of a country",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The size of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 106
+    },
+    {
+      "text": "Whereas",
+      "points": 1,
+      "explanation": "(Conjunction) In contrast or comparison with the fact that",
+      "options": [
+        {
+          "text": "In contrast or comparison with the fact that",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Because of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "At the same time as",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "After something happens",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 107
+    },
+    {
+      "text": "Widespread",
+      "points": 1,
+      "explanation": "(Adjective) Found or distributed over a large area or number of people",
+      "options": [
+        {
+          "text": "Found or distributed over a large area or number of people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Limited to a small area",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Secret and hidden",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Temporary",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 108
+    },
+    {
+      "text": "Withdraw",
+      "points": 1,
+      "explanation": "(Verb) To remove or take away something; to take money out of an account",
+      "options": [
+        {
+          "text": "To remove or take away something; to take money out of an account",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To add something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To keep something the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide something",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 109
+    },
+    {
+      "text": "Yield",
+      "points": 1,
+      "explanation": "(Verb) To produce or provide; to give way to arguments, demands, or pressure",
+      "options": [
+        {
+          "text": "To produce or provide; to give way to arguments, demands, or pressure",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To take away",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To refuse to give",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 110
+    }
+  ]
+}

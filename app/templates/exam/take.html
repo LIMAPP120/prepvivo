@@ -1,0 +1,48 @@
+{% extends "base.html" %} {% block title %}{{ exam.title }}{% endblock %} {%
+block content %}
+
+<div class="quiz-preview">
+  <div class="quiz-info">
+    <div class="quiz-header">
+      <h2>{{ exam.title }}</h2>
+      <span class="timer"
+        ><i class="far fa-clock"></i> {{ exam.time_limit_minutes }}
+        minutes</span
+      >
+    </div>
+    <p style="color: #555e6b">{{ exam.description }}</p>
+    <form
+      method="post"
+      action="{{ url_for('exam.submit_exam', exam_id=exam.id) }}"
+    >
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+      {% for question in questions %}
+      <div class="quiz-question">
+        <h3>Question {{ loop.index }}: {{ question.text }}</h3>
+        <div class="options">
+          {% for option in question.options %}
+          <div>
+            <input
+              type="radio"
+              name="q_{{ question.id }}"
+              value="{{ option.id }}"
+              id="opt{{ option.id }}"
+              required
+            />
+            <label for="opt{{ option.id }}" class="option-item"
+              >{{ option.text }}</label
+            >
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+      <div class="quiz-footer">
+        <button type="submit" class="btn-primary" style="margin: 0 auto">
+          Submit Exam
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}

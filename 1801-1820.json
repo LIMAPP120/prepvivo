@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1801-1820)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "pickaxes",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) Tools with a sharp metal head on a long handle, used for breaking hard ground or rocks",
+      "options": [
+        {
+          "text": "Tools with a sharp metal head on a long handle, used for breaking hard ground or rocks",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Small hand tools used for planting seeds in soil",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Electronic devices for measuring distance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Kitchen utensils for cutting vegetables",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cottage",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A small, simple house, usually in the countryside",
+      "options": [
+        {
+          "text": "A small, simple house, usually in the countryside",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A tall building with many apartments in the city",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A large palace with many rooms",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A temporary shelter made of cloth",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "promptly",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adverb) Immediately, without delay, or at the right time",
+      "options": [
+        {
+          "text": "Immediately, without delay, or at the right time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very slowly and carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Sometimes but not regularly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "With great difficulty and effort",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "idly",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adverb) Doing nothing active, being lazy or without purpose",
+      "options": [
+        {
+          "text": "Doing nothing active, being lazy or without purpose",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Working very hard and energetically",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Moving quickly from one place to another",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Speaking loudly and confidently",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "particular",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Specific, special, or showing careful attention to details",
+      "options": [
+        {
+          "text": "Specific, special, or showing careful attention to details",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very ordinary and common",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Large in size or amount",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happy and cheerful all the time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pesky",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Annoying or troublesome in a small but persistent way",
+      "options": [
+        {
+          "text": "Annoying or troublesome in a small but persistent way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very helpful and useful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely large and powerful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "retrograde",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Moving backward or returning to an earlier, less developed state",
+      "options": [
+        {
+          "text": "Moving backward or returning to an earlier, less developed state",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Moving forward quickly and efficiently",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Staying in the same place without change",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Spinning around very fast in circles",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "amnesia",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) Loss of memory, usually caused by injury, illness, or shock",
+      "options": [
+        {
+          "text": "Loss of memory, usually caused by injury, illness, or shock",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A great ability to remember everything perfectly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of great happiness and excitement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sudden increase in knowledge and understanding",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gibberish",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Meaningless or unintelligible speech or writing",
+      "options": [
+        {
+          "text": "Meaningless or unintelligible speech or writing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very clear and precise instructions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Beautiful poetry with deep meaning",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Important scientific facts and information",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "skeptic",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) A person who doubts or questions claims that others accept as true",
+      "options": [
+        {
+          "text": "A person who doubts or questions claims that others accept as true",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who believes everything without question",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who creates new inventions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who teaches others how to do things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hitch",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A temporary problem or difficulty that causes delay",
+      "options": [
+        {
+          "text": "A temporary problem or difficulty that causes delay",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very successful and smooth process",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A permanent solution to a problem",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of vehicle for transportation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "demonstrative",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Showing feelings openly and clearly, especially affection",
+      "options": [
+        {
+          "text": "Showing feelings openly and clearly, especially affection",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Hiding emotions and keeping feelings private",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being angry and upset most of the time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not caring about other people's feelings",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "neutralise",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To make something ineffective or harmless",
+      "options": [
+        {
+          "text": "To make something ineffective or harmless",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something stronger and more powerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To create something new and original",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To break something into small pieces",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "affectionate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Showing love, fondness, or tenderness",
+      "options": [
+        {
+          "text": "Showing love, fondness, or tenderness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Showing anger and frustration",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being indifferent and uncaring",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being strict and serious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gesture",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A movement of the body, especially the hands, to express an idea or feeling",
+      "options": [
+        {
+          "text": "A movement of the body, especially the hands, to express an idea or feeling",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A loud sound made to get someone's attention",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A written message sent to someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A facial expression showing surprise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "confront",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To face someone or something difficult or challenging directly",
+      "options": [
+        {
+          "text": "To face someone or something difficult or challenging directly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To avoid or run away from a problem",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone solve their problems",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore something and hope it goes away",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "citrine",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A yellow or yellowish-brown precious stone, a type of quartz",
+      "options": [
+        {
+          "text": "A yellow or yellowish-brown precious stone, a type of quartz",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of fruit that is sour and yellow",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A bright yellow flower that blooms in spring",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A chemical used for cleaning purposes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sucralose",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) An artificial sweetener used in place of sugar",
+      "options": [
+        {
+          "text": "An artificial sweetener used in place of sugar",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A natural type of honey made by bees",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A chemical used for preserving food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of salt used in cooking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abduct",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To take someone away illegally by force or deception",
+      "options": [
+        {
+          "text": "To take someone away illegally by force or deception",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To rescue someone from danger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To invite someone to a party or event",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone a new skill",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "kidnap",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To take someone away illegally and keep them as a prisoner, usually to demand money",
+      "options": [
+        {
+          "text": "To take someone away illegally and keep them as a prisoner, usually to demand money",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To adopt a child legally",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hire someone for a job",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To visit someone at their home",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

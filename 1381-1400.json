@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1381-1400)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "expatriate",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A person who lives outside their native country",
+      "options": [
+        {
+          "text": "A person who lives outside their native country",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Someone who loves their country very much",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who studies ancient languages",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Someone who travels for adventure",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mendacious",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Not telling the truth; lying",
+      "options": [
+        {
+          "text": "Not telling the truth; lying",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very generous with money",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely tired or sleepy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of energy and excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fiat",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) An official order given by someone in authority",
+      "options": [
+        {
+          "text": "An official order given by someone in authority",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small, fast car",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of Italian bread",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A celebration or party",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pecuniary",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Relating to or consisting of money",
+      "options": [
+        {
+          "text": "Relating to or consisting of money",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Related to nature and animals",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Concerned with art and beauty",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Involving physical strength",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "parsimonious",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Extremely unwilling to spend money or use resources",
+      "options": [
+        {
+          "text": "Extremely unwilling to spend money or use resources",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very generous and giving",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely talkative and social",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very intelligent and clever",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sumptuous",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Extremely costly, rich, or luxurious",
+      "options": [
+        {
+          "text": "Extremely costly, rich, or luxurious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Simple and basic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Old-fashioned and outdated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Small and compact",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dismantle",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To take something apart into pieces",
+      "options": [
+        {
+          "text": "To take something apart into pieces",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To build something carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To decorate something beautifully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean something thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "restrictive",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Limiting or controlling someone or something",
+      "options": [
+        {
+          "text": "Limiting or controlling someone or something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very helpful and supportive",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely free without limits",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Encouraging creativity and new ideas",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "underwrite",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To support something financially; to agree to pay for possible costs",
+      "options": [
+        {
+          "text": "To support something financially; to agree to pay for possible costs",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To write something secretly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To write under something else",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To write with poor handwriting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "blunt",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Speaking in a direct and honest way, even if it might upset someone",
+      "options": [
+        {
+          "text": "Speaking in a direct and honest way, even if it might upset someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Speaking in a kind and gentle way",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Speaking with a strong accent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Speaking in a confusing way",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "balk",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To refuse to do something or to stop suddenly",
+      "options": [
+        {
+          "text": "To refuse to do something or to stop suddenly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To walk with confidence",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To talk loudly and proudly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To run very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rife",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Very common or frequent; widespread",
+      "options": [
+        {
+          "text": "Very common or frequent; widespread",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Rare and difficult to find",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Clean and pure",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Expensive and luxurious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nostalgia",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A sentimental longing for the past",
+      "options": [
+        {
+          "text": "A sentimental longing for the past",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A fear of the future",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A dislike of new things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A love of adventure",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "derogatory",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Showing a disrespectful or critical attitude",
+      "options": [
+        {
+          "text": "Showing a disrespectful or critical attitude",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Showing great respect and admiration",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Showing confusion and uncertainty",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Showing happiness and excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "reviled",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb (past tense)) Criticized in an abusive or angrily insulting manner",
+      "options": [
+        {
+          "text": "Criticized in an abusive or angrily insulting manner",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Praised highly and honored",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Forgiven for past mistakes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Forgotten by everyone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nebulous",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Unclear, vague, or not well-defined",
+      "options": [
+        {
+          "text": "Unclear, vague, or not well-defined",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very clear and specific",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Bright and colorful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Solid and strong",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "indict",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To formally accuse someone of a serious crime",
+      "options": [
+        {
+          "text": "To formally accuse someone of a serious crime",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To defend someone in court",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forgive someone for wrongdoing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To punish someone without a trial",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "redolent",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Strongly smelling of something or strongly reminding of something",
+      "options": [
+        {
+          "text": "Strongly smelling of something or strongly reminding of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely without smell",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a beautiful color",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling very cold",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pesky",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Annoying or troublesome",
+      "options": [
+        {
+          "text": "Annoying or troublesome",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Helpful and useful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Cute and adorable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Dangerous and scary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "omnivorous",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Eating both plants and animals",
+      "options": [
+        {
+          "text": "Eating both plants and animals",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Eating only plants",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Eating only meat",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not eating anything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

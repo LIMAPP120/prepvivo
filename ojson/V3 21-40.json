@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 21-40)",
+  "description": "Test your knowledge of words 21 to 40",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "advocate",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb/Noun) To publicly support or recommend a particular cause or policy",
+      "options": [
+        {
+          "text": "To publicly support or recommend a particular cause or policy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To argue or fight against something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or avoid a problem",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create something new and original",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "insignificant",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Too small or unimportant to be worth considering",
+      "options": [
+        {
+          "text": "Too small or unimportant to be worth considering",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very important and meaningful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Difficult to understand or solve",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Easy to see or notice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inadequate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Not enough or not good enough for a particular purpose",
+      "options": [
+        {
+          "text": "Not enough or not good enough for a particular purpose",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "More than enough or excessive",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Perfectly suitable or appropriate",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Complicated and difficult",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "expectation",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) A strong belief that something will happen or be the case",
+      "options": [
+        {
+          "text": "A strong belief that something will happen or be the case",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of surprise or shock",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A memory from the past",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A plan for the future",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mystery",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) Something that is difficult or impossible to understand or explain",
+      "options": [
+        {
+          "text": "Something that is difficult or impossible to understand or explain",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that is very easy and simple",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A scientific fact that is proven",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A common everyday occurrence",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hazard",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A danger or risk that could cause harm or injury",
+      "options": [
+        {
+          "text": "A danger or risk that could cause harm or injury",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that helps or benefits people",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of safe entertainment",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A solution to a problem",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "authentic",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Genuine, real, or true, not a copy or imitation",
+      "options": [
+        {
+          "text": "Genuine, real, or true, not a copy or imitation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "False or fake",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary or common",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Modern and new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "demolish",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To completely destroy or knock down a building or structure",
+      "options": [
+        {
+          "text": "To completely destroy or knock down a building or structure",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To build or construct something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To clean or repair something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To paint or decorate something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "capture",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To catch or take control of someone or something",
+      "options": [
+        {
+          "text": "To catch or take control of someone or something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To release or set free",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or avoid",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create or invent",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abseil",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To climb down a steep surface using a rope",
+      "options": [
+        {
+          "text": "To climb down a steep surface using a rope",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To climb up a mountain without equipment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To swim across a river",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To jump from an airplane with a parachute",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "blast",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun/Verb) A sudden strong gust of air or an explosion",
+      "options": [
+        {
+          "text": "A sudden strong gust of air or an explosion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A gentle breeze or light wind",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A quiet whisper or soft sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "loudspeaker",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A device that makes sound louder so many people can hear it",
+      "options": [
+        {
+          "text": "A device that makes sound louder so many people can hear it",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A device for taking pictures",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A tool for measuring temperature",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A machine for washing clothes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "personnel",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) People employed in an organization or for a specific service",
+      "options": [
+        {
+          "text": "People employed in an organization or for a specific service",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Equipment or machinery used in a factory",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Buildings or offices where work happens",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Rules or regulations of an organization",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "keen",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Very interested, eager, or enthusiastic about something",
+      "options": [
+        {
+          "text": "Very interested, eager, or enthusiastic about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not interested or bored",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Angry or upset about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tired or sleepy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "scent",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A distinctive smell, especially a pleasant one",
+      "options": [
+        {
+          "text": "A distinctive smell, especially a pleasant one",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A loud noise or sound",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A bright color or pattern",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A rough texture or surface",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "allay",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To reduce or relieve fear, doubt, or concern",
+      "options": [
+        {
+          "text": "To reduce or relieve fear, doubt, or concern",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To increase worry or anxiety",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or avoid problems",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create new problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "convince",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To persuade someone to believe something or do something",
+      "options": [
+        {
+          "text": "To persuade someone to believe something or do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To confuse or puzzle someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To frighten or scare someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore or avoid someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "enrich",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To improve or enhance the quality or value of something",
+      "options": [
+        {
+          "text": "To improve or enhance the quality or value of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To damage or spoil something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To remove or take away from something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide or conceal something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "attempt",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb/Noun) To try or make an effort to do something",
+      "options": [
+        {
+          "text": "To try or make an effort to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give up without trying",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To watch others do something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone how to do something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intervene",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To come between two people or things to change or prevent something",
+      "options": [
+        {
+          "text": "To come between two people or things to change or prevent something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To watch from a distance without getting involved",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To agree with both sides in an argument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make a situation worse",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

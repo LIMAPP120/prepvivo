@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 381-400)",
+  "description": "Test your knowledge of words 381 to 400",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "regale",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To entertain or amuse someone with stories, jokes, or food",
+      "options": [
+        {
+          "text": "To entertain or amuse someone with stories, jokes, or food",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone sad or angry",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone a lesson",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "guffaw",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun/Verb) A loud, hearty laugh that is hard to control",
+      "options": [
+        {
+          "text": "A loud, hearty laugh that is hard to control",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A quiet whisper or soft sound",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A cry of sadness or pain",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An angry shout or yell",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pantheism",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) The belief that God is present in everything in nature",
+      "options": [
+        {
+          "text": "The belief that God is present in everything in nature",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The fear of natural disasters",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The study of ancient animals",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The practice of planting many trees",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bequest",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) Something given or left to someone in a will after a person dies",
+      "options": [
+        {
+          "text": "Something given or left to someone in a will after a person dies",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A request for help or assistance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A question asked during an interview",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A problem that needs to be solved",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "totalitarian",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) A government that has complete control and does not allow opposition",
+      "options": [
+        {
+          "text": "A government that has complete control and does not allow opposition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A government that allows everyone to vote",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A government with many different political parties",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A government that only cares about money",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "affidavit",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A written statement that someone swears is true, used as evidence in court",
+      "options": [
+        {
+          "text": "A written statement that someone swears is true, used as evidence in court",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A secret message between friends",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A shopping list for groceries",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A love letter to someone special",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "aphorism",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A short, wise saying that expresses a general truth",
+      "options": [
+        {
+          "text": "A short, wise saying that expresses a general truth",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A long, boring speech",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A funny joke with a punchline",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A question that has no answer",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "empirical",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Based on observation or experience rather than theory",
+      "options": [
+        {
+          "text": "Based on observation or experience rather than theory",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on feelings or emotions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Based on ancient stories or myths",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Based on guesses or hunches",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extrovert",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A person who enjoys being with other people and is outgoing",
+      "options": [
+        {
+          "text": "A person who enjoys being with other people and is outgoing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who prefers to be alone most of the time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who is always serious and quiet",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who studies very hard all the time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "crescendo",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) A gradual increase in loudness or intensity in music",
+      "options": [
+        {
+          "text": "A gradual increase in loudness or intensity in music",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A sudden stop in music or sound",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A soft, gentle beginning to a song",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A repeated pattern in music",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "catharsis",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) The process of releasing strong emotions and feeling relieved afterward",
+      "options": [
+        {
+          "text": "The process of releasing strong emotions and feeling relieved afterward",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The feeling of being very angry all the time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The process of hiding your feelings from others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The experience of being confused about your emotions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "subliminal",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Below the level of conscious awareness; influencing you without you realizing it",
+      "options": [
+        {
+          "text": "Below the level of conscious awareness; influencing you without you realizing it",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very obvious and easy to notice",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely loud and clear",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Beautiful and pleasant to look at",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "quixotic",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Idealistic but impractical; chasing impossible dreams",
+      "options": [
+        {
+          "text": "Idealistic but impractical; chasing impossible dreams",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Wise and practical in making decisions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very angry and upset about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely lucky in everything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nemesis",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A long-standing rival or opponent who is very difficult to defeat",
+      "options": [
+        {
+          "text": "A long-standing rival or opponent who is very difficult to defeat",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A close friend who helps you always",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A family member who lives far away",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A teacher who gives easy tests",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "avaricious",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Greedy for money or possessions; wanting more than you need",
+      "options": [
+        {
+          "text": "Greedy for money or possessions; wanting more than you need",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Generous and willing to share with others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Happy with what you already have",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not interested in money at all",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tawdry",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Cheap, showy, and of poor quality",
+      "options": [
+        {
+          "text": "Cheap, showy, and of poor quality",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Expensive and beautifully made",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Simple and plain in appearance",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Rare and valuable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "liaison",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A person who helps communication between different groups or people",
+      "options": [
+        {
+          "text": "A person who helps communication between different groups or people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who likes to argue with everyone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who works completely alone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who avoids talking to others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "camaraderie",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A feeling of trust and friendship among people who spend time together",
+      "options": [
+        {
+          "text": "A feeling of trust and friendship among people who spend time together",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of competition between rivals",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of sadness when alone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of anger towards strangers",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "limbo",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) An uncertain period of waiting where nothing changes or progresses",
+      "options": [
+        {
+          "text": "An uncertain period of waiting where nothing changes or progresses",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very exciting and busy time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A time of great success and achievement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A short break between activities",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hobnob",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To spend time socially with important or famous people",
+      "options": [
+        {
+          "text": "To spend time socially with important or famous people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To work hard at a difficult job",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stay home alone and read books",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To argue with people about politics",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

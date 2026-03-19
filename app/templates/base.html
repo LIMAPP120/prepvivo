@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}{{ app_name }}{% endblock %}</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+  </head>
+  <body>
+    <div class="landing">
+      <nav class="top-nav">
+        <div class="logo-area">
+          <div class="logo-icon">P</div>
+          <div class="logo-text">{{ app_name }}</div>
+        </div>
+        <div class="nav-links">
+          {% if current_user.is_authenticated %}
+          <span>Hello, {{ current_user.username }}</span>
+          <a href="{{ url_for('main.dashboard') }}">Dashboard</a>
+          <a href="{{ url_for('auth.logout') }}">Logout</a>
+          {% else %}
+          <a href="{{ url_for('auth.login') }}">Login</a>
+          <a href="{{ url_for('auth.register') }}">Register</a>
+          {% endif %}
+        </div>
+      </nav>
+
+      <main>
+        {% with messages = get_flashed_messages() %} {% if messages %}
+        <ul class="flashes">
+          {% for message in messages %}
+          <li>{{ message }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %} {% endwith %} {% block content %}{% endblock %}
+      </main>
+
+      <footer>
+        <p>
+          &copy; 2026 {{ app_name }}. All rights reserved. | K. L. LIM PSLE Exam
+          Preparation Projects
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

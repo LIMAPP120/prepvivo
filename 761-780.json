@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 761-780)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "enhance",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To improve or make something better",
+      "options": [
+        {
+          "text": "To improve or make something better",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To reduce or make something smaller",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To break or damage something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide or cover something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "reprimand",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb/Noun) To scold or tell off someone for doing something wrong",
+      "options": [
+        {
+          "text": "To scold or tell off someone for doing something wrong",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise or compliment someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help or assist someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore or avoid someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "loathe",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To hate or dislike something very much",
+      "options": [
+        {
+          "text": "To hate or dislike something very much",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To love or like something a lot",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget or not remember something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To share or give something away",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "caustic",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Sharp and hurtful in speech; able to burn or destroy living tissue",
+      "options": [
+        {
+          "text": "Sharp and hurtful in speech; able to burn or destroy living tissue",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Kind and gentle in words and actions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Cold and freezing in temperature",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Sweet and pleasant to taste",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lackluster",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Lacking brightness, energy, or excitement; dull",
+      "options": [
+        {
+          "text": "Lacking brightness, energy, or excitement; dull",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very bright and colorful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely exciting and interesting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Too loud and noisy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "infamous",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Well known for something bad or evil",
+      "options": [
+        {
+          "text": "Well known for something bad or evil",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unknown or not famous at all",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Famous for doing good deeds",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Quiet and shy in personality",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "wrest",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To take something away by force or with difficulty",
+      "options": [
+        {
+          "text": "To take something away by force or with difficulty",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give something freely and happily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To share something equally",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To find something that was lost",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dupe",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To trick or deceive someone",
+      "options": [
+        {
+          "text": "To trick or deceive someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help or support someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To teach or educate someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To praise or compliment someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "jostle",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To push or bump against someone in a crowd",
+      "options": [
+        {
+          "text": "To push or bump against someone in a crowd",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To walk slowly and carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stand still without moving",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To run away quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inadvertent",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Done without thinking or by accident; not intentional",
+      "options": [
+        {
+          "text": "Done without thinking or by accident; not intentional",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Done carefully and on purpose",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Done quickly and efficiently",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Done repeatedly and regularly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incipient",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Just beginning to exist or appear",
+      "options": [
+        {
+          "text": "Just beginning to exist or appear",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely finished and done",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very old and worn out",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "At the middle point or stage",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tremulous",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Shaking or trembling slightly, often from fear or nervousness",
+      "options": [
+        {
+          "text": "Shaking or trembling slightly, often from fear or nervousness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Strong and steady without movement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very loud and clear",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely still and silent",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ominous",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Suggesting that something bad is going to happen; threatening",
+      "options": [
+        {
+          "text": "Suggesting that something bad is going to happen; threatening",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Promising good things to come",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and pleasant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely normal and ordinary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cessation",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) The stopping or end of something",
+      "options": [
+        {
+          "text": "The stopping or end of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The beginning or start of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The continuation of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The improvement of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "repudiate",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To refuse to accept or be associated with something",
+      "options": [
+        {
+          "text": "To refuse to accept or be associated with something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To gladly accept and support something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget about something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To share something with others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "euphemism",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A mild or indirect word used instead of one that is harsh or direct",
+      "options": [
+        {
+          "text": "A mild or indirect word used instead of one that is harsh or direct",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very rude and offensive word",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A scientific or technical word",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A word from a foreign language",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bristle",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To react angrily or defensively; to have hair or fibers stand up",
+      "options": [
+        {
+          "text": "To react angrily or defensively; to have hair or fibers stand up",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To remain calm and relaxed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To become smooth and flat",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To laugh happily and freely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incongruous",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Not in harmony or keeping with surroundings; out of place",
+      "options": [
+        {
+          "text": "Not in harmony or keeping with surroundings; out of place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Perfectly matching and appropriate",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very colorful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely normal and expected",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mundane",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Ordinary, dull, and not interesting",
+      "options": [
+        {
+          "text": "Ordinary, dull, and not interesting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Exciting and full of adventure",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very important and special",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Difficult and challenging",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "stipulate",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To specify or require as a condition of an agreement",
+      "options": [
+        {
+          "text": "To specify or require as a condition of an agreement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To suggest as a possible idea",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget or overlook something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To change or modify something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

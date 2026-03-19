@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 841-860)",
+  "description": "Test your knowledge of words 841 to 860",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "contemptuous",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Showing or expressing deep hatred or disapproval; scornful",
+      "options": [
+        {
+          "text": "Showing or expressing deep hatred or disapproval; scornful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Showing great respect and admiration",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling very happy and excited",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very kind and helpful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "universal",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Affecting or done by all people or things in the world or in a particular group",
+      "options": [
+        {
+          "text": "Affecting or done by all people or things in the world or in a particular group",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Affecting only one person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Happening only in one country",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very rare and unusual",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "absurd",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Wildly unreasonable, illogical, or inappropriate; ridiculous",
+      "options": [
+        {
+          "text": "Wildly unreasonable, illogical, or inappropriate; ridiculous",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely logical and reasonable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely serious and important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vulnerable",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Exposed to the possibility of being attacked or harmed, either physically or emotionally",
+      "options": [
+        {
+          "text": "Exposed to the possibility of being attacked or harmed, either physically or emotionally",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely safe and protected",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very strong and powerful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely happy and confident",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abhor",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To regard with disgust and hatred; to detest",
+      "options": [
+        {
+          "text": "To regard with disgust and hatred; to detest",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To love and admire greatly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To be indifferent about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To feel slightly annoyed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tradition",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A belief, custom, or way of doing something that has existed for a long time",
+      "options": [
+        {
+          "text": "A belief, custom, or way of doing something that has existed for a long time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A completely new idea or practice",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of modern technology",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of surprise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "entreaty",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A serious and emotional request; a plea",
+      "options": [
+        {
+          "text": "A serious and emotional request; a plea",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A casual suggestion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A written command",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A happy celebration",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inviolable",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Never to be broken, infringed, or dishonored; sacred",
+      "options": [
+        {
+          "text": "Never to be broken, infringed, or dishonored; sacred",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easily broken or changed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very ordinary and common",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely unimportant",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "originate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To begin or start; to come into existence",
+      "options": [
+        {
+          "text": "To begin or start; to come into existence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To end or finish something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To copy something exactly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "eruption",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) A sudden, violent outbreak of something, especially a volcano or conflict",
+      "options": [
+        {
+          "text": "A sudden, violent outbreak of something, especially a volcano or conflict",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A gentle and quiet beginning",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A slow and gradual change",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A peaceful agreement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "awesome",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Extremely impressive or daunting; inspiring awe",
+      "options": [
+        {
+          "text": "Extremely impressive or daunting; inspiring awe",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very ordinary and unimpressive",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Slightly interesting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely boring",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "debris",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) Scattered pieces of waste or remains; rubble",
+      "options": [
+        {
+          "text": "Scattered pieces of waste or remains; rubble",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Beautiful and valuable objects",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "New and unused materials",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Living plants and animals",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "puny",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Small and weak; insignificant",
+      "options": [
+        {
+          "text": "Small and weak; insignificant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Large and powerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely beautiful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obliterate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To destroy completely; to wipe out",
+      "options": [
+        {
+          "text": "To destroy completely; to wipe out",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To build something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To repair something broken",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create art",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dispersed",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective/Verb) Distributed or spread over a wide area; scattered",
+      "options": [
+        {
+          "text": "Distributed or spread over a wide area; scattered",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Gathered together in one place",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Destroyed completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Carefully organized",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "initiate",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To cause something to begin; to start",
+      "options": [
+        {
+          "text": "To cause something to begin; to start",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To finish something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stop something from happening",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deplorable",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Deserving strong condemnation; shockingly bad",
+      "options": [
+        {
+          "text": "Deserving strong condemnation; shockingly bad",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Excellent and praiseworthy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary and acceptable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very beautiful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rue",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To bitterly regret something one has done or allowed to happen",
+      "options": [
+        {
+          "text": "To bitterly regret something one has done or allowed to happen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To celebrate something joyfully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget about something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To plan something carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "conflagration",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A large, destructive fire that causes great damage",
+      "options": [
+        {
+          "text": "A large, destructive fire that causes great damage",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small, controlled fire",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A heavy rainstorm",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A peaceful protest",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hoard",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb/Noun) To collect and store a large supply of something, often secretly",
+      "options": [
+        {
+          "text": "To collect and store a large supply of something, often secretly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give away everything you own",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To use something immediately",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

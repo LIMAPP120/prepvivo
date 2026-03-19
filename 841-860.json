@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 841-860)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "allude",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To suggest or call attention to indirectly; to hint at",
+      "options": [
+        {
+          "text": "To suggest or call attention to indirectly; to hint at",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To state something clearly and directly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To completely ignore or overlook something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To loudly announce something to everyone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "advent",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) The arrival of a notable person, thing, or event",
+      "options": [
+        {
+          "text": "The arrival of a notable person, thing, or event",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The departure or ending of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The middle period of an event",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The failure of a plan or idea",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "propriety",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) Conformity to conventionally accepted standards of behavior or morals",
+      "options": [
+        {
+          "text": "Conformity to conventionally accepted standards of behavior or morals",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Wild and uncontrolled behavior",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete freedom without any rules",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Strange and unusual customs",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "proffer",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To hold out or put forward something to someone for acceptance",
+      "options": [
+        {
+          "text": "To hold out or put forward something to someone for acceptance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To take something away from someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide something from view",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impious",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Showing a lack of respect for God or religion",
+      "options": [
+        {
+          "text": "Showing a lack of respect for God or religion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being deeply religious and faithful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having no opinion about religion",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Studying different religions respectfully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "shibboleth",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A custom, principle, or belief distinguishing a particular class or group of people",
+      "options": [
+        {
+          "text": "A custom, principle, or belief distinguishing a particular class or group of people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random and meaningless tradition",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A scientific fact proven by evidence",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A temporary fashion or trend",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "spate",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A large number of similar things coming in quick succession",
+      "options": [
+        {
+          "text": "A large number of similar things coming in quick succession",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A complete absence of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A single isolated event",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A slow trickle of occasional events",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "substantiate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To provide evidence to support or prove the truth of something",
+      "options": [
+        {
+          "text": "To provide evidence to support or prove the truth of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make up stories without proof",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To guess without any information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide evidence that proves something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bogus",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Not genuine or true; fake",
+      "options": [
+        {
+          "text": "Not genuine or true; fake",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely real and authentic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely valuable and precious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Temporarily unavailable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "raucous",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Making or constituting a disturbingly harsh and loud noise",
+      "options": [
+        {
+          "text": "Making or constituting a disturbingly harsh and loud noise",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely silent and quiet",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Making soft and pleasant sounds",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Speaking in a whisper",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nutritive",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Relating to nutrition; providing nourishment",
+      "options": [
+        {
+          "text": "Relating to nutrition; providing nourishment",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having no food value",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Tasting bad but being healthy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being tasty but unhealthy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "callous",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Showing or having an insensitive and cruel disregard for others",
+      "options": [
+        {
+          "text": "Showing or having an insensitive and cruel disregard for others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being extremely kind and considerate",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being overly sensitive to others' feelings",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not noticing anything around you",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "quandary",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A state of perplexity or uncertainty over what to do in a difficult situation",
+      "options": [
+        {
+          "text": "A state of perplexity or uncertainty over what to do in a difficult situation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A state of complete certainty and confidence",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very easy decision to make",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A happy and carefree state of mind",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "negligible",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) So small or unimportant as to be not worth considering; insignificant",
+      "options": [
+        {
+          "text": "So small or unimportant as to be not worth considering; insignificant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely large and important",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly the right amount needed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Too much and wasteful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "expedient",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Convenient and practical, although possibly improper or immoral",
+      "options": [
+        {
+          "text": "Convenient and practical, although possibly improper or immoral",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always morally right and proper",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely impractical and useless",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Illegal and punishable by law",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ennui",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement",
+      "options": [
+        {
+          "text": "A feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great excitement and enthusiasm",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete peace and contentment",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extreme tiredness from too much activity",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "blasé",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Unimpressed or indifferent to something because one has experienced or seen it so often before",
+      "options": [
+        {
+          "text": "Unimpressed or indifferent to something because one has experienced or seen it so often before",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely excited about something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely unaware of what's happening",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very impressed by something ordinary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "frenetic",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Fast and energetic in a rather wild and uncontrolled way",
+      "options": [
+        {
+          "text": "Fast and energetic in a rather wild and uncontrolled way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Slow and carefully controlled",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely still and motionless",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Quiet and peaceful in pace",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "comely",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Pleasant to look at; attractive (typically used of a woman)",
+      "options": [
+        {
+          "text": "Pleasant to look at; attractive (typically used of a woman)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very plain and ordinary in appearance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely ugly and unattractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Looking messy and untidy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "diversity",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) The state of being diverse; variety",
+      "options": [
+        {
+          "text": "The state of being diverse; variety",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete sameness and uniformity",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small selection of similar things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "One single type of thing only",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

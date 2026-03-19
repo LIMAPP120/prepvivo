@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 521-540)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Terminate",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To bring to an end; to stop",
+      "options": [
+        {
+          "text": "To bring to an end; to stop",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To start something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To continue forever",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something longer",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Text",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun/Verb) The main written part of a book or other publication; to send a written message",
+      "options": [
+        {
+          "text": "The main written part of a book or other publication; to send a written message",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A drawing or picture",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A spoken conversation",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Theme",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) The subject or main idea in a talk, piece of writing, or work of art",
+      "options": [
+        {
+          "text": "The subject or main idea in a talk, piece of writing, or work of art",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random thought",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small detail",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The ending of a story",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Theory",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) A set of ideas intended to explain something",
+      "options": [
+        {
+          "text": "A set of ideas intended to explain something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A proven fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A simple guess",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of machine",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Thesis",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A long piece of writing on a particular subject for a university degree",
+      "options": [
+        {
+          "text": "A long piece of writing on a particular subject for a university degree",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A short note",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A conversation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of test",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Topic",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A subject that is discussed, written about, or studied",
+      "options": [
+        {
+          "text": "A subject that is discussed, written about, or studied",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random word",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The answer to a question",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Trace",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb/Noun) To find or discover about something by investigation; a very small amount",
+      "options": [
+        {
+          "text": "To find or discover about something by investigation; a very small amount",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To lose something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A large quantity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Tradition",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A belief, custom, or way of doing something that has existed for a long time",
+      "options": [
+        {
+          "text": "A belief, custom, or way of doing something that has existed for a long time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something new and modern",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A mistake",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Transfer",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To move from one place to another; to change to a different situation",
+      "options": [
+        {
+          "text": "To move from one place to another; to change to a different situation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stay in the same place",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To break something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Transform",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To change completely in form, appearance, or nature",
+      "options": [
+        {
+          "text": "To change completely in form, appearance, or nature",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stay the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something worse",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Transmit",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To pass something from one person or place to another",
+      "options": [
+        {
+          "text": "To pass something from one person or place to another",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To keep something secret",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Trend",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A general direction in which something is developing or changing",
+      "options": [
+        {
+          "text": "A general direction in which something is developing or changing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that never changes",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A random event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ultimate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Being the best or most extreme example of its kind; final",
+      "options": [
+        {
+          "text": "Being the best or most extreme example of its kind; final",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The first or beginning",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Unimportant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Temporary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Undergo",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To experience or be subjected to something",
+      "options": [
+        {
+          "text": "To experience or be subjected to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To avoid something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To watch something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Underlying",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Existing beneath the surface; fundamental",
+      "options": [
+        {
+          "text": "Existing beneath the surface; fundamental",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "On the surface only",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Unimportant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Easy to see",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Undertake",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To commit oneself to and begin an enterprise or responsibility",
+      "options": [
+        {
+          "text": "To commit oneself to and begin an enterprise or responsibility",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To avoid work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget a task",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To watch someone else work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Uniform",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective/Noun) Remaining the same in all cases and at all times; identical clothing",
+      "options": [
+        {
+          "text": "Remaining the same in all cases and at all times; identical clothing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Different in every case",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Colorful and varied",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Temporary clothing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Unique",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Being the only one of its kind; unlike anything else",
+      "options": [
+        {
+          "text": "Being the only one of its kind; unlike anything else",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The same as everything else",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ordinary and common",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Temporary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Utilize",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To make practical and effective use of something",
+      "options": [
+        {
+          "text": "To make practical and effective use of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To waste something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Valid",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Having a sound basis in logic or fact; legally acceptable",
+      "options": [
+        {
+          "text": "Having a sound basis in logic or fact; legally acceptable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on lies",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Illegal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Temporary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

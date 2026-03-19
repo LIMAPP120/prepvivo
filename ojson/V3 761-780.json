@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 761-780)",
+  "description": "Test your knowledge of words 761 to 780",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "repose",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun/Verb) A state of rest, sleep, or tranquility",
+      "options": [
+        {
+          "text": "A state of rest, sleep, or tranquility",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To oppose or fight against something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of beautiful flower",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To compose music or poetry",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abstemious",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Eating and drinking in moderation; not self-indulgent",
+      "options": [
+        {
+          "text": "Eating and drinking in moderation; not self-indulgent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very generous and giving",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely intelligent and clever",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of energy and excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vicissitudes",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) Changes or variations, especially in one's circumstances or fortune",
+      "options": [
+        {
+          "text": "Changes or variations, especially in one's circumstances or fortune",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of fast-moving vehicle",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Small, unimportant details",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "extant",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Still in existence; surviving",
+      "options": [
+        {
+          "text": "Still in existence; surviving",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very large in size",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely expensive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "No longer existing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sultry",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Hot and humid, or attractive in a way that suggests passion",
+      "options": [
+        {
+          "text": "Hot and humid, or attractive in a way that suggests passion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Cold and windy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Clean and tidy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Loud and noisy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "edifice",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A large, imposing building or structure",
+      "options": [
+        {
+          "text": "A large, imposing building or structure",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small, delicate flower",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A delicious dessert",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "puissant",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Having great power or influence",
+      "options": [
+        {
+          "text": "Having great power or influence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very weak and powerless",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely quiet and shy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very old and wise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "trenchant",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Vigorous or incisive in expression or style",
+      "options": [
+        {
+          "text": "Vigorous or incisive in expression or style",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Long and boring",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Sweet and kind",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Confusing and unclear",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "maudlin",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Self-pityingly or tearfully sentimental, often through drunkenness",
+      "options": [
+        {
+          "text": "Self-pityingly or tearfully sentimental, often through drunkenness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very funny and humorous",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely intelligent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Physically strong",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "unabated",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Without any reduction in intensity or strength",
+      "options": [
+        {
+          "text": "Without any reduction in intensity or strength",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very weak and fading",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Suddenly stopped",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Getting stronger gradually",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lugubrious",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Looking or sounding sad and dismal",
+      "options": [
+        {
+          "text": "Looking or sounding sad and dismal",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very happy and cheerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely angry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Confused and uncertain",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "levity",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) Humorous or lighthearted behavior, especially during a serious occasion",
+      "options": [
+        {
+          "text": "Humorous or lighthearted behavior, especially during a serious occasion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extreme seriousness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Physical heaviness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of great importance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "indoctrinate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To teach a person or group to accept a set of beliefs uncritically",
+      "options": [
+        {
+          "text": "To teach a person or group to accept a set of beliefs uncritically",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To teach someone to think critically",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To document important information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To introduce new technology",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "scion",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A young shoot or twig of a plant, especially one cut for grafting",
+      "options": [
+        {
+          "text": "A young shoot or twig of a plant, especially one cut for grafting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An old, wise person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of scientific instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A loud, sharp sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obsequious",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Obedient or attentive to an excessive or servile degree",
+      "options": [
+        {
+          "text": "Obedient or attentive to an excessive or servile degree",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Disobedient and rebellious",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Confident and independent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Shy and withdrawn",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "opulence",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) Great wealth or luxuriousness",
+      "options": [
+        {
+          "text": "Great wealth or luxuriousness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extreme poverty",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Modest simplicity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Intellectual brilliance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lush",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Growing luxuriantly; very rich and providing great sensory pleasure",
+      "options": [
+        {
+          "text": "Growing luxuriantly; very rich and providing great sensory pleasure",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Dry and barren",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Small and weak",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Old and decaying",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fulsome",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Excessively flattering or insincere; abundant",
+      "options": [
+        {
+          "text": "Excessively flattering or insincere; abundant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Honest and sincere",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Simple and plain",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Incomplete and lacking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ponder",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To think about something carefully, especially before making a decision",
+      "options": [
+        {
+          "text": "To think about something carefully, especially before making a decision",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To talk loudly and confidently",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To walk quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To write creatively",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "destitution",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) Poverty so extreme that one lacks the means to provide for oneself",
+      "options": [
+        {
+          "text": "Poverty so extreme that one lacks the means to provide for oneself",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great wealth and luxury",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A state of confusion",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 281-300)",
+  "description": "Test your knowledge of words 281 to 300",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Reluctant",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Unwilling and hesitant; disinclined to do something",
+      "options": [
+        {
+          "text": "Unwilling and hesitant; disinclined to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Eager and enthusiastic to do something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely certain about a decision",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Quick to make decisions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Remarkable",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Worthy of attention; striking or extraordinary",
+      "options": [
+        {
+          "text": "Worthy of attention; striking or extraordinary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Ordinary and uninteresting",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely average",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Boring and forgettable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Reminisce",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To indulge in enjoyable recollection of past events",
+      "options": [
+        {
+          "text": "To indulge in enjoyable recollection of past events",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To worry about future problems",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget past experiences",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To plan for upcoming events",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Repetition",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) The action of repeating something that has already been said or written",
+      "options": [
+        {
+          "text": "The action of repeating something that has already been said or written",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Creating something new and original",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Saying something only once",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Changing words frequently",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Resentment",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) Bitter indignation at having been treated unfairly",
+      "options": [
+        {
+          "text": "Bitter indignation at having been treated unfairly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feelings of gratitude and appreciation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete forgiveness and understanding",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happiness for someone else's success",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Resilience",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) The capacity to recover quickly from difficulties; toughness",
+      "options": [
+        {
+          "text": "The capacity to recover quickly from difficulties; toughness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The tendency to give up easily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being easily discouraged by problems",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Avoiding challenges completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Resolve",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To settle or find a solution to a problem or dispute",
+      "options": [
+        {
+          "text": "To settle or find a solution to a problem or dispute",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make problems worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore conflicts",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create more disagreements",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Resourceful",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Having the ability to find quick and clever ways to overcome difficulties",
+      "options": [
+        {
+          "text": "Having the ability to find quick and clever ways to overcome difficulties",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unable to solve simple problems",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Always needing help from others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having many resources but not knowing how to use them",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Respectful",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing deference and respect",
+      "options": [
+        {
+          "text": "Feeling or showing deference and respect",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being rude and impolite",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ignoring other people's feelings",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making fun of others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Restrict",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To put a limit on; to keep under control",
+      "options": [
+        {
+          "text": "To put a limit on; to keep under control",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To allow complete freedom",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To encourage more of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To remove all limitations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Retrieve",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To get or bring something back from somewhere",
+      "options": [
+        {
+          "text": "To get or bring something back from somewhere",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To lose something permanently",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To throw something away",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget where something is",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Revise",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To re-examine and make alterations to written or printed matter",
+      "options": [
+        {
+          "text": "To re-examine and make alterations to written or printed matter",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To write something for the first time",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore mistakes in writing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy written work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Revolution",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A forcible overthrow of a government or social order in favor of a new system",
+      "options": [
+        {
+          "text": "A forcible overthrow of a government or social order in favor of a new system",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small, unimportant change",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Keeping things exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A minor adjustment to rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ridicule",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) The subjection of someone or something to contemptuous and dismissive language or behavior",
+      "options": [
+        {
+          "text": "The subjection of someone or something to contemptuous and dismissive language or behavior",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Praising someone's achievements",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Offering helpful suggestions",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Showing respect and admiration",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Rigorous",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Extremely thorough, exhaustive, or accurate",
+      "options": [
+        {
+          "text": "Extremely thorough, exhaustive, or accurate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Careless and sloppy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Easy and requiring little effort",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not paying attention to details",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Satisfactory",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Fulfilling expectations or needs; acceptable, though not outstanding or perfect",
+      "options": [
+        {
+          "text": "Fulfilling expectations or needs; acceptable, though not outstanding or perfect",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely unacceptable and poor",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely excellent and perfect",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Worse than expected",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Scatter",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To throw in various random directions",
+      "options": [
+        {
+          "text": "To throw in various random directions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To gather things together in one place",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To organize items neatly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To keep things in order",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Seclude",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To keep away from the company of others",
+      "options": [
+        {
+          "text": "To keep away from the company of others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To socialize with many people",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To invite guests to your home",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To participate in group activities",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Seize",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To take hold of suddenly and forcibly",
+      "options": [
+        {
+          "text": "To take hold of suddenly and forcibly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To let go of something intentionally",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To miss an opportunity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give something away freely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Significant",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Sufficiently great or important to be worthy of attention; noteworthy",
+      "options": [
+        {
+          "text": "Sufficiently great or important to be worthy of attention; noteworthy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Too small to be noticed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely unimportant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Ordinary and expected",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

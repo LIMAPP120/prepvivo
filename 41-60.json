@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 41-60)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Contribution",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) The act of giving or helping to achieve something.",
+      "options": [
+        {
+          "text": "The act of giving or helping to achieve something.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To break something.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To run very fast.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Convenient",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Easy to use or suitable for your purposes.",
+      "options": [
+        {
+          "text": "Easy to use or suitable for your purposes.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very expensive.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Old and broken.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of color.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Cooperate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To work together.",
+      "options": [
+        {
+          "text": "To work together.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To argue loudly.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To sing a song.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To draw a picture.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Courage",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) The ability to be brave when you are afraid.",
+      "options": [
+        {
+          "text": "The feeling of being scared.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "The ability to be brave when you are afraid.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "A large vehicle.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A part of a book.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Criticize",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To point out the faults of someone or something.",
+      "options": [
+        {
+          "text": "To praise someone highly.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To point out the faults of someone or something.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To draw a circle.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget something.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Crucial",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Extremely important or necessary.",
+      "options": [
+        {
+          "text": "Not very important.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Extremely important or necessary.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Very rude.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Shaped like a cross.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Curiosity",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A strong desire to know or learn something.",
+      "options": [
+        {
+          "text": "A state of being unique.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "A strong desire to know or learn something.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "A rare and valuable object.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The feeling of being angry.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Cycle",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A series of events that are repeated in the same order.",
+      "options": [
+        {
+          "text": "A series of events that are repeated in the same order.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A loud noise.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A musical instrument.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To fall down.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Daring",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Brave and willing to take risks.",
+      "options": [
+        {
+          "text": "Boring and safe.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Brave and willing to take risks.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "A small animal.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not caring about anything.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Debate",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) A formal discussion where arguments for and against are presented.",
+      "options": [
+        {
+          "text": "A formal discussion where arguments for and against are presented.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hate something.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of fish.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sweet treat.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Decade",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A period of 10 years.",
+      "options": [
+        {
+          "text": "A period of 100 years.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "A period of 10 years.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "A period of 12 months.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A geometric shape with ten sides.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Decisive",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Able to make choices quickly and confidently.",
+      "options": [
+        {
+          "text": "Able to make choices quickly and confidently.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very noisy.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Not able to choose.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sharp tool for cutting.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Decline",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To politely refuse.",
+      "options": [
+        {
+          "text": "To politely refuse.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To climb a mountain.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To say yes happily.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To become better.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Dedicate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To devote time and effort to a particular task or purpose.",
+      "options": [
+        {
+          "text": "To forget a promise.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To destroy something.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To devote time and effort to a particular task or purpose.",
+          "is_correct": true,
+          "order": 3
+        },
+        {
+          "text": "To be late.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Defend",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To protect from harm or danger.",
+      "options": [
+        {
+          "text": "To attack first.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To protect from harm or danger.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To run away from a problem.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To draw a line.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Deficient",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Not having enough of something; lacking.",
+      "options": [
+        {
+          "text": "Having a large amount.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Not having enough of something; lacking.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Very efficient.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A delicious food.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Delicate",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Easily broken or damaged; needing careful handling.",
+      "options": [
+        {
+          "text": "Very strong and tough.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Easily broken or damaged; needing careful handling.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "A type of dessert.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A deep voice.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Delight",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A great pleasure and joy.",
+      "options": [
+        {
+          "text": "A great feeling of sadness.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "A great pleasure and joy.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To turn off the light.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A right or privilege.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Demonstrate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To show something clearly by giving proof or evidence.",
+      "options": [
+        {
+          "text": "To hide something.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To show something clearly by giving proof or evidence.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To cause a problem.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To vote for someone.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Dense",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Thick and closely packed together.",
+      "options": [
+        {
+          "text": "Very thin and light.",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Thick and closely packed together.",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Not very smart.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of fence.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 241-260)",
+  "description": "Test your knowledge of words 241 to 260",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Overcome",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To succeed in dealing with a problem or difficulty; to defeat or overpower",
+      "options": [
+        {
+          "text": "To succeed in dealing with a problem or difficulty; to defeat or overpower",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give up when facing challenges",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To avoid problems completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make problems worse",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Overwhelming",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Very great in amount; so strong as to be irresistible",
+      "options": [
+        {
+          "text": "Very great in amount; so strong as to be irresistible",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and unimportant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Easy to handle or manage",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Boring and uninteresting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Paralyze",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To cause a person or animal to become unable to move or act",
+      "options": [
+        {
+          "text": "To cause a person or animal to become unable to move or act",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give someone energy and movement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone move faster",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make someone very active",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Parallel",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Lines, paths, or objects that are side by side and have the same distance between them continuously",
+      "options": [
+        {
+          "text": "Lines, paths, or objects that are side by side and have the same distance between them continuously",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lines that cross each other",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Things that are completely different",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Objects that are far apart",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Participate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To take part in an activity or event",
+      "options": [
+        {
+          "text": "To take part in an activity or event",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To watch from a distance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To avoid joining activities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To organize an event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Passionate",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing strong emotions or beliefs",
+      "options": [
+        {
+          "text": "Having or showing strong emotions or beliefs",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not caring about anything",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling bored and uninterested",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being calm and emotionless",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Patience",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) The ability to wait, or to continue doing something despite difficulties, without getting angry or upset",
+      "options": [
+        {
+          "text": "The ability to wait, or to continue doing something despite difficulties, without getting angry or upset",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The tendency to get angry quickly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Wanting everything to happen immediately",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being in a constant hurry",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Peculiar",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Strange or odd; unusual",
+      "options": [
+        {
+          "text": "Strange or odd; unusual",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely normal and ordinary",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely common",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Perception",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) The way in which something is regarded, understood, or interpreted",
+      "options": [
+        {
+          "text": "The way in which something is regarded, understood, or interpreted",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A proven scientific fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that is definitely true",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A random guess without thinking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Persistent",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Continuing firmly or obstinately in a course of action in spite of difficulty or opposition",
+      "options": [
+        {
+          "text": "Continuing firmly or obstinately in a course of action in spite of difficulty or opposition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Giving up easily when faced with challenges",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Changing your mind frequently",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Doing things without any plan",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Persuasive",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Good at persuading someone to do or believe something through reasoning or argument",
+      "options": [
+        {
+          "text": "Good at persuading someone to do or believe something through reasoning or argument",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unable to convince anyone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Speaking in a confusing way",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Making people doubt what you say",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Pessimistic",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Tending to see the worst aspect of things or believe that the worst will happen",
+      "options": [
+        {
+          "text": "Tending to see the worst aspect of things or believe that the worst will happen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always expecting good things to happen",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Seeing both good and bad possibilities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not caring about the future",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Petrify",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To make someone so frightened that they are unable to move",
+      "options": [
+        {
+          "text": "To make someone so frightened that they are unable to move",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone very happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To calm someone down",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give someone courage",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Placid",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Not easily upset or excited; calm and peaceful",
+      "options": [
+        {
+          "text": "Not easily upset or excited; calm and peaceful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always nervous and anxious",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very angry and violent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of energy and excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Plunge",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To jump or dive quickly and energetically; to fall suddenly",
+      "options": [
+        {
+          "text": "To jump or dive quickly and energetically; to fall suddenly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To rise slowly and gradually",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stay at the same level",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To move very carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Portray",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To depict or describe someone or something in a particular way",
+      "options": [
+        {
+          "text": "To depict or describe someone or something in a particular way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hide the true nature of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy an image or reputation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore important details",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Potential",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun/Adjective) Having or showing the capacity to develop into something in the future",
+      "options": [
+        {
+          "text": "Having or showing the capacity to develop into something in the future",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that has already happened",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A completed achievement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A failed attempt",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Precaution",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A measure taken in advance to prevent something dangerous or unpleasant from happening",
+      "options": [
+        {
+          "text": "A measure taken in advance to prevent something dangerous or unpleasant from happening",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something done after a problem occurs",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Ignoring possible dangers",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Taking unnecessary risks",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Predict",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To say or estimate that a specified thing will happen in the future",
+      "options": [
+        {
+          "text": "To say or estimate that a specified thing will happen in the future",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To remember something from the past",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To describe what is happening now",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about future events",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Preference",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A greater liking for one alternative over another or others",
+      "options": [
+        {
+          "text": "A greater liking for one alternative over another or others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Disliking all options equally",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having no opinion about choices",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being forced to choose something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

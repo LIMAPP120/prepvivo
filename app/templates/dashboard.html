@@ -1,0 +1,105 @@
+{% extends "base.html" %} {% block title %}My Dashboard{% endblock %} {% block
+extra_head %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+{% endblock %} {% block content %}
+
+<div class="hero" style="justify-content: center; text-align: center">
+  <div>
+    <h1>Your Exam History</h1>
+    <p class="section-sub">
+      Review your past attempts and track your progress.
+    </p>
+  </div>
+</div>
+
+{% if chart_labels|length > 1 %}
+<div class="vocab-modules" style="margin-bottom: 2rem">
+  <h2 style="margin-bottom: 1.5rem">Progress Over Time</h2>
+  <canvas id="scoreChart" width="400" height="200"></canvas>
+  <script>
+    const ctx = document.getElementById('scoreChart').getContext('2d');
+    new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: {{ chart_labels | tojson }},
+            datasets: [{
+                label: 'Score %',
+                data: {{ chart_data | tojson }},
+                borderColor: '#3b3bff',
+                backgroundColor: 'rgba(59, 59, 255, 0.1)',
+                tension: 0.3,
+                fill: true,
+                pointBackgroundColor: '#3b3bff'
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { display: false }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    max: 100,
+                    title: { display: true, text: 'Percentage' }
+                }
+            }
+        }
+    });
+  </script>
+</div>
+{% elif chart_labels|length == 1 %}
+<div class="vocab-modules" style="margin-bottom: 2rem; text-align: center">
+  <p>Complete at least one more exam to see your progress chart.</p>
+</div>
+{% endif %}
+
+<div class="features-grid">
+  {% if submissions %} {% for sub in submissions %}
+  <div
+    class="feature-card"
+    style="display: flex; flex-direction: column; height: 100%"
+  >
+    <div class="feature-icon"><i class="fas fa-file-alt"></i></div>
+    <h3>{{ sub.exam.title }}</h3>
+    <div style="flex-grow: 1; margin: 1rem 0">
+      <p>
+        <strong>Date:</strong> {{ sub.end_time.strftime('%Y-%m-%d %H:%M') if
+        sub.end_time else 'In progress' }}
+      </p>
+      <p><strong>Score:</strong> {{ sub.score }}/{{ sub.total_possible }}</p>
+      <p>
+        <strong>Percentage:</strong>
+        {% if sub.total_possible and sub.total_possible > 0 %} {{ (sub.score /
+        sub.total_possible * 100) | round(1) }}% {% else %} - {% endif %}
+      </p>
+    </div>
+    {% if sub.status == 'completed' %}
+    <a
+      href="{{ url_for('exam.take_exam', exam_id=sub.exam.id) }}"
+      class="btn-primary"
+      style="text-align: center"
+      >Retake Exam</a
+    >
+    {% else %}
+    <span
+      class="btn-outline"
+      style="display: block; text-align: center; opacity: 0.6"
+      >In Progress</span
+    >
+    {% endif %}
+  </div>
+  {% endfor %} {% else %}
+  <div class="feature-card" style="grid-column: 1 / -1; text-align: center">
+    <p>You haven't taken any exams yet.</p>
+    <a
+      href="{{ url_for('main.index') }}"
+      class="btn-primary"
+      style="margin-top: 1rem"
+      >Browse Exams</a
+    >
+  </div>
+  {% endif %}
+</div>
+
+{% endblock %}

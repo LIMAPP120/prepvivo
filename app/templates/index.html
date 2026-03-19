@@ -1,0 +1,70 @@
+{% extends "base.html" %} {% block title %}Available Exams{% endblock %} {%
+block content %}
+
+<div class="hero">
+  <div class="hero-left">
+    <h1>Prepare with confidence</h1>
+    <p>
+      Master English vocabulary and ace your exams with interactive quizzes and
+      detailed explanations.
+    </p>
+    <div class="cta-group">
+      <a href="{{ url_for('auth.register') }}" class="btn-primary"
+        >Get Started <i class="fas fa-arrow-right"></i
+      ></a>
+      <a href="#exams" class="btn-outline"
+        ><i class="fas fa-play"></i> View Exams</a
+      >
+    </div>
+    <div class="stats-mini">
+      <div class="stat-item">
+        <span class="stat-number">98%</span>
+        <span class="stat-label">Success Rate</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">20+</span>
+        <span class="stat-label">Modules</span>
+      </div>
+    </div>
+  </div>
+  <div class="hero-right">
+    <div class="latest-badge"><i class="far fa-clock"></i> LATEST RESULT</div>
+    <div class="score">95%</div>
+    <div><i class="fas fa-chart-line"></i> Average Score</div>
+  </div>
+</div>
+
+<div class="section-title" id="exams">Available Exams</div>
+<div class="section-sub">Choose a module to start practicing</div>
+
+<div class="features-grid">
+  {% for exam in exams %}
+  <a
+    href="{{ url_for('exam.take_exam', exam_id=exam.id) }}"
+    class="project-card"
+    style="text-decoration: none; color: inherit"
+  >
+    <div class="feature-icon"><i class="fas fa-book"></i></div>
+    <h3>{{ exam.title }}</h3>
+    <p>{{ exam.description }}</p>
+    <p>
+      <small
+        >{{ exam.questions|length }} questions • {{ exam.time_limit_minutes }}
+        min</small
+      >
+    </p>
+  </a>
+  {% else %}
+  <div class="feature-card">
+    <p>No exams available yet.</p>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="journey-banner">
+  <h2>Ready to transform your learning?</h2>
+  <a href="{{ url_for('auth.register') }}" class="btn-white"
+    >Start Your Journey →</a
+  >
+</div>
+{% endblock %}

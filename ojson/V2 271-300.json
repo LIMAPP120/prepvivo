@@ -1,0 +1,847 @@
+{
+  "title": "Vocabulary List 2 (Words 271-300)",
+  "description": "Test your knowledge of words 271 to 300",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Retain",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To keep or continue to have something",
+      "options": [
+        {
+          "text": "To keep or continue to have something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give away something you don't need",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To change something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Revenue",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) The total income produced by a business or organization",
+      "options": [
+        {
+          "text": "The total income produced by a business or organization",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Money spent by a company",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The number of employees in a company",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Products made by a factory",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Reverse",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To change something to the opposite direction or condition",
+      "options": [
+        {
+          "text": "To change something to the opposite direction or condition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To continue doing the same thing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something better",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Revise",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To re-examine and make alterations to something",
+      "options": [
+        {
+          "text": "To re-examine and make alterations to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore mistakes in something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To finish something quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To throw something away",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Revolution",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A forcible overthrow of a government or social order; a dramatic change",
+      "options": [
+        {
+          "text": "A forcible overthrow of a government or social order; a dramatic change",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small improvement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A regular meeting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A peaceful agreement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Rigid",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Unable to bend or be forced out of shape; not flexible",
+      "options": [
+        {
+          "text": "Unable to bend or be forced out of shape; not flexible",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very soft and bendable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Easy to change or adjust",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Broken into pieces",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Role",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) The function assumed or part played by a person or thing",
+      "options": [
+        {
+          "text": "The function assumed or part played by a person or thing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of bread",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A list of names",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool for measuring",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Sequence",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A particular order in which related things follow each other",
+      "options": [
+        {
+          "text": "A particular order in which related things follow each other",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random collection of things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that happens by accident",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A single item alone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Shift",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To move or change from one position or direction to another",
+      "options": [
+        {
+          "text": "To move or change from one position or direction to another",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stay in the same place",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To break something into pieces",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget where you put something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Significant",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Sufficiently great or important to be worthy of attention",
+      "options": [
+        {
+          "text": "Sufficiently great or important to be worthy of attention",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and unimportant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely ordinary",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Hidden and not noticed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Similar",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Resembling without being identical",
+      "options": [
+        {
+          "text": "Resembling without being identical",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely different",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Opposite in every way",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Simulate",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To imitate the appearance or character of something",
+      "options": [
+        {
+          "text": "To imitate the appearance or character of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To create something original",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore something important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Sole",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Being the only one; single",
+      "options": [
+        {
+          "text": "Being the only one; single",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "One of many",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Shared with others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Specify",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To identify clearly and definitely",
+      "options": [
+        {
+          "text": "To identify clearly and definitely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To guess without knowing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget important details",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide information",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Stable",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Not likely to change or fail; firmly established",
+      "options": [
+        {
+          "text": "Not likely to change or fail; firmly established",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Constantly changing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Weak and likely to break",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Temporary and short-lived",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Status",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) The relative social, professional, or other standing of someone or something",
+      "options": [
+        {
+          "text": "The relative social, professional, or other standing of someone or something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of computer",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A list of items",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A medical condition",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Strategy",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A plan of action designed to achieve a long-term or overall aim",
+      "options": [
+        {
+          "text": "A plan of action designed to achieve a long-term or overall aim",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random attempt",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A lucky guess",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A simple task",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Stress",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) Pressure or tension exerted on an object; mental or emotional strain",
+      "options": [
+        {
+          "text": "Pressure or tension exerted on an object; mental or emotional strain",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete relaxation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A happy feeling",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Physical strength",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Structure",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) The arrangement of and relations between the parts of something complex",
+      "options": [
+        {
+          "text": "The arrangement of and relations between the parts of something complex",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random collection",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something without organization",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A simple idea",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Subsequent",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Coming after something in time; following",
+      "options": [
+        {
+          "text": "Coming after something in time; following",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Coming before something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Happening at the same time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Never happening",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Substitute",
+      "order": 21,
+      "points": 1,
+      "explanation": "(Noun) A person or thing acting or serving in place of another",
+      "options": [
+        {
+          "text": "A person or thing acting or serving in place of another",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The original person or thing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something completely different",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool for measuring",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Sufficient",
+      "order": 22,
+      "points": 1,
+      "explanation": "(Adjective) Enough; adequate",
+      "options": [
+        {
+          "text": "Enough; adequate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not enough",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Too much",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The wrong type",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Supplement",
+      "order": 23,
+      "points": 1,
+      "explanation": "(Noun) Something added to complete a thing or make up for a deficiency",
+      "options": [
+        {
+          "text": "Something added to complete a thing or make up for a deficiency",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something taken away",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The main part",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something unnecessary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Sustain",
+      "order": 24,
+      "points": 1,
+      "explanation": "(Verb) To strengthen or support physically or mentally",
+      "options": [
+        {
+          "text": "To strengthen or support physically or mentally",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To weaken or damage",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or neglect",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To finish quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Symbol",
+      "order": 25,
+      "points": 1,
+      "explanation": "(Noun) A mark or character used as a conventional representation of an object, function, or process",
+      "options": [
+        {
+          "text": "A mark or character used as a conventional representation of an object, function, or process",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random drawing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A real object",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A written story",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Target",
+      "order": 26,
+      "points": 1,
+      "explanation": "(Noun) A person, object, or place selected as the aim of an attack",
+      "options": [
+        {
+          "text": "A person, object, or place selected as the aim of an attack",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random choice",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something to avoid",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Task",
+      "order": 27,
+      "points": 1,
+      "explanation": "(Noun) A piece of work to be done or undertaken",
+      "options": [
+        {
+          "text": "A piece of work to be done or undertaken",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A game to play",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something to avoid",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Technique",
+      "order": 28,
+      "points": 1,
+      "explanation": "(Noun) A way of carrying out a particular task",
+      "options": [
+        {
+          "text": "A way of carrying out a particular task",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of machine",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A random attempt",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A lucky guess",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Technology",
+      "order": 29,
+      "points": 1,
+      "explanation": "(Noun) The application of scientific knowledge for practical purposes",
+      "options": [
+        {
+          "text": "The application of scientific knowledge for practical purposes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Old-fashioned methods",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Natural abilities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Artistic skills",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Temporary",
+      "order": 30,
+      "points": 1,
+      "explanation": "(Adjective) Lasting for only a limited period of time; not permanent",
+      "options": [
+        {
+          "text": "Lasting for only a limited period of time; not permanent",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lasting forever",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very strong and durable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Never changing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1041-1060)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "iridescent",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Showing many different colors that seem to change when seen from different angles",
+      "options": [
+        {
+          "text": "Showing many different colors that seem to change when seen from different angles",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very clear and easy to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of sweet fruit with a hard shell",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very noisy and loud",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cornucopia",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A symbol of plenty consisting of a large container overflowing with fruits, vegetables, and flowers",
+      "options": [
+        {
+          "text": "A symbol of plenty consisting of a large container overflowing with fruits, vegetables, and flowers",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of musical instrument with strings",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small boat used for fishing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A building where corn is stored",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "aficionado",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A person who is very enthusiastic and knowledgeable about a particular subject or activity",
+      "options": [
+        {
+          "text": "A person who is very enthusiastic and knowledgeable about a particular subject or activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of spicy Spanish sausage",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A professional dancer from Spain",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who doesn't like sports",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "narcissism",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) Excessive interest in or admiration of oneself and one's physical appearance",
+      "options": [
+        {
+          "text": "Excessive interest in or admiration of oneself and one's physical appearance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of beautiful flower that grows in spring",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A serious medical condition affecting the lungs",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of great sadness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "biennial",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Happening every two years",
+      "options": [
+        {
+          "text": "Happening every two years",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Happening twice a year",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Happening every week",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happening once in a lifetime",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lariat",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A rope with a noose at one end, used especially for catching cattle or horses",
+      "options": [
+        {
+          "text": "A rope with a noose at one end, used especially for catching cattle or horses",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of sweet dessert from Italy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A musical instrument with many strings",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small boat used on lakes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "simian",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Relating to, resembling, or characteristic of apes or monkeys",
+      "options": [
+        {
+          "text": "Relating to, resembling, or characteristic of apes or monkeys",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very simple and basic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Relating to the sea or ocean",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely intelligent and clever",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "quail",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A small, short-tailed bird that is often hunted for sport or food",
+      "options": [
+        {
+          "text": "A small, short-tailed bird that is often hunted for sport or food",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of strong wind that occurs in deserts",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of being scared or nervous",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool used for digging in the garden",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "flippant",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Not showing a serious or respectful attitude",
+      "options": [
+        {
+          "text": "Not showing a serious or respectful attitude",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being able to do backflips and cartwheels",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very colorful and bright",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Moving quickly from one place to another",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "circumspect",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Careful to consider all circumstances and possible consequences before acting",
+      "options": [
+        {
+          "text": "Careful to consider all circumstances and possible consequences before acting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having good eyesight and observation skills",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Going around in circles without direction",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very talkative and social",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inscrutable",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Impossible to understand or interpret; mysterious",
+      "options": [
+        {
+          "text": "Impossible to understand or interpret; mysterious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very clear and easy to read",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Able to be folded many times",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely transparent or see-through",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "alchemy",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A medieval chemical science that attempted to change ordinary metals into gold",
+      "options": [
+        {
+          "text": "A medieval chemical science that attempted to change ordinary metals into gold",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of sweet syrup made from maple trees",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The study of different types of algae",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A dance style from Argentina",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "teeming",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Full of or swarming with; abundant",
+      "options": [
+        {
+          "text": "Full of or swarming with; abundant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very clean and organized",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Quiet and peaceful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely hot and dry",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "awry",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective/Adverb) Away from the usual or expected course; amiss",
+      "options": [
+        {
+          "text": "Away from the usual or expected course; amiss",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely tired and sleepy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very angry and upset",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of energy and excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gossamer",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun/Adjective) A light, thin, and delicate material or substance",
+      "options": [
+        {
+          "text": "A light, thin, and delicate material or substance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of strong, thick rope",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who tells stories and rumors",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sweet, sticky candy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "conclave",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A private or secret meeting",
+      "options": [
+        {
+          "text": "A private or secret meeting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A large cave with beautiful rock formations",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of key that opens many locks",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A celebration with music and dancing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "misanthropy",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A dislike or distrust of humankind",
+      "options": [
+        {
+          "text": "A dislike or distrust of humankind",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A fear of small spaces",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A love for all living things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A strong desire to travel",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "junket",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A trip or excursion made for pleasure, often by officials at public expense",
+      "options": [
+        {
+          "text": "A trip or excursion made for pleasure, often by officials at public expense",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of sweet dessert made with milk",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small boat used for short trips",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A basket made of woven reeds",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "jejune",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Naive, simplistic, and superficial; lacking substance",
+      "options": [
+        {
+          "text": "Naive, simplistic, and superficial; lacking substance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very young and energetic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having a healthy appetite",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely colorful and bright",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obtuse",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Annoyingly insensitive or slow to understand",
+      "options": [
+        {
+          "text": "Annoyingly insensitive or slow to understand",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having perfect eyesight",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very sharp and pointed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely intelligent and quick",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

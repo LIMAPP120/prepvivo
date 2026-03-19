@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 81-100)",
+  "description": "Test your knowledge of words 81 to 100",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "steeped",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) To be completely surrounded by or involved in something, especially a quality or atmosphere",
+      "options": [
+        {
+          "text": "To be completely surrounded by or involved in something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To climb a very high mountain",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make tea by putting leaves in hot water",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To walk carefully on slippery ground",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "eminent",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Famous, respected, and important in a particular profession or field",
+      "options": [
+        {
+          "text": "Famous, respected, and important in a particular profession or field",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very tall and thin like a tower",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Not important or well-known",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "New and inexperienced",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abound",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To exist in very large numbers or amounts",
+      "options": [
+        {
+          "text": "To exist in very large numbers or amounts",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To jump up and down in excitement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make a loud, deep sound",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To be scarce or difficult to find",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "replete",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Filled or well-supplied with something",
+      "options": [
+        {
+          "text": "Filled or well-supplied with something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Tired and needing to rest",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Empty or lacking something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Simple and plain without decorations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "etiology",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) The study of the causes or origins of diseases or problems",
+      "options": [
+        {
+          "text": "The study of the causes or origins of diseases or problems",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The study of insects and bugs",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The study of stars and planets",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The study of ancient civilizations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "matron",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A married woman, especially one who is mature, dignified, and responsible",
+      "options": [
+        {
+          "text": "A married woman who is mature, dignified, and responsible",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A young girl who is learning to read",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of soft material used for making clothes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A pattern of squares on a chessboard",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "automaton",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A machine that performs tasks automatically, like a robot",
+      "options": [
+        {
+          "text": "A machine that performs tasks automatically, like a robot",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who drives a car very fast",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument with keys",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small animal that lives in the desert",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "realm",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A field or area of activity, interest, or knowledge",
+      "options": [
+        {
+          "text": "A field or area of activity, interest, or knowledge",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of long stick used by kings",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very loud noise or sound",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small boat used for fishing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "paradox",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A statement that seems contradictory but may actually be true",
+      "options": [
+        {
+          "text": "A statement that seems contradictory but may actually be true",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A story with a happy ending",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A mathematical equation that is always correct",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of large bird that cannot fly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "compound",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To make something worse or more serious by adding to it",
+      "options": [
+        {
+          "text": "To make something worse or more serious by adding to it",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To mix ingredients to make a cake",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something better or easier",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To break something into small pieces",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "annals",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) Historical records of events, usually written year by year",
+      "options": [
+        {
+          "text": "Historical records of events, usually written year by year",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Small animals that live underground",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Rings that people wear on their fingers",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tools used for gardening and planting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "badger",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To repeatedly ask someone to do something or answer questions",
+      "options": [
+        {
+          "text": "To repeatedly ask someone to do something or answer questions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To clean something until it shines",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To run very quickly in a race",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To build a house from wood",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tinge",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A slight trace of a color, feeling, or quality",
+      "options": [
+        {
+          "text": "A slight trace of a color, feeling, or quality",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A loud bell that rings in a clock tower",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very strong and bright color",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A musical instrument with strings",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "drudgery",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) Hard, boring, and unpleasant work",
+      "options": [
+        {
+          "text": "Hard, boring, and unpleasant work",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Exciting and fun activities",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of dance with fast movements",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Drawing and painting as a hobby",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "perceive",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To become aware of or understand something through the senses or mind",
+      "options": [
+        {
+          "text": "To become aware of or understand something through the senses or mind",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To receive a gift on your birthday",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make a plan for the future",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget something important",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "interminable",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Seeming to last forever; endless or very long and boring",
+      "options": [
+        {
+          "text": "Seeming to last forever; endless or very long and boring",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very short and quick",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Interesting and exciting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happening between two things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "throng",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A large, dense crowd of people",
+      "options": [
+        {
+          "text": "A large, dense crowd of people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of long, narrow boat",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A strong piece of rope or string",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A song that is sung by many people together",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "laconic",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Using very few words; brief and concise in speech or writing",
+      "options": [
+        {
+          "text": "Using very few words; brief and concise in speech or writing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Talking too much and not letting others speak",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Speaking in a loud and clear voice",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Using difficult words that are hard to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impudent",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Not showing proper respect; rude and bold in a disrespectful way",
+      "options": [
+        {
+          "text": "Not showing proper respect; rude and bold in a disrespectful way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very smart and intelligent",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Shy and nervous around people",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Helpful and kind to others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "scorn",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A feeling of contempt or strong dislike for someone or something",
+      "options": [
+        {
+          "text": "A feeling of contempt or strong dislike for someone or something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of musical horn used in orchestras",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The skin of an animal used to make leather",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A plant with sharp thorns that can hurt you",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

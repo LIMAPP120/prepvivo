@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1461-1480)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "enunciate",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To pronounce words clearly and distinctly",
+      "options": [
+        {
+          "text": "To pronounce words clearly and distinctly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To write words beautifully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To learn words quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget words easily",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pedagogue",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A teacher, especially one who is strict or formal",
+      "options": [
+        {
+          "text": "A teacher, especially one who is strict or formal",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A student who studies hard",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A book about teaching",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "irascible",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing a tendency to be easily angered",
+      "options": [
+        {
+          "text": "Having or showing a tendency to be easily angered",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very calm and patient",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely happy and cheerful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very intelligent and smart",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inordinate",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Unusually large; excessive or unreasonable",
+      "options": [
+        {
+          "text": "Unusually large; excessive or unreasonable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and insufficient",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly the right amount",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely normal and average",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "perpetuate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To make something continue indefinitely; to keep something going",
+      "options": [
+        {
+          "text": "To make something continue indefinitely; to keep something going",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stop something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something smaller",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "introspective",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Examining one's own thoughts and feelings",
+      "options": [
+        {
+          "text": "Examining one's own thoughts and feelings",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Looking at other people's problems",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being very outgoing and social",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Studying science and mathematics",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "compensatory",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Making up for something; providing compensation",
+      "options": [
+        {
+          "text": "Making up for something; providing compensation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Making something worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Forgetting about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Celebrating an achievement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mandate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun/Verb) An official order or command to do something",
+      "options": [
+        {
+          "text": "An official order or command to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A suggestion or recommendation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "catastrophic",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Involving or causing sudden great damage or suffering",
+      "options": [
+        {
+          "text": "Involving or causing sudden great damage or suffering",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Causing small improvements",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Bringing great happiness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being completely harmless",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "neutralize",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To make something ineffective or harmless by applying an opposite force",
+      "options": [
+        {
+          "text": "To make something ineffective or harmless by applying an opposite force",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something stronger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bizarre",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Very strange or unusual, especially in a striking or shocking way",
+      "options": [
+        {
+          "text": "Very strange or unusual, especially in a striking or shocking way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely normal and ordinary",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely boring",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "anthropologist",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A person who studies human societies, cultures, and their development",
+      "options": [
+        {
+          "text": "A person who studies human societies, cultures, and their development",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who studies animals",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who studies rocks",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who studies stars",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fetish",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) An excessive or irrational devotion or commitment to something",
+      "options": [
+        {
+          "text": "An excessive or irrational devotion or commitment to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A normal interest in something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of dislike for something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inanimate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Not alive, especially not in the manner of animals and humans",
+      "options": [
+        {
+          "text": "Not alive, especially not in the manner of animals and humans",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of life and energy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Moving quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "taboo",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun/Adjective) A social or religious custom prohibiting or restricting a particular practice",
+      "options": [
+        {
+          "text": "A social or religious custom prohibiting or restricting a particular practice",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that is encouraged",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "artifact",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) An object made by a human being, typically of cultural or historical interest",
+      "options": [
+        {
+          "text": "An object made by a human being, typically of cultural or historical interest",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A natural object like a rock",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A modern electronic device",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prohibition",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) The act of forbidding something by law or rule",
+      "options": [
+        {
+          "text": "The act of forbidding something by law or rule",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The encouragement of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of celebration",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of freedom",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imprudent",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Not showing care for the consequences of an action; rash",
+      "options": [
+        {
+          "text": "Not showing care for the consequences of an action; rash",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very careful and thoughtful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely intelligent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very wealthy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "taint",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To contaminate or pollute something; to affect with something bad",
+      "options": [
+        {
+          "text": "To contaminate or pollute something; to affect with something bad",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To clean something thoroughly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something better",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imperative",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Of vital importance; absolutely necessary",
+      "options": [
+        {
+          "text": "Of vital importance; absolutely necessary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely unimportant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Interesting but not necessary",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very difficult to do",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

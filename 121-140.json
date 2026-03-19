@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 121-140)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Exceed",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To be greater than a number or amount, or to go beyond a limit",
+      "options": [
+        {
+          "text": "To be greater than a number or amount, or to go beyond a limit",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To be less than expected",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stay within limits",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To be exactly equal to something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Exclaim",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Verb) To say something suddenly and loudly, especially because of surprise, emotion, or pain",
+      "options": [
+        {
+          "text": "To whisper quietly",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To say something suddenly and loudly, especially because of surprise, emotion, or pain",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To write something down",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To think about something carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Exclude",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To prevent someone or something from entering a place or taking part in an activity",
+      "options": [
+        {
+          "text": "To welcome someone warmly",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To prevent someone or something from entering a place or taking part in an activity",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To include everyone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To invite someone to join",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Exhaust",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To make someone extremely tired, or to use all of something",
+      "options": [
+        {
+          "text": "To make someone extremely tired, or to use all of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give someone more energy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To save something for later",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Expand",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To become larger in size, number, or amount, or to make something larger",
+      "options": [
+        {
+          "text": "To become smaller or shrink",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To become larger in size, number, or amount, or to make something larger",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To stay the same size",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To break into pieces",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Expectation",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A belief that something will happen or is likely to happen",
+      "options": [
+        {
+          "text": "A feeling of surprise",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "A belief that something will happen or is likely to happen",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "A memory of the past",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A fear about the future",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Expertise",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A high level of knowledge or skill in a particular subject or activity",
+      "options": [
+        {
+          "text": "A high level of knowledge or skill in a particular subject or activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A lack of knowledge about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A general interest in many things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A basic understanding of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Exploit",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To use something fully and effectively, or to treat someone unfairly for your own advantage",
+      "options": [
+        {
+          "text": "To ignore an opportunity",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To use something fully and effectively, or to treat someone unfairly for your own advantage",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To help someone selflessly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To waste resources",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Extravagant",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Spending or costing too much money, or more than is reasonable",
+      "options": [
+        {
+          "text": "Spending or costing too much money, or more than is reasonable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being very careful with money",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Spending just the right amount",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not spending any money at all",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Extraordinary",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Very unusual, remarkable, or surprising",
+      "options": [
+        {
+          "text": "Very usual and ordinary",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Very unusual, remarkable, or surprising",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Somewhat interesting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely boring",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Familiar",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Well known or easily recognized",
+      "options": [
+        {
+          "text": "Well known or easily recognized",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely unknown",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Strange and confusing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Difficult to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Fascinate",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To attract and hold the attention of someone by being interesting, pleasant, or mysterious",
+      "options": [
+        {
+          "text": "To bore someone completely",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "To attract and hold the attention of someone by being interesting, pleasant, or mysterious",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To make someone angry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To confuse someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Ferocious",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Extremely fierce, violent, or intense",
+      "options": [
+        {
+          "text": "Extremely fierce, violent, or intense",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very gentle and kind",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Somewhat strong",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely harmless",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Flawless",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Perfect, without any mistakes or weaknesses",
+      "options": [
+        {
+          "text": "Full of mistakes and errors",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "Perfect, without any mistakes or weaknesses",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Average in quality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not very good",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Flexible",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Able to bend or be bent easily without breaking, or able to change or be changed easily",
+      "options": [
+        {
+          "text": "Able to bend or be bent easily without breaking, or able to change or be changed easily",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Stiff and unable to bend",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Fixed and unable to change",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Weak and easily broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Flourish",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To grow or develop in a healthy or vigorous way",
+      "options": [
+        {
+          "text": "To grow or develop in a healthy or vigorous way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To become weak and die",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stay the same without change",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To shrink in size",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Focus",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To give all your attention to a particular thing, or the center of interest or activity",
+      "options": [
+        {
+          "text": "To give all your attention to a particular thing, or the center of interest or activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To think about many things at once",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Formal",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Following proper rules, customs, and style; official",
+      "options": [
+        {
+          "text": "Following proper rules, customs, and style; official",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Casual and relaxed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Unofficial and personal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Not following any rules",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Fortunate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Lucky; having good fortune",
+      "options": [
+        {
+          "text": "Lucky; having good fortune",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unlucky; having bad luck",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average; neither lucky nor unlucky",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Creating your own luck",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Fragile",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Easily broken, damaged, or destroyed; delicate",
+      "options": [
+        {
+          "text": "Easily broken, damaged, or destroyed; delicate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very strong and durable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Heavy and solid",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Flexible and bendable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

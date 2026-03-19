@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 801-820)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "frenzy",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A state of wild excitement or uncontrolled activity",
+      "options": [
+        {
+          "text": "A state of wild excitement or uncontrolled activity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A calm and peaceful state of mind",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A boring and uneventful situation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sleepy and tired feeling",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inane",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Silly or stupid; lacking sense or meaning",
+      "options": [
+        {
+          "text": "Silly or stupid; lacking sense or meaning",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very intelligent and clever",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Serious and important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Beautiful and artistic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rampant",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Spreading uncontrollably and widely; growing without check",
+      "options": [
+        {
+          "text": "Spreading uncontrollably and widely; growing without check",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Carefully controlled and limited",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Growing slowly and carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely stopped and finished",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "concur",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To agree or have the same opinion",
+      "options": [
+        {
+          "text": "To agree or have the same opinion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To disagree strongly with someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To be confused about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore what someone says",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ethics",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) Moral principles that govern a person's behavior",
+      "options": [
+        {
+          "text": "Moral principles that govern a person's behavior",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Rules for playing games",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Scientific facts and information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Mathematical calculations",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "flagrant",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Conspicuously or obviously offensive; glaring",
+      "options": [
+        {
+          "text": "Conspicuously or obviously offensive; glaring",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Small and barely noticeable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Kind and considerate behavior",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Clever and intelligent thinking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "clandestine",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Kept secret or done secretively, especially for illicit purposes",
+      "options": [
+        {
+          "text": "Kept secret or done secretively, especially for illicit purposes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Open and public for everyone to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Loud and noisy activities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Boring and uninteresting events",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "duress",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) Threats, violence, constraints, or other action used to coerce someone into doing something",
+      "options": [
+        {
+          "text": "Threats, violence, constraints, or other action used to coerce someone into doing something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Free choice made willingly and happily",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A peaceful negotiation between friends",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A generous offer of help",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "admonish",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To warn or reprimand someone firmly",
+      "options": [
+        {
+          "text": "To warn or reprimand someone firmly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone for good behavior",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone's mistakes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To help someone with their work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inexorable",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Impossible to stop or prevent; relentless",
+      "options": [
+        {
+          "text": "Impossible to stop or prevent; relentless",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy to control and manage",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Temporary and short-lived",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Gentle and easily stopped",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "culprit",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) A person who is responsible for a crime or other misdeed",
+      "options": [
+        {
+          "text": "A person who is responsible for a crime or other misdeed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who helps solve crimes",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A victim of a crime or accident",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A witness who saw what happened",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "distraught",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Deeply upset and agitated",
+      "options": [
+        {
+          "text": "Deeply upset and agitated",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very happy and excited",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Calm and peaceful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Bored and uninterested",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "egregious",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Outstandingly bad; shocking",
+      "options": [
+        {
+          "text": "Outstandingly bad; shocking",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Exceptionally good and excellent",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average and ordinary",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Small and unimportant",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "acrimonious",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Angry and bitter in tone or manner",
+      "options": [
+        {
+          "text": "Angry and bitter in tone or manner",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Friendly and peaceful in discussion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Quiet and shy in conversation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Funny and humorous in speech",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "duplicity",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) Deceitfulness; double-dealing",
+      "options": [
+        {
+          "text": "Deceitfulness; double-dealing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Honesty and truthfulness",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Bravery and courage",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Kindness and generosity",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "elicit",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To draw out or bring forth a response, answer, or fact",
+      "options": [
+        {
+          "text": "To draw out or bring forth a response, answer, or fact",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hide or conceal information",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore questions or comments",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To confuse people with difficult questions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "paucity",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) The presence of something only in small or insufficient quantities; scarcity",
+      "options": [
+        {
+          "text": "The presence of something only in small or insufficient quantities; scarcity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A large amount or abundance of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The perfect amount of something needed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Too much of something causing waste",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tolerate",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To allow the existence or occurrence of something without interference",
+      "options": [
+        {
+          "text": "To allow the existence or occurrence of something without interference",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To completely forbid or ban something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To encourage and support something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pernicious",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Having a harmful effect, especially in a gradual or subtle way",
+      "options": [
+        {
+          "text": "Having a harmful effect, especially in a gradual or subtle way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having immediate and obvious benefits",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being completely harmless and safe",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Providing quick and easy solutions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "impunity",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) Exemption from punishment or freedom from the injurious consequences of an action",
+      "options": [
+        {
+          "text": "Exemption from punishment or freedom from the injurious consequences of an action",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Being punished severely for small mistakes",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Following rules carefully and exactly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Helping others avoid punishment",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 1061-1080)",
+  "description": "Test your knowledge of words 1061 to 1080",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "degrade",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To treat someone without respect and make them feel worthless",
+      "options": [
+        {
+          "text": "To treat someone without respect and make them feel worthless",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To improve someone's skills or abilities",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To give someone a promotion at work",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something cleaner or purer",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "unsavory",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Unpleasant or morally offensive; not nice or acceptable",
+      "options": [
+        {
+          "text": "Unpleasant or morally offensive; not nice or acceptable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very delicious and tasty to eat",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely clean and organized",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Highly intelligent and clever",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "epitome",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A perfect example of a particular quality or type",
+      "options": [
+        {
+          "text": "A perfect example of a particular quality or type",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of small bird with colorful feathers",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A mathematical formula for solving problems",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of sadness or disappointment",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "venial",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) A minor or forgivable sin or fault; not very serious",
+      "options": [
+        {
+          "text": "A minor or forgivable sin or fault; not very serious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very serious crime that cannot be forgiven",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that happens every day",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of delicious fruit",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "grotesque",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Very ugly or disgusting in appearance; distorted and unnatural",
+      "options": [
+        {
+          "text": "Very ugly or disgusting in appearance; distorted and unnatural",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Beautiful and pleasing to look at",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Simple and plain in design",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very expensive and luxurious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dexterity",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) Skill in performing tasks, especially with the hands",
+      "options": [
+        {
+          "text": "Skill in performing tasks, especially with the hands",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The ability to run very fast",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Knowledge about many different subjects",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of happiness and excitement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "repugnant",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Extremely unpleasant and offensive; causing strong dislike",
+      "options": [
+        {
+          "text": "Extremely unpleasant and offensive; causing strong dislike",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very attractive and appealing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Easy to understand and simple",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Common and ordinary",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "copious",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Large in quantity; abundant; more than enough",
+      "options": [
+        {
+          "text": "Large in quantity; abundant; more than enough",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small or insufficient amount",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Of average size or quantity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Difficult to find or rare",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "acme",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) The highest point of achievement or perfection",
+      "options": [
+        {
+          "text": "The highest point of achievement or perfection",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The beginning or starting point",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A deep valley between mountains",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "depict",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To show or represent something in a picture, story, or description",
+      "options": [
+        {
+          "text": "To show or represent something in a picture, story, or description",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hide or conceal something from view",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy or damage something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To improve or make something better",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vehemently",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adverb) In a strong and emotional way; with intense feeling",
+      "options": [
+        {
+          "text": "In a strong and emotional way; with intense feeling",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "In a quiet and soft manner",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Slowly and carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happily and cheerfully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "perfidious",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Deceitful and untrustworthy; betraying someone's trust",
+      "options": [
+        {
+          "text": "Deceitful and untrustworthy; betraying someone's trust",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely loyal and faithful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent and wise",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Physically strong and powerful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "naive",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Lacking experience, wisdom, or judgment; innocent and trusting",
+      "options": [
+        {
+          "text": "Lacking experience, wisdom, or judgment; innocent and trusting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very experienced and knowledgeable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Angry and upset about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely careful and cautious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ingratiate",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To try to make someone like you by doing things to please them",
+      "options": [
+        {
+          "text": "To try to make someone like you by doing things to please them",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone angry or upset",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or avoid someone completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To teach someone a new skill",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "covet",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To strongly desire something that belongs to someone else",
+      "options": [
+        {
+          "text": "To strongly desire something that belongs to someone else",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To give away something you own",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To be satisfied with what you have",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To share something equally with others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ignominious",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Causing public shame or disgrace; humiliating",
+      "options": [
+        {
+          "text": "Causing public shame or disgrace; humiliating",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Bringing great honor and respect",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very successful and impressive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Quiet and unnoticed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "penury",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) Extreme poverty; having very little money or resources",
+      "options": [
+        {
+          "text": "Extreme poverty; having very little money or resources",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great wealth and abundance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of writing instrument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "antipathy",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A strong feeling of dislike or opposition towards something or someone",
+      "options": [
+        {
+          "text": "A strong feeling of dislike or opposition towards something or someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of great love and affection",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete indifference or lack of interest",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A small amount of something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "confront",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To face a difficult situation or person directly and deal with it",
+      "options": [
+        {
+          "text": "To face a difficult situation or person directly and deal with it",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To run away from a problem",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore or avoid a difficult situation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To help someone with their problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "volition",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) The power to make your own decisions or choices; free will",
+      "options": [
+        {
+          "text": "The power to make your own decisions or choices; free will",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of being forced to do something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of powerful vehicle",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sudden, unexpected event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

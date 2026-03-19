@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 61-80)",
+  "description": "Test your knowledge of words 61 to 80",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Characteristic",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A feature or quality belonging typically to a person, place, or thing that helps identify it.",
+      "options": [
+        {
+          "text": "A feature or quality belonging typically to a person, place, or thing that helps identify it.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A fact or condition connected with or relevant to an event or action.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The quality of being clear and easy to understand.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Logical and consistent; clearly expressed.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Circumstance",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A fact or condition connected with or relevant to an event or action.",
+      "options": [
+        {
+          "text": "A fact or condition connected with or relevant to an event or action.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feature or quality belonging typically to a person, place, or thing.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The quality of being clear and easy to understand.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Logical and consistent; clearly expressed.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Clarity",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) The quality of being clear and easy to understand.",
+      "options": [
+        {
+          "text": "The quality of being clear and easy to understand.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A fact or condition connected with an event or action.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Logical and consistent; clearly expressed.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To fall down or give way suddenly.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Coherent",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Logical and consistent; clearly expressed.",
+      "options": [
+        {
+          "text": "Logical and consistent; clearly expressed.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The quality of being clear and easy to understand.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A fact or condition connected with an event or action.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To fall down or give way suddenly.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Collapse",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To fall down or give way suddenly.",
+      "options": [
+        {
+          "text": "To fall down or give way suddenly.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person with whom one works in a profession or business.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To begin or start.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling or showing sympathy and concern for others.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Colleague",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A person with whom one works in a profession or business.",
+      "options": [
+        {
+          "text": "A person with whom one works in a profession or business.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To fall down or give way suddenly.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To begin or start.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling or showing sympathy and concern for others.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Commence",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To begin or start.",
+      "options": [
+        {
+          "text": "To begin or start.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person with whom one works in a profession or business.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling or showing sympathy and concern for others.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To understand something fully.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Compassionate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing sympathy and concern for others.",
+      "options": [
+        {
+          "text": "Feeling or showing sympathy and concern for others.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To begin or start.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To understand something fully.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To focus all one's attention on a particular object or activity.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Comprehend",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To understand something fully.",
+      "options": [
+        {
+          "text": "To understand something fully.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling or showing sympathy and concern for others.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To focus all one's attention on a particular object or activity.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An abstract idea; a general notion.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Concentrate",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To focus all one's attention on a particular object or activity.",
+      "options": [
+        {
+          "text": "To focus all one's attention on a particular object or activity.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To understand something fully.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An abstract idea; a general notion.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To bring something to an end.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Concept",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) An abstract idea; a general notion.",
+      "options": [
+        {
+          "text": "An abstract idea; a general notion.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To focus all one's attention on a particular object or activity.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To bring something to an end.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling or showing confidence in oneself; self-assured.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Conclude",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To bring something to an end.",
+      "options": [
+        {
+          "text": "To bring something to an end.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An abstract idea; a general notion.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling or showing confidence in oneself; self-assured.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A serious disagreement or argument.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Confident",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Feeling or showing confidence in oneself; self-assured.",
+      "options": [
+        {
+          "text": "Feeling or showing confidence in oneself; self-assured.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To bring something to an end.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A serious disagreement or argument.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To overcome and take control of something.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Conflict",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A serious disagreement or argument.",
+      "options": [
+        {
+          "text": "A serious disagreement or argument.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling or showing confidence in oneself; self-assured.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To overcome and take control of something.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A result or effect of an action or condition.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Conquer",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To overcome and take control of something.",
+      "options": [
+        {
+          "text": "To overcome and take control of something.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A serious disagreement or argument.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A result or effect of an action or condition.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Careful not to cause inconvenience or hurt to others.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Consequence",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A result or effect of an action or condition.",
+      "options": [
+        {
+          "text": "A result or effect of an action or condition.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To overcome and take control of something.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Careful not to cause inconvenience or hurt to others.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Occurring continuously over a period of time.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Considerate",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Careful not to cause inconvenience or hurt to others.",
+      "options": [
+        {
+          "text": "Careful not to cause inconvenience or hurt to others.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A result or effect of an action or condition.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Occurring continuously over a period of time.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something impure by exposure to or addition of a poisonous substance.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Constant",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Occurring continuously over a period of time.",
+      "options": [
+        {
+          "text": "Occurring continuously over a period of time.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Careful not to cause inconvenience or hurt to others.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something impure by exposure to or addition of a poisonous substance.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To deny the truth of a statement by asserting the opposite.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Contaminate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To make something impure by exposure to or addition of a poisonous substance.",
+      "options": [
+        {
+          "text": "To make something impure by exposure to or addition of a poisonous substance.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Occurring continuously over a period of time.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To deny the truth of a statement by asserting the opposite.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feature or quality belonging typically to a person, place, or thing.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Contradict",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To deny the truth of a statement by asserting the opposite.",
+      "options": [
+        {
+          "text": "To deny the truth of a statement by asserting the opposite.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something impure by exposure to or addition of a poisonous substance.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Occurring continuously over a period of time.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feature or quality belonging typically to a person, place, or thing.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

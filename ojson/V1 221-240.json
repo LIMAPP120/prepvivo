@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 221-240)",
+  "description": "Test your knowledge of words 221 to 240",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Momentous",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Very important or significant, especially in having a major effect on future events",
+      "options": [
+        {
+          "text": "Very important or significant, especially in having a major effect on future events",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unimportant and forgettable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Happening very quickly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Causing sadness and regret",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Motion",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) The action or process of moving or being moved",
+      "options": [
+        {
+          "text": "The action or process of moving or being moved",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Standing completely still",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of sadness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of measurement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Mourn",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To feel or show deep sorrow or regret for someone or their death",
+      "options": [
+        {
+          "text": "To feel or show deep sorrow or regret for someone or their death",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To celebrate a happy event",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To feel angry about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about someone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Mysterious",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Difficult or impossible to understand, explain, or identify",
+      "options": [
+        {
+          "text": "Difficult or impossible to understand, explain, or identify",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy to understand and explain",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very ordinary and common",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely obvious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Myth",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A traditional story, especially one concerning the early history of a people or explaining a natural phenomenon",
+      "options": [
+        {
+          "text": "A traditional story, especially one concerning the early history of a people or explaining a natural phenomenon",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A proven scientific fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A daily news report",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A personal diary entry",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Navigate",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To plan and direct the route or course of a ship, aircraft, or other form of transportation",
+      "options": [
+        {
+          "text": "To plan and direct the route or course of a ship, aircraft, or other form of transportation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To get lost intentionally",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To stay in one place",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To travel without any plan",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Neglect",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To fail to care for properly or to pay proper attention to",
+      "options": [
+        {
+          "text": "To fail to care for properly or to pay proper attention to",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To take very good care of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To pay close attention to details",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To protect something carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Nostalgia",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A sentimental longing or affection for the past",
+      "options": [
+        {
+          "text": "A sentimental longing or affection for the past",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A fear of the future",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A dislike of old things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of excitement about new things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Notorious",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Famous or well-known for something bad",
+      "options": [
+        {
+          "text": "Famous or well-known for something bad",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Famous for doing good deeds",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely unknown to anyone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Respected by everyone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Nourish",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To provide with food or other substances necessary for growth, health, and good condition",
+      "options": [
+        {
+          "text": "To provide with food or other substances necessary for growth, health, and good condition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To take away food or resources",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make someone hungry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore someone's needs",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Obedient",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Complying or willing to comply with orders or requests; submissive to another's will",
+      "options": [
+        {
+          "text": "Complying or willing to comply with orders or requests; submissive to another's will",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Refusing to follow instructions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Making your own rules",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Ignoring authority",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Obligation",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) Something that a person feels morally or legally bound to do; a duty or commitment",
+      "options": [
+        {
+          "text": "Something that a person feels morally or legally bound to do; a duty or commitment",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something you do for fun",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A choice without consequences",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An unnecessary task",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Obstacle",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) Something that blocks one's way or prevents or hinders progress",
+      "options": [
+        {
+          "text": "Something that blocks one's way or prevents or hinders progress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that helps you succeed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An easy path forward",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A solution to a problem",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Obtain",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To get, acquire, or secure something",
+      "options": [
+        {
+          "text": "To get, acquire, or secure something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To lose or give away something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide something carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Occupy",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To reside or have one's place of business in a building; to fill or take up space",
+      "options": [
+        {
+          "text": "To reside or have one's place of business in a building; to fill or take up space",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To leave a place empty",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To visit briefly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To avoid a place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Opponent",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) Someone who competes against or fights another in a contest, game, or argument",
+      "options": [
+        {
+          "text": "Someone who competes against or fights another in a contest, game, or argument",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Someone who helps you",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A close friend or ally",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A teacher or coach",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Optimistic",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Hopeful and confident about the future",
+      "options": [
+        {
+          "text": "Hopeful and confident about the future",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Expecting the worst to happen",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Not caring about the future",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being realistic without hope",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Oppress",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To keep someone in subservience and hardship, especially by the unjust exercise of authority",
+      "options": [
+        {
+          "text": "To keep someone in subservience and hardship, especially by the unjust exercise of authority",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To treat someone with kindness and respect",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone succeed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give someone freedom",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Origin",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) The point or place where something begins, arises, or is derived",
+      "options": [
+        {
+          "text": "The point or place where something begins, arises, or is derived",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The end of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The middle point",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A random location",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Outcome",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) The way a thing turns out; a consequence",
+      "options": [
+        {
+          "text": "The way a thing turns out; a consequence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The beginning of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The reason for doing something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A plan for the future",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

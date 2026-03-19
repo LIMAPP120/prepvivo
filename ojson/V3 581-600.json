@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 581-600)",
+  "description": "Test your knowledge of words 581 to 600",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "sanguine",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Cheerfully optimistic and confident about the future",
+      "options": [
+        {
+          "text": "Cheerfully optimistic and confident about the future",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having a reddish or pinkish color",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Feeling tired and weak all the time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very angry and ready to fight",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "comprehensive",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Complete and including everything that is necessary",
+      "options": [
+        {
+          "text": "Complete and including everything that is necessary",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy to understand and simple",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very expensive and luxurious",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Difficult to comprehend or understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "corroborate",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To confirm or give support to a statement, theory, or finding",
+      "options": [
+        {
+          "text": "To confirm or give support to a statement, theory, or finding",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To eat away at metal through chemical action",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To borrow money from someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To decorate something with colorful patterns",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "coerce",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To persuade someone to do something by using force or threats",
+      "options": [
+        {
+          "text": "To persuade someone to do something by using force or threats",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To work together harmoniously",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To force a horse to move in circles",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To study something very carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "zealous",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing great energy or enthusiasm in pursuit of a cause or objective",
+      "options": [
+        {
+          "text": "Having or showing great energy or enthusiasm in pursuit of a cause or objective",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Feeling jealous of someone else's success",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very sleepy and tired",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having excellent eyesight",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "meticulous",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Showing great attention to detail; very careful and precise",
+      "options": [
+        {
+          "text": "Showing great attention to detail; very careful and precise",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Afraid of small, enclosed spaces",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very messy and disorganized",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having strong musical talent",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "elapse",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To pass or go by (said of time)",
+      "options": [
+        {
+          "text": "To pass or go by (said of time)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To escape from a difficult situation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To collapse or fall down suddenly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To slide smoothly and quietly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lax",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Not sufficiently strict, severe, or careful",
+      "options": [
+        {
+          "text": "Not sufficiently strict, severe, or careful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very relaxed and comfortable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Tightly stretched or pulled",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Feeling lazy and unmotivated",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "domicile",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A person's home or permanent residence",
+      "options": [
+        {
+          "text": "A person's home or permanent residence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of delicious citrus fruit",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small, friendly animal similar to a hamster",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A document that proves citizenship",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "rash",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Acting or done without careful consideration of the possible consequences; impulsive",
+      "options": [
+        {
+          "text": "Acting or done without careful consideration of the possible consequences; impulsive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having red spots on the skin from an allergy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Moving very quickly in a straight line",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being very generous with money",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sporadic",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Occurring at irregular intervals; not continuous or steady",
+      "options": [
+        {
+          "text": "Occurring at irregular intervals; not continuous or steady",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Related to sports and athletic activities",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very loud and explosive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happening exactly on time every time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "obviate",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To remove or prevent (a need or difficulty)",
+      "options": [
+        {
+          "text": "To remove or prevent (a need or difficulty)",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something very obvious",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To obstruct or block a path",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To observe something carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "conjecture",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) An opinion or conclusion formed on the basis of incomplete information; a guess",
+      "options": [
+        {
+          "text": "An opinion or conclusion formed on the basis of incomplete information; a guess",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of mathematical calculation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A joint in the human body",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A collection of valuable objects",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "quip",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) A witty or clever remark",
+      "options": [
+        {
+          "text": "A witty or clever remark",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A sudden, sharp pain",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of small bird",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A question that is difficult to answer",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "lurid",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect; sensational",
+      "options": [
+        {
+          "text": "Very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect; sensational",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely boring and uninteresting",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Moving slowly and carefully",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having a beautiful, soothing color",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inhibition",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A feeling that makes one self-conscious and unable to act in a relaxed and natural way",
+      "options": [
+        {
+          "text": "A feeling that makes one self-conscious and unable to act in a relaxed and natural way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The act of inhaling air into the lungs",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A legal restriction or prohibition",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A celebration or festive event",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "diatribe",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A forceful and bitter verbal attack or criticism",
+      "options": [
+        {
+          "text": "A forceful and bitter verbal attack or criticism",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A long journey by foot",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A sweet, tropical fruit",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incoherent",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Expressed in an unclear way that is difficult to understand; not logical or well-organized",
+      "options": [
+        {
+          "text": "Expressed in an unclear way that is difficult to understand; not logical or well-organized",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely clear and easy to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Not connected or related to anything",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very cold and unfriendly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fortuitous",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Happening by accident or chance rather than design; lucky",
+      "options": [
+        {
+          "text": "Happening by accident or chance rather than design; lucky",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very strong and well-fortified",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of fortune or wealth",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Happening at exactly the right time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prestigious",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Inspiring respect and admiration; having high status",
+      "options": [
+        {
+          "text": "Inspiring respect and admiration; having high status",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very expensive and costly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of pretensions or false claims",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Coming before something else in time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

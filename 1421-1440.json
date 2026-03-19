@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1421-1440)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "decadence",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) Moral or cultural decline, especially after a peak of achievement",
+      "options": [
+        {
+          "text": "Moral or cultural decline, especially after a peak of achievement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A period of great success and achievement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of delicious dessert",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extreme physical fitness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "supplication",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) The action of asking or begging for something earnestly or humbly",
+      "options": [
+        {
+          "text": "The action of asking or begging for something earnestly or humbly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of folded paper art",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A complicated mathematical calculation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A celebration or party",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ascetic",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun/Adjective) A person who practices severe self-discipline and abstains from indulgence",
+      "options": [
+        {
+          "text": "A person who practices severe self-discipline and abstains from indulgence",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Someone who enjoys parties and social events",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of artistic painting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who studies stars",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "penance",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) Voluntary self-punishment to show regret for wrongdoing",
+      "options": [
+        {
+          "text": "Voluntary self-punishment to show regret for wrongdoing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of writing instrument",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A celebration of success",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of great happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "disciple",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A follower or student of a teacher, leader, or philosophy",
+      "options": [
+        {
+          "text": "A follower or student of a teacher, leader, or philosophy",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of scientific instrument",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Someone who creates trouble",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who doesn't believe anything",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "desultory",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Lacking a plan, purpose, or enthusiasm; random",
+      "options": [
+        {
+          "text": "Lacking a plan, purpose, or enthusiasm; random",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very organized and systematic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely enthusiastic",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Carefully planned",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "metamorphosis",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A complete change in form, structure, or substance",
+      "options": [
+        {
+          "text": "A complete change in form, structure, or substance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small, gradual change",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Staying exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of large insect",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "materialism",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) The belief that material possessions are more important than spiritual values",
+      "options": [
+        {
+          "text": "The belief that material possessions are more important than spiritual values",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The study of building materials",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A love of nature and outdoor activities",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Belief in spiritual values over possessions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "salvation",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) Preservation or deliverance from harm, ruin, or loss",
+      "options": [
+        {
+          "text": "Preservation or deliverance from harm, ruin, or loss",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of delicious sauce",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A difficult challenge or problem",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A celebration ceremony",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nirvana",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) A state of perfect happiness and peace; the highest spiritual state in Buddhism",
+      "options": [
+        {
+          "text": "A state of perfect happiness and peace; the highest spiritual state in Buddhism",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of extreme sadness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A crowded, noisy place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nurture",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To care for and encourage the growth or development of someone or something",
+      "options": [
+        {
+          "text": "To care for and encourage the growth or development of someone or something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore or neglect",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To criticize harshly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To measure carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "plight",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A dangerous, difficult, or otherwise unfortunate situation",
+      "options": [
+        {
+          "text": "A dangerous, difficult, or otherwise unfortunate situation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very easy task",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A happy celebration",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of light fabric",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "juxtapose",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To place two things side by side for contrast or comparison",
+      "options": [
+        {
+          "text": "To place two things side by side for contrast or comparison",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To separate things completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To mix things together",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide something carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cope",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To deal effectively with something difficult",
+      "options": [
+        {
+          "text": "To deal effectively with something difficult",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To run away from problems",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To create difficulties",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore problems completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "covert",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Not openly acknowledged or displayed; secret or hidden",
+      "options": [
+        {
+          "text": "Not openly acknowledged or displayed; secret or hidden",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very obvious and open",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Brightly colored",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Loud and noisy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incapacitated",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Deprived of strength or power; disabled",
+      "options": [
+        {
+          "text": "Deprived of strength or power; disabled",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely powerful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely healthy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "incompatibility",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) The state of being unable to exist or work together in harmony",
+      "options": [
+        {
+          "text": "The state of being unable to exist or work together in harmony",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Perfect harmony and agreement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A strong friendship",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of computer program",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "connubial",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Relating to marriage or the relationship between husband and wife",
+      "options": [
+        {
+          "text": "Relating to marriage or the relationship between husband and wife",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Relating to business partnerships",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Concerning childhood friendships",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "About teacher-student relationships",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "appellation",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A name or title given to a person, place, or thing",
+      "options": [
+        {
+          "text": "A name or title given to a person, place, or thing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of fruit",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A mathematical calculation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A loud sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "demur",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To raise objections or show reluctance",
+      "options": [
+        {
+          "text": "To raise objections or show reluctance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To agree immediately",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To speak loudly and confidently",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To run quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

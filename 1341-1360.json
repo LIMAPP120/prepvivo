@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1341-1360)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "assiduous",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Showing great care, attention, and hard work",
+      "options": [
+        {
+          "text": "Showing great care, attention, and hard work",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lazy and unwilling to work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very lucky and fortunate",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having many different skills",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "resourceful",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Able to find quick and clever ways to overcome difficulties",
+      "options": [
+        {
+          "text": "Able to find quick and clever ways to overcome difficulties",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having many natural resources",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being very wealthy and rich",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always asking others for help",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "fraught",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Filled with something unpleasant; causing or feeling stress or anxiety",
+      "options": [
+        {
+          "text": "Filled with something unpleasant; causing or feeling stress or anxiety",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of happiness and joy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Completely empty and vacant",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very simple and easy to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "component",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) A part or element of a larger whole",
+      "options": [
+        {
+          "text": "A part or element of a larger whole",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A complete and finished product",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that is broken and useless",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who invents new things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "murky",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Dark, gloomy, and hard to see through; not clear",
+      "options": [
+        {
+          "text": "Dark, gloomy, and hard to see through; not clear",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very bright and colorful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely clean and transparent",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely dry and without moisture",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "labyrinth",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A complicated irregular network of passages or paths; a maze",
+      "options": [
+        {
+          "text": "A complicated irregular network of passages or paths; a maze",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A straight and direct path",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A wide open field or meadow",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tall building with many floors",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hoax",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A humorous or malicious deception; a trick",
+      "options": [
+        {
+          "text": "A humorous or malicious deception; a trick",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A serious and important truth",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of loud musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A formal written agreement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exult",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To show or feel great happiness or triumph",
+      "options": [
+        {
+          "text": "To show or feel great happiness or triumph",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To feel very sad and disappointed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To think carefully about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide or conceal something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "evaluate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To judge or determine the significance, worth, or quality of something",
+      "options": [
+        {
+          "text": "To judge or determine the significance, worth, or quality of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To ignore or pay no attention to something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To create something new and original",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gullible",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Easily persuaded to believe something; too trusting",
+      "options": [
+        {
+          "text": "Easily persuaded to believe something; too trusting",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very intelligent and skeptical",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely strong and powerful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very careful and cautious",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "attest",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To provide or serve as clear evidence of something; to confirm",
+      "options": [
+        {
+          "text": "To provide or serve as clear evidence of something; to confirm",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To argue or disagree with something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide or cover up evidence",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To guess without any information",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "enigma",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) Something that is mysterious, puzzling, or difficult to understand",
+      "options": [
+        {
+          "text": "Something that is mysterious, puzzling, or difficult to understand",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that is very clear and obvious",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A simple everyday object",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who tells jokes and funny stories",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deploy",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To bring into effective action; to position or arrange strategically",
+      "options": [
+        {
+          "text": "To bring into effective action; to position or arrange strategically",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To destroy or break apart",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide or keep secret",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To learn something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "modify",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) To make partial or minor changes to something",
+      "options": [
+        {
+          "text": "To make partial or minor changes to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To completely destroy something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To keep something exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To create something entirely new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "abortive",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Failing to produce the intended result; unsuccessful",
+      "options": [
+        {
+          "text": "Failing to produce the intended result; unsuccessful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely successful and effective",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Just beginning or starting",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Continuing forever without end",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "spontaneous",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Performed or occurring as a result of a sudden impulse; without planning",
+      "options": [
+        {
+          "text": "Performed or occurring as a result of a sudden impulse; without planning",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Carefully planned and organized",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Forced or required by others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Boring and uninteresting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "accommodate",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To provide with a place to stay or be; to fit in with someone's wishes or needs",
+      "options": [
+        {
+          "text": "To provide with a place to stay or be; to fit in with someone's wishes or needs",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To refuse or reject something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something more difficult",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To travel to a different country",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "veneer",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A thin decorative covering of fine wood applied to a coarser wood or other material",
+      "options": [
+        {
+          "text": "A thin decorative covering of fine wood applied to a coarser wood or other material",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The solid core or center of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of clear glass window",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A protective coating on metal",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "innate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Inborn; existing from birth; natural rather than learned",
+      "options": [
+        {
+          "text": "Inborn; existing from birth; natural rather than learned",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Learned through study and practice",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Given as a gift or present",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Temporary and not permanent",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "urbane",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Courteous, refined, and sophisticated in manner",
+      "options": [
+        {
+          "text": "Courteous, refined, and sophisticated in manner",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Rude and impolite in behavior",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very simple and unsophisticated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Loud and attention-seeking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

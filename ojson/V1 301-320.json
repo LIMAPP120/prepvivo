@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 1 (Words 301-320)",
+  "description": "Test your knowledge of words 301 to 320",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Tolerant",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Accepting of different opinions, beliefs, or behaviors",
+      "options": [
+        {
+          "text": "Accepting of different opinions, beliefs, or behaviors",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unwilling to accept differences",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Critical of everyone's choices",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having strict rules for others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Tranquil",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Free from disturbance; calm and peaceful",
+      "options": [
+        {
+          "text": "Free from disturbance; calm and peaceful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Noisy and chaotic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of activity and excitement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Dangerous and threatening",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Transform",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Verb) To make a thorough or dramatic change in form, appearance, or character",
+      "options": [
+        {
+          "text": "To make a thorough or dramatic change in form, appearance, or character",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To keep something exactly the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something slightly different",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Tremendous",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Very great in amount, scale, or intensity",
+      "options": [
+        {
+          "text": "Very great in amount, scale, or intensity",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very small and insignificant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Average in size or amount",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Barely noticeable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Triumph",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A great victory or achievement; the state of being victorious",
+      "options": [
+        {
+          "text": "A great victory or achievement; the state of being victorious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A complete failure or loss",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small, unimportant success",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An attempt that didn't work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Turbulent",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Characterized by conflict, disorder, or confusion; not stable or calm",
+      "options": [
+        {
+          "text": "Characterized by conflict, disorder, or confusion; not stable or calm",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely peaceful and orderly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very predictable and stable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Quiet and uneventful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Unanimous",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Adjective) Fully in agreement; sharing the same views or opinions",
+      "options": [
+        {
+          "text": "Fully in agreement; sharing the same views or opinions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely divided with different opinions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Having many different viewpoints",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Unable to make a decision",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Uncertainty",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) The state of being unsure or not knowing what will happen",
+      "options": [
+        {
+          "text": "The state of being unsure or not knowing what will happen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Complete confidence about the future",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Knowing exactly what will happen",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being certain of all outcomes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Unconventional",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Not based on or conforming to what is generally done or believed",
+      "options": [
+        {
+          "text": "Not based on or conforming to what is generally done or believed",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Following all the usual rules and traditions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being exactly like everyone else",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Doing what is expected",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Unify",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To make or become united, uniform, or whole",
+      "options": [
+        {
+          "text": "To make or become united, uniform, or whole",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To separate into different parts",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To create conflict between people",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To keep groups divided",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Unique",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Being the only one of its kind; unlike anything else",
+      "options": [
+        {
+          "text": "Being the only one of its kind; unlike anything else",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Exactly the same as everything else",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very common and ordinary",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Similar to many other things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Unpredictable",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Not able to be predicted or known beforehand; changeable",
+      "options": [
+        {
+          "text": "Not able to be predicted or known beforehand; changeable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Always behaving the same way",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Easy to predict and understand",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Following a clear pattern",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Unveil",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To show or announce something publicly for the first time",
+      "options": [
+        {
+          "text": "To show or announce something publicly for the first time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hide or keep something secret",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Urgent",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Requiring immediate action or attention",
+      "options": [
+        {
+          "text": "Requiring immediate action or attention",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Not important and can wait",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that can be done later",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A routine matter",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Utensil",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A tool or container used for practical purposes, especially in cooking",
+      "options": [
+        {
+          "text": "A tool or container used for practical purposes, especially in cooking",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of furniture",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "An electronic device",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A piece of clothing",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Vague",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Unclear or uncertain in meaning or intention",
+      "options": [
+        {
+          "text": "Unclear or uncertain in meaning or intention",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very clear and specific",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Easy to understand",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Detailed and precise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Valid",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Having a sound basis in logic or fact; reasonable or acceptable",
+      "options": [
+        {
+          "text": "Having a sound basis in logic or fact; reasonable or acceptable",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on false information",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Not acceptable or approved",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Illogical and unreasonable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Valiant",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Showing courage or determination; brave",
+      "options": [
+        {
+          "text": "Showing courage or determination; brave",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Showing fear and hesitation",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Avoiding difficult situations",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Giving up easily when challenged",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Vandalize",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To deliberately destroy or damage public or private property",
+      "options": [
+        {
+          "text": "To deliberately destroy or damage public or private property",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To repair and improve something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To clean and maintain property",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To protect something from harm",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Vary",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Verb) To differ in size, amount, degree, or nature from something else of the same general class",
+      "options": [
+        {
+          "text": "To differ in size, amount, degree, or nature from something else of the same general class",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stay exactly the same",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To become identical to something else",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To never change under any circumstances",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

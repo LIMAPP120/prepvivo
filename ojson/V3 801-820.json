@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 801-820)",
+  "description": "Test your knowledge of words 801 to 820",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "indifference",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) A lack of interest, concern, or feeling about something",
+      "options": [
+        {
+          "text": "A lack of interest, concern, or feeling about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very strong interest in something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A gradual increase in something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The ability to do something well",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "escalation",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A gradual increase in intensity or seriousness of something",
+      "options": [
+        {
+          "text": "A gradual increase in intensity or seriousness of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A decrease in importance",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "cumulative",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Adjective) Increasing by successive additions; built up over time",
+      "options": [
+        {
+          "text": "Increasing by successive additions; built up over time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Decreasing gradually",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Happening only once",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very colorful and bright",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "potential",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective/Noun) Having or showing the capacity to become or develop into something in the future",
+      "options": [
+        {
+          "text": "Having or showing the capacity to become or develop into something in the future",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that has already happened",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of fruit",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of sadness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "palliate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To make a disease or its symptoms less severe without removing the cause",
+      "options": [
+        {
+          "text": "To make a disease or its symptoms less severe without removing the cause",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To celebrate loudly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To build something new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "recondite",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Difficult to understand; dealing with very profound or complex subjects",
+      "options": [
+        {
+          "text": "Difficult to understand; dealing with very profound or complex subjects",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Easy and simple to understand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very colorful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Sweet-tasting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prelude",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) An action or event that comes before and leads to something more important",
+      "options": [
+        {
+          "text": "An action or event that comes before and leads to something more important",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The ending of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "delude",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To make someone believe something that is not true; to deceive",
+      "options": [
+        {
+          "text": "To make someone believe something that is not true; to deceive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help someone understand something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something beautiful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean something thoroughly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "acknowledge",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To accept or admit the existence or truth of something",
+      "options": [
+        {
+          "text": "To accept or admit the existence or truth of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To deny something completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget about something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something more complicated",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "chimerical",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Existing only in the imagination; fanciful or unrealistic",
+      "options": [
+        {
+          "text": "Existing only in the imagination; fanciful or unrealistic",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Based on facts and reality",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very boring and ordinary",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely valuable",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "gamut",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun) The complete range or scope of something",
+      "options": [
+        {
+          "text": "The complete range or scope of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A single color",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of game",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A musical instrument",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "heterogeneous",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Diverse in character or content; made up of different kinds",
+      "options": [
+        {
+          "text": "Diverse in character or content; made up of different kinds",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "All the same or similar",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very simple and plain",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely colorful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "analogous",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Similar in some way; comparable to something else",
+      "options": [
+        {
+          "text": "Similar in some way; comparable to something else",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely different",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very complicated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely beautiful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "perspicacious",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Having a ready insight into and understanding of things; mentally sharp",
+      "options": [
+        {
+          "text": "Having a ready insight into and understanding of things; mentally sharp",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Slow to understand things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Physically strong",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very forgetful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "phenomenon",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A fact or situation that is observed to exist or happen",
+      "options": [
+        {
+          "text": "A fact or situation that is observed to exist or happen",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that cannot be seen",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of animal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of sadness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "maladjusted",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Unable to cope with the demands of a normal social environment",
+      "options": [
+        {
+          "text": "Unable to cope with the demands of a normal social environment",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very well-adjusted and happy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Physically strong",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely intelligent",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "decade",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A period of ten years",
+      "options": [
+        {
+          "text": "A period of ten years",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A period of one hundred years",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A period of one month",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A period of twenty-four hours",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mortality",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) The state of being subject to death; the death rate",
+      "options": [
+        {
+          "text": "The state of being subject to death; the death rate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The ability to live forever",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of happiness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of medicine",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "neurotic",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Suffering from, caused by, or relating to neurosis; overly anxious or obsessive",
+      "options": [
+        {
+          "text": "Suffering from, caused by, or relating to neurosis; overly anxious or obsessive",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very calm and relaxed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Physically strong",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely happy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "susceptible",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Likely or liable to be influenced or harmed by a particular thing",
+      "options": [
+        {
+          "text": "Likely or liable to be influenced or harmed by a particular thing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely immune to something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very strong and powerful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely intelligent",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

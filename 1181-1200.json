@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1181-1200)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "adverse",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Harmful or unfavorable; preventing success or development",
+      "options": [
+        {
+          "text": "Harmful or unfavorable; preventing success or development",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very helpful and beneficial",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely easy to understand",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely normal and expected",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "blatant",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Done openly and without shame; very obvious",
+      "options": [
+        {
+          "text": "Done openly and without shame; very obvious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Hidden and difficult to find",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely small and hard to see",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bigot",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A person who is intolerant toward those holding different opinions",
+      "options": [
+        {
+          "text": "A person who is intolerant toward those holding different opinions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who loves learning new things",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very generous and kind person",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who is always happy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "virulent",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Extremely severe or harmful in its effects; bitterly hostile",
+      "options": [
+        {
+          "text": "Extremely severe or harmful in its effects; bitterly hostile",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very mild and gentle",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely harmless",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "entourage",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Noun) A group of people attending or surrounding an important person",
+      "options": [
+        {
+          "text": "A group of people attending or surrounding an important person",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A single person traveling alone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of French dessert",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A large building with many rooms",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "spew",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To expel large quantities of something rapidly and forcibly",
+      "options": [
+        {
+          "text": "To expel large quantities of something rapidly and forcibly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To carefully measure small amounts",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To gently whisper something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To slowly absorb liquid",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "venom",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A poisonous substance secreted by animals such as snakes",
+      "options": [
+        {
+          "text": "A poisonous substance secreted by animals such as snakes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A sweet liquid made by flowers",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of delicious fruit",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A soft, comfortable fabric",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "solicit",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To ask for or try to obtain something from someone",
+      "options": [
+        {
+          "text": "To ask for or try to obtain something from someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To refuse to give something to someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To destroy something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hide something carefully",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "loath",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Reluctant or unwilling; feeling intense dislike",
+      "options": [
+        {
+          "text": "Reluctant or unwilling; feeling intense dislike",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very eager and enthusiastic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely happy and excited",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely certain and sure",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "astute",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Having or showing an ability to accurately assess situations; shrewd",
+      "options": [
+        {
+          "text": "Having or showing an ability to accurately assess situations; shrewd",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely unaware of what is happening",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very slow to understand things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely careless and forgetful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "scrutinize",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To examine or inspect closely and thoroughly",
+      "options": [
+        {
+          "text": "To examine or inspect closely and thoroughly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To quickly glance at something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy something without looking",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ineffectual",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Not producing any or the desired effect; powerless",
+      "options": [
+        {
+          "text": "Not producing any or the desired effect; powerless",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely powerful and effective",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very beautiful and attractive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely harmless",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "amicable",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Having a spirit of friendliness; without serious disagreement",
+      "options": [
+        {
+          "text": "Having a spirit of friendliness; without serious disagreement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of anger and hostility",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very competitive and aggressive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely boring and dull",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nefarious",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Wicked, villainous, or criminal",
+      "options": [
+        {
+          "text": "Wicked, villainous, or criminal",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very kind and generous",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely honest and truthful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely harmless",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "malady",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A disease or ailment; a serious problem",
+      "options": [
+        {
+          "text": "A disease or ailment; a serious problem",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A simple solution to a problem",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A very happy celebration",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of delicious food",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vexatious",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Adjective) Causing or tending to cause annoyance, frustration, or worry",
+      "options": [
+        {
+          "text": "Causing or tending to cause annoyance, frustration, or worry",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very calming and relaxing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely helpful and useful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely uninteresting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "peruse",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To read something carefully or thoroughly",
+      "options": [
+        {
+          "text": "To read something carefully or thoroughly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To quickly throw something away",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore written material",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To write something quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "inclement",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Unpleasantly cold or wet; stormy weather",
+      "options": [
+        {
+          "text": "Unpleasantly cold or wet; stormy weather",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Perfectly sunny and warm",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely hot and dry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Mild and pleasant",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "desist",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To stop doing something; cease or abstain",
+      "options": [
+        {
+          "text": "To stop doing something; cease or abstain",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To begin doing something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To continue doing something without stopping",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To do something very quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pertinent",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Relevant or applicable to a particular matter",
+      "options": [
+        {
+          "text": "Relevant or applicable to a particular matter",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely unrelated and irrelevant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very old-fashioned and outdated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely difficult to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

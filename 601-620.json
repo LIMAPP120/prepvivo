@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 601-620)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "nonetheless",
+      "points": 1,
+      "explanation": "(Adverb) in spite of that; nevertheless",
+      "options": [
+        {
+          "text": "in spite of that; nevertheless",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "because of that reason",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "before that happens",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "without any reason at all",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 1
+    },
+    {
+      "text": "notion",
+      "points": 1,
+      "explanation": "(Noun) a conception of or belief about something",
+      "options": [
+        {
+          "text": "a conception of or belief about something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "a proven scientific fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "a random action without thought",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a physical object you can touch",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 2
+    },
+    {
+      "text": "objective",
+      "points": 1,
+      "explanation": "(Adjective) not influenced by personal feelings; based on facts",
+      "options": [
+        {
+          "text": "not influenced by personal feelings; based on facts",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "based only on personal opinions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "emotional and not logical",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "changing with different moods",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 3
+    },
+    {
+      "text": "obtain",
+      "points": 1,
+      "explanation": "(Verb) to get or acquire",
+      "options": [
+        {
+          "text": "to get or acquire",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to lose or give away",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to refuse or deny",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to destroy or break",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 4
+    },
+    {
+      "text": "obvious",
+      "points": 1,
+      "explanation": "(Adjective) easily seen or understood; clear",
+      "options": [
+        {
+          "text": "easily seen or understood; clear",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "hidden and difficult to find",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "confusing and complicated",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "unknown and mysterious",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 5
+    },
+    {
+      "text": "occur",
+      "points": 1,
+      "explanation": "(Verb) to happen; to take place",
+      "options": [
+        {
+          "text": "to happen; to take place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to prevent from happening",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to imagine something unreal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to plan for the distant future",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 6
+    },
+    {
+      "text": "ongoing",
+      "points": 1,
+      "explanation": "(Adjective) continuing; still in progress",
+      "options": [
+        {
+          "text": "continuing; still in progress",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "finished and complete",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "never started",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "cancelled or stopped",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 7
+    },
+    {
+      "text": "orient",
+      "points": 1,
+      "explanation": "(Verb) to align or position relative to surroundings; to familiarize",
+      "options": [
+        {
+          "text": "to align or position relative to surroundings; to familiarize",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "to lose direction or get lost",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "to ignore surroundings completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "to move randomly without purpose",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 8
+    },
+    {
+      "text": "outcome",
+      "points": 1,
+      "explanation": "(Noun) the result or effect of an action or situation",
+      "options": [
+        {
+          "text": "the result or effect of an action or situation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "the beginning of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "the process or method used",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "a random chance with no result",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 9
+    },
+    {
+      "text": "overall",
+      "points": 1,
+      "explanation": "(Adjective/Adverb) taking everything into account; in general",
+      "options": [
+        {
+          "text": "taking everything into account; in general",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "looking at only one small part",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "ignoring most important factors",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "focusing on minor details only",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 10
+    },
+    {
+      "text": "Presume",
+      "points": 1,
+      "explanation": "(Verb) To suppose that something is true without proof",
+      "options": [
+        {
+          "text": "To suppose that something is true without proof",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To know for certain with proof",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To prove something false",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ignore completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 11
+    },
+    {
+      "text": "Previous",
+      "points": 1,
+      "explanation": "(Adjective) Existing or occurring before in time or order",
+      "options": [
+        {
+          "text": "Existing or occurring before in time or order",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Happening right now",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Going to happen in the future",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Never happening at all",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 12
+    },
+    {
+      "text": "Primary",
+      "points": 1,
+      "explanation": "(Adjective) Of chief importance; principal",
+      "options": [
+        {
+          "text": "Of chief importance; principal",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unimportant and minor",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exactly the same as others",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely irrelevant",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 13
+    },
+    {
+      "text": "Principle",
+      "points": 1,
+      "explanation": "(Noun) A fundamental truth or proposition",
+      "options": [
+        {
+          "text": "A fundamental truth or proposition",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random guess",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A temporary feeling",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An unimportant detail",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 14
+    },
+    {
+      "text": "Priority",
+      "points": 1,
+      "explanation": "(Noun) Something that is regarded as more important than others",
+      "options": [
+        {
+          "text": "Something that is regarded as more important than others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something that can be ignored",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The least important thing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Everything being equal",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 15
+    },
+    {
+      "text": "Proceed",
+      "points": 1,
+      "explanation": "(Verb) To begin or continue a course of action",
+      "options": [
+        {
+          "text": "To begin or continue a course of action",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To stop completely",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To go backward",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To hesitate and wait",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 16
+    },
+    {
+      "text": "Process",
+      "points": 1,
+      "explanation": "(Noun) A series of actions or steps to achieve a particular end",
+      "options": [
+        {
+          "text": "A series of actions or steps to achieve a particular end",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A single quick action",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Something that happens by accident",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A random event with no steps",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 17
+    },
+    {
+      "text": "Professional",
+      "points": 1,
+      "explanation": "(Adjective) Relating to or connected with a profession",
+      "options": [
+        {
+          "text": "Relating to or connected with a profession",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Done without skill or training",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very casual and informal",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Done as a hobby only",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 18
+    },
+    {
+      "text": "Prohibit",
+      "points": 1,
+      "explanation": "(Verb) To formally forbid by law, rule, or other authority",
+      "options": [
+        {
+          "text": "To formally forbid by law, rule, or other authority",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To encourage and allow",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something optional",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 19
+    },
+    {
+      "text": "Project",
+      "points": 1,
+      "explanation": "(Noun) An individual or collaborative enterprise",
+      "options": [
+        {
+          "text": "An individual or collaborative enterprise",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A random thought",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A simple everyday task",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Something done without planning",
+          "is_correct": false,
+          "order": 4
+        }
+      ],
+      "order": 20
+    }
+  ]
+}

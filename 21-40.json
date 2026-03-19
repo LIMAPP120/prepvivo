@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 21-40)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "Astonishing",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Extremely surprising or impressive; amazing.",
+      "options": [
+        {
+          "text": "Extremely surprising or impressive; amazing.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The power or right to give orders and make decisions.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Able to be used or obtained; at someone's disposal.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having knowledge or perception of a situation or fact.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Attention",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) Notice taken of someone or something; regarding someone or something as interesting or important.",
+      "options": [
+        {
+          "text": "Notice taken of someone or something; regarding someone or something as interesting or important.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Causing difficulty; hard to do or deal with.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A state of equilibrium or equal distribution of weight.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Kind and generous; well-meaning.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Authority",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) The power or right to give orders, make decisions, and enforce obedience.",
+      "options": [
+        {
+          "text": "The power or right to give orders, make decisions, and enforce obedience.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely surprising or impressive; amazing.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Assign responsibility for a fault or wrong.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Full of energy, excitement, and cheerfulness.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Available",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Adjective) Able to be used or obtained; at someone's disposal.",
+      "options": [
+        {
+          "text": "Able to be used or obtained; at someone's disposal.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having knowledge or perception of a situation or fact.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Causing difficulty; hard to do or deal with.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A fence or obstacle that prevents movement or access.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Aware",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Having knowledge or perception of a situation or fact.",
+      "options": [
+        {
+          "text": "Having knowledge or perception of a situation or fact.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Able to be used or obtained; at someone's disposal.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A state of equilibrium or equal distribution of weight.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Kind and generous; well-meaning.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Awkward",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Causing difficulty; hard to do or deal with; uncomfortable.",
+      "options": [
+        {
+          "text": "Causing difficulty; hard to do or deal with; uncomfortable.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Assign responsibility for a fault or wrong.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of energy, excitement, and cheerfulness.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Exceptionally clever or talented.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Balance",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A state of equilibrium or equal distribution of weight, amount, etc.",
+      "options": [
+        {
+          "text": "A state of equilibrium or equal distribution of weight, amount, etc.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A fence or obstacle that prevents movement or access.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Kind and generous; well-meaning.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Assign responsibility for a fault or wrong.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Barrier",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A fence or obstacle that prevents movement or access.",
+      "options": [
+        {
+          "text": "A fence or obstacle that prevents movement or access.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Full of energy, excitement, and cheerfulness.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exceptionally clever or talented.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Determine the amount or number of something mathematically.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Benevolent",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Adjective) Well meaning and kindly; generous.",
+      "options": [
+        {
+          "text": "Well meaning and kindly; generous.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Assign responsibility for a fault or wrong.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of energy, excitement, and cheerfulness.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Determine the amount or number of something mathematically.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Blame",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) Assign responsibility for a fault or wrong.",
+      "options": [
+        {
+          "text": "Assign responsibility for a fault or wrong.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Well meaning and kindly; generous.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Full of energy, excitement, and cheerfulness.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Exceptionally clever or talented.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Boisterous",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Noisy, energetic, and cheerful; rowdy.",
+      "options": [
+        {
+          "text": "Noisy, energetic, and cheerful; rowdy.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Determine the amount or number of something mathematically.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The disguising of military personnel or equipment.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Having the ability, fitness, or quality necessary to do something.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Brilliant",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Exceptionally clever or talented; very bright and radiant.",
+      "options": [
+        {
+          "text": "Exceptionally clever or talented; very bright and radiant.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Noisy, energetic, and cheerful; rowdy.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Determine the amount or number of something mathematically.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The disguising of military personnel or equipment.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Calculate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) Determine the amount or number of something mathematically.",
+      "options": [
+        {
+          "text": "Determine the amount or number of something mathematically.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Noisy, energetic, and cheerful; rowdy.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Exceptionally clever or talented.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The disguising of military personnel or equipment.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Camouflage",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) The disguising of military personnel or equipment.",
+      "options": [
+        {
+          "text": "The disguising of military personnel or equipment.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having the ability, fitness, or quality necessary to do something.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Take into one's possession or control by force.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Free from anxiety or responsibility.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Capable",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Adjective) Having the ability, fitness, or quality necessary to do something.",
+      "options": [
+        {
+          "text": "Having the ability, fitness, or quality necessary to do something.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The disguising of military personnel or equipment.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Take into one's possession or control by force.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Free from anxiety or responsibility.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Capture",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) Take into one's possession or control by force.",
+      "options": [
+        {
+          "text": "Take into one's possession or control by force.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Having the ability, fitness, or quality necessary to do something.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Free from anxiety or responsibility.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Careful to avoid potential problems or dangers.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Carefree",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Adjective) Free from anxiety or responsibility.",
+      "options": [
+        {
+          "text": "Free from anxiety or responsibility.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Take into one's possession or control by force.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Careful to avoid potential problems or dangers.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Acknowledge a significant or happy day or event with a social gathering.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Cautious",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Careful to avoid potential problems or dangers.",
+      "options": [
+        {
+          "text": "Careful to avoid potential problems or dangers.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Free from anxiety or responsibility.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Acknowledge a significant or happy day or event with a social gathering.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A call to take part in a contest or competition.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Celebrate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) Acknowledge a significant or happy day or event with a social gathering.",
+      "options": [
+        {
+          "text": "Acknowledge a significant or happy day or event with a social gathering.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Careful to avoid potential problems or dangers.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Free from anxiety or responsibility.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A call to take part in a contest or competition.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "Challenge",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A call to take part in a contest or competition.",
+      "options": [
+        {
+          "text": "A call to take part in a contest or competition.",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Acknowledge a significant or happy day or event with a social gathering.",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Careful to avoid potential problems or dangers.",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Free from anxiety or responsibility.",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

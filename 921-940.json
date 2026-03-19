@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 921-940)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "livid",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Very, very angry",
+      "options": [
+        {
+          "text": "Very, very angry",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very happy and excited",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Calm and peaceful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Tired and sleepy",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "taut",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Adjective) Pulled very tight",
+      "options": [
+        {
+          "text": "Pulled very tight",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Loose and hanging down",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Soft and comfortable",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Wet and slippery",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "yen",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A strong desire or wish for something",
+      "options": [
+        {
+          "text": "A strong desire or wish for something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of money from China",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small fruit",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A loud noise",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "martinet",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) A very strict person who demands perfect obedience",
+      "options": [
+        {
+          "text": "A very strict person who demands perfect obedience",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A kind and gentle person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A funny clown",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A helpful friend",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "callow",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Young and inexperienced",
+      "options": [
+        {
+          "text": "Young and inexperienced",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Old and wise",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Strong and brave",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Smart and clever",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "bagatelle",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) Something small and unimportant",
+      "options": [
+        {
+          "text": "Something small and unimportant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Something very valuable",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A large and heavy object",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A delicious dessert",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "penchant",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) A strong liking or preference for something",
+      "options": [
+        {
+          "text": "A strong liking or preference for something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A strong dislike for something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A fear of something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A misunderstanding",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "appalled",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Shocked and disgusted by something bad",
+      "options": [
+        {
+          "text": "Shocked and disgusted by something bad",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very happy and pleased",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Calm and relaxed",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Hungry and tired",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "termagant",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A harsh, scolding woman",
+      "options": [
+        {
+          "text": "A harsh, scolding woman",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A kind and gentle woman",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A beautiful princess",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A helpful teacher",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "decapitate",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To cut off the head",
+      "options": [
+        {
+          "text": "To cut off the head",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To repair something broken",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To build something new",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To paint something colorful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dormant",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Sleeping or inactive for a period of time",
+      "options": [
+        {
+          "text": "Sleeping or inactive for a period of time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very active and energetic",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Loud and noisy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Bright and colorful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ascertain",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To find out or discover something for sure",
+      "options": [
+        {
+          "text": "To find out or discover something for sure",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To hide or conceal something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget something important",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To break something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "potentate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) A powerful ruler or leader",
+      "options": [
+        {
+          "text": "A powerful ruler or leader",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A weak and powerless person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A regular citizen",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A child",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "burgeoned",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Verb) Grew or expanded quickly",
+      "options": [
+        {
+          "text": "Grew or expanded quickly",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Shrank or became smaller",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Stayed exactly the same",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Disappeared completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "derived",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) Obtained or received from a source",
+      "options": [
+        {
+          "text": "Obtained or received from a source",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Lost or misplaced",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Created from nothing",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Destroyed completely",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "disseminate",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Verb) To spread or distribute widely",
+      "options": [
+        {
+          "text": "To spread or distribute widely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To gather or collect together",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To hide or keep secret",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy or throw away",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nepotism",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) Favoring relatives in jobs or positions",
+      "options": [
+        {
+          "text": "Favoring relatives in jobs or positions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Treating everyone equally",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Working very hard",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Being lazy at work",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "prerogative",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A special right or privilege",
+      "options": [
+        {
+          "text": "A special right or privilege",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A difficult problem",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A regular duty",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A punishment",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "internecine",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Adjective) Destructive to both sides in a conflict",
+      "options": [
+        {
+          "text": "Destructive to both sides in a conflict",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Helpful to everyone involved",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Peaceful and calm",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Interesting and exciting",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dearth",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A shortage or lack of something",
+      "options": [
+        {
+          "text": "A shortage or lack of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "An abundance or plenty of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A mixture of different things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A selection of choices",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

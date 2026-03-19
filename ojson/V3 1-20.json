@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 1-20)",
+  "description": "Test your knowledge of words 1 to 20",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "inebriated",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Being drunk or affected by alcohol",
+      "options": [
+        {
+          "text": "Being drunk or affected by alcohol",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unable to sleep at night",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of sickness in the stomach",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of soft, thin fabric",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "insomnia",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) The condition of being unable to sleep",
+      "options": [
+        {
+          "text": "A serious fight in a public place",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "The condition of being unable to sleep",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "diarrhea",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) A condition where bowel movements are frequent and watery",
+      "options": [
+        {
+          "text": "A condition where bowel movements are frequent and watery",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of wanting to vomit",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To pretend to feel something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something less painful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nausea",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) A feeling of sickness with an urge to vomit",
+      "options": [
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 1
+        },
+        {
+          "text": "A feeling of sickness with an urge to vomit",
+          "is_correct": true,
+          "order": 2
+        },
+        {
+          "text": "Extremely impressive or beautiful",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exacerbate",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To make a problem, bad situation, or negative feeling worse",
+      "options": [
+        {
+          "text": "To make a problem, bad situation, or negative feeling worse",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something less severe or painful",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make someone feel very happy and excited",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To keep something going or continue",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "aggravate",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Verb) To make a problem, injury, or offense worse or more serious",
+      "options": [
+        {
+          "text": "To make a problem, injury, or offense worse or more serious",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something less painful or severe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To be present everywhere at the same time",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A serious fight in a public place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "alleviate",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Verb) To make suffering, deficiency, or a problem less severe",
+      "options": [
+        {
+          "text": "To make suffering, deficiency, or a problem less severe",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To be present everywhere",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A serious fight in a public place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mitigate",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Verb) To make something less severe, serious, or painful",
+      "options": [
+        {
+          "text": "To make something less severe, serious, or painful",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of sickness in the stomach",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To pretend to feel something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "exhilarate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To make someone feel very happy, animated, or elated",
+      "options": [
+        {
+          "text": "To make someone feel very happy, animated, or elated",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To keep something going",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "spectacular",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Beautiful in a dramatic and eye-catching way",
+      "options": [
+        {
+          "text": "Beautiful in a dramatic and eye-catching way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Unable to sleep at night",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A condition with frequent watery bowel movements",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of soft, thin fabric",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "feign",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To pretend to be affected by a feeling, state, or injury",
+      "options": [
+        {
+          "text": "To pretend to be affected by a feeling, state, or injury",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To keep something going",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A serious fight in a public place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "brawl",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A rough or noisy fight, usually in a public place",
+      "options": [
+        {
+          "text": "A rough or noisy fight, usually in a public place",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of sickness with an urge to vomit",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The condition of being unable to sleep",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make something less painful",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "captivate",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Verb) To attract and hold the interest and attention of someone",
+      "options": [
+        {
+          "text": "To attract and hold the interest and attention of someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To be present everywhere",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "protest",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun/Verb) A statement or action expressing disapproval of or objection to something",
+      "options": [
+        {
+          "text": "A statement or action expressing disapproval of or objection to something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of soft, thin fabric",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A Middle Eastern dip made from chickpeas",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "civilisation",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) The stage of human social development and organization that is considered most advanced",
+      "options": [
+        {
+          "text": "The stage of human social development and organization that is considered most advanced",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of sickness in the stomach",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To pretend to feel something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To keep something going",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "chiffon",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) A light, sheer fabric typically made of silk or nylon",
+      "options": [
+        {
+          "text": "A light, sheer fabric typically made of silk or nylon",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A Middle Eastern dip made from chickpeas",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being drunk or affected by alcohol",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A condition with frequent watery bowel movements",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sustain",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb) To strengthen or support physically or mentally; to keep something going over time",
+      "options": [
+        {
+          "text": "To strengthen or support physically or mentally; to keep something going over time",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To pretend to feel something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "undertake",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Verb) To commit oneself to and begin a task or responsibility",
+      "options": [
+        {
+          "text": "To commit oneself to and begin a task or responsibility",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of sickness with an urge to vomit",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A serious fight in a public place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "hummus",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A Middle Eastern dip made from mashed chickpeas, tahini, lemon juice, and garlic",
+      "options": [
+        {
+          "text": "A Middle Eastern dip made from mashed chickpeas, tahini, lemon juice, and garlic",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A light, sheer fabric typically made of silk or nylon",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Being drunk or affected by alcohol",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ubiquity",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) The fact of appearing everywhere or of being very common",
+      "options": [
+        {
+          "text": "The fact of appearing everywhere or of being very common",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something less severe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To make a problem worse",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A serious fight in a public place",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

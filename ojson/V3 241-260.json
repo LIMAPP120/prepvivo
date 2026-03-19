@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 241-260)",
+  "description": "Test your knowledge of words 241 to 260",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "subservient",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Adjective) Willing to obey others without question",
+      "options": [
+        {
+          "text": "Willing to obey others without question",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Strong and independent in thinking",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent and clever",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extremely lazy and unmotivated",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "criterion",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) A standard or rule used to judge or decide something",
+      "options": [
+        {
+          "text": "A standard or rule used to judge or decide something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of delicious food",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of happiness",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A difficult problem to solve",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "largess",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) Generosity in giving gifts or money to others",
+      "options": [
+        {
+          "text": "Generosity in giving gifts or money to others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Stinginess and unwillingness to share",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A large amount of food",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A collection of small objects",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mollify",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To make someone less angry or upset",
+      "options": [
+        {
+          "text": "To make someone less angry or upset",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make someone more angry",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To laugh at someone's problems",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "repent",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Verb) To feel sorry for something bad you have done",
+      "options": [
+        {
+          "text": "To feel sorry for something bad you have done",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To feel proud of an achievement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget about a mistake",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repeat something again",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pariah",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Noun) A person who is rejected or avoided by others",
+      "options": [
+        {
+          "text": "A person who is rejected or avoided by others",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A very popular person",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of bird",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A leader of a group",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mercenary",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun/Adjective) A soldier who fights for money rather than for a cause",
+      "options": [
+        {
+          "text": "A soldier who fights for money rather than for a cause",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A soldier who fights for his country",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who gives money to charity",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A business person",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "aloof",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Not friendly or forthcoming; cool and distant",
+      "options": [
+        {
+          "text": "Not friendly or forthcoming; cool and distant",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very friendly and warm",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely funny and entertaining",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Always helpful and kind",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "guise",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) An outward appearance that hides the true nature of something",
+      "options": [
+        {
+          "text": "An outward appearance that hides the true nature of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of clever joke",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A bright color or pattern",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A simple and honest statement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "vestige",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Noun) A small remaining part of something that no longer exists",
+      "options": [
+        {
+          "text": "A small remaining part of something that no longer exists",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A brand new invention",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A large collection of things",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A complete and whole object",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deluge",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Noun/Verb) A severe flood; a great amount of something",
+      "options": [
+        {
+          "text": "A severe flood; a great amount of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small drop of water",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A gentle breeze",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A quiet whisper",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "nullify",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Verb) To make something lose its value or effect",
+      "options": [
+        {
+          "text": "To make something lose its value or effect",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To make something stronger",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To create something new",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To repair something broken",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "carnage",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Noun) The killing of a large number of people",
+      "options": [
+        {
+          "text": "The killing of a large number of people",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A celebration with dancing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A peaceful negotiation",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A helpful discussion",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "futility",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Noun) Pointlessness or uselessness",
+      "options": [
+        {
+          "text": "Pointlessness or uselessness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great success and achievement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Complete understanding",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Extreme happiness",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "libel",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) A written false statement that damages someone's reputation",
+      "options": [
+        {
+          "text": "A written false statement that damages someone's reputation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A truthful compliment",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A private diary entry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A helpful suggestion",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "technology",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) The application of scientific knowledge for practical purposes",
+      "options": [
+        {
+          "text": "The application of scientific knowledge for practical purposes",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Ancient methods of farming",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Traditional stories and legends",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Natural weather patterns",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "plaintiff",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A person who brings a case against someone in court",
+      "options": [
+        {
+          "text": "A person who brings a case against someone in court",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The judge in a courtroom",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A lawyer defending someone",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A witness to a crime",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "defamatory",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Adjective) Damaging the good reputation of someone; slanderous",
+      "options": [
+        {
+          "text": "Damaging the good reputation of someone; slanderous",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Praising someone highly",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Telling funny stories",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Giving helpful advice",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "deprecate",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Verb) To express disapproval of something",
+      "options": [
+        {
+          "text": "To express disapproval of something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To strongly recommend something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore something completely",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To celebrate something happily",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "canard",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Noun) A false rumor or story",
+      "options": [
+        {
+          "text": "A false rumor or story",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A true historical fact",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of bird that flies",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A delicious recipe",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

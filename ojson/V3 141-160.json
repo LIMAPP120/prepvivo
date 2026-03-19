@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List 3 (Words 141-160)",
+  "description": "Test your knowledge of words 141 to 160",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "condolence",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Noun) An expression of sympathy and sadness for someone who has experienced loss",
+      "options": [
+        {
+          "text": "An expression of sympathy and sadness for someone who has experienced loss",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A celebration for a happy occasion",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A gift given on someone's birthday",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "An angry argument between friends",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "disdain",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun/Verb) A feeling that someone or something is unworthy of respect or consideration",
+      "options": [
+        {
+          "text": "A feeling that someone or something is unworthy of respect or consideration",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Great admiration and respect for someone",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of happiness and excitement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A wish to help someone in need",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "alacrity",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) Brisk and cheerful readiness to do something",
+      "options": [
+        {
+          "text": "Brisk and cheerful readiness to do something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Slow and unwilling movement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of sadness and disappointment",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A state of confusion and uncertainty",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "intimidate",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Verb) To frighten or threaten someone to make them do what you want",
+      "options": [
+        {
+          "text": "To frighten or threaten someone to make them do what you want",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To help someone learn something new",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To encourage someone with kind words",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To play games with friends happily",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "belligerent",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Hostile and aggressive, wanting to fight or argue",
+      "options": [
+        {
+          "text": "Hostile and aggressive, wanting to fight or argue",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Friendly and willing to help others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Quiet and shy in social situations",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Hardworking and determined to succeed",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "pugnacious",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Eager or quick to argue, quarrel, or fight",
+      "options": [
+        {
+          "text": "Eager or quick to argue, quarrel, or fight",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Peaceful and avoids conflicts",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very intelligent and good at studying",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Helpful and kind to everyone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "feint",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun/Verb) A deceptive or pretended blow, attack, or movement designed to distract",
+      "options": [
+        {
+          "text": "A deceptive or pretended blow, attack, or movement designed to distract",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A direct and honest approach to solving problems",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A strong and powerful punch that knocks someone out",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A careful and well-planned strategy that takes a long time",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "brash",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Adjective) Self-assertive in a rude, noisy, or overbearing way",
+      "options": [
+        {
+          "text": "Self-assertive in a rude, noisy, or overbearing way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Quiet and respectful of others' opinions",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Careful and thoughtful before speaking",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Generous and willing to share with others",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "promulgate",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Verb) To make known or publicize an idea, theory, or belief",
+      "options": [
+        {
+          "text": "To make known or publicize an idea, theory, or belief",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To keep secrets from others",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To forget important information",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To destroy evidence or information",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "belittle",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Verb) To make someone or something seem unimportant or of little value",
+      "options": [
+        {
+          "text": "To make someone or something seem unimportant or of little value",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone for their good work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To help someone improve their skills",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give someone a valuable gift",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "scoff",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Verb) To speak about something in a scornful or mocking way",
+      "options": [
+        {
+          "text": "To speak about something in a scornful or mocking way",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To talk about something with great excitement",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To explain something clearly and patiently",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To ask questions politely about something",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "laceration",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Noun) A deep cut or tear in skin or flesh",
+      "options": [
+        {
+          "text": "A deep cut or tear in skin or flesh",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A small scratch that doesn't bleed",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A bruise from bumping into something",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A burn from touching something hot",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "tangible",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Perceptible by touch; clear and definite; real",
+      "options": [
+        {
+          "text": "Perceptible by touch; clear and definite; real",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Invisible and impossible to see",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Imaginary and not existing in reality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Confusing and difficult to understand",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sordid",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Dirty, squalid, or morally degraded",
+      "options": [
+        {
+          "text": "Dirty, squalid, or morally degraded",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Clean, tidy, and well-organized",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Beautiful and pleasing to look at",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Rich and luxurious in appearance",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "castigate",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Verb) To reprimand or criticize severely",
+      "options": [
+        {
+          "text": "To reprimand or criticize severely",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To praise someone for excellent work",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ignore someone's mistakes",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To help someone improve gently",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "solace",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) Comfort or consolation in a time of distress or sadness",
+      "options": [
+        {
+          "text": "Comfort or consolation in a time of distress or sadness",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A feeling of anger and frustration",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A celebration of a happy event",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A difficult challenge to overcome",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "octogenarian",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Noun) A person who is between 80 and 89 years old",
+      "options": [
+        {
+          "text": "A person who is between 80 and 89 years old",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who is between 10 and 19 years old",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who is between 40 and 49 years old",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who is between 60 and 69 years old",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "dregs",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) The last remaining part, usually the least desirable portion",
+      "options": [
+        {
+          "text": "The last remaining part, usually the least desirable portion",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "The best and most valuable part of something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The middle section that is average in quality",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "The first part that is fresh and new",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "aspirant",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun) A person who has ambitions to achieve something",
+      "options": [
+        {
+          "text": "A person who has ambitions to achieve something",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A person who has given up on their dreams",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A person who helps others achieve their goals",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who criticizes other people's ambitions",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "scurrilous",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Making or spreading scandalous claims about someone with the intention of damaging their reputation",
+      "options": [
+        {
+          "text": "Making or spreading scandalous claims about someone with the intention of damaging their reputation",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Praising someone with kind and true words",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Telling funny stories about friends in a harmless way",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Reporting news accurately and fairly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

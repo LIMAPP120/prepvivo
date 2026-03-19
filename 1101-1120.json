@@ -1,0 +1,567 @@
+{
+  "title": "Vocabulary List (Words 1101-1120)",
+  "description": "Test your knowledge of words",
+  "time_limit": 20,
+  "questions": [
+    {
+      "text": "roil",
+      "order": 1,
+      "points": 1,
+      "explanation": "(Verb) To make a liquid cloudy or muddy by stirring up sediment; to annoy or irritate",
+      "options": [
+        {
+          "text": "To make a liquid cloudy or muddy by stirring up sediment; to annoy or irritate",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To roll something into a ball shape",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To boil something at a very high temperature",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To clean something until it shines",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "euthanasia",
+      "order": 2,
+      "points": 1,
+      "explanation": "(Noun) The painless killing of a patient suffering from an incurable disease or in an irreversible coma",
+      "options": [
+        {
+          "text": "The painless killing of a patient suffering from an incurable disease or in an irreversible coma",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of youth organization in Europe",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of great happiness and joy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A medical treatment using sound waves",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "quintessence",
+      "order": 3,
+      "points": 1,
+      "explanation": "(Noun) The perfect example of something; the purest and most typical form",
+      "options": [
+        {
+          "text": "The perfect example of something; the purest and most typical form",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A musical instrument with five strings",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A group of five people working together",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of sweet candy with five flavors",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "behemoth",
+      "order": 4,
+      "points": 1,
+      "explanation": "(Noun) Something enormous, especially a large and powerful organization or thing",
+      "options": [
+        {
+          "text": "Something enormous, especially a large and powerful organization or thing",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of ancient Egyptian god",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A small, delicate creature from mythology",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A tool used for digging very deep holes",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "imperious",
+      "order": 5,
+      "points": 1,
+      "explanation": "(Adjective) Assuming power or authority without justification; arrogant and domineering",
+      "options": [
+        {
+          "text": "Assuming power or authority without justification; arrogant and domineering",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely important and necessary",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Relating to ancient empires",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very impressive and majestic",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "demure",
+      "order": 6,
+      "points": 1,
+      "explanation": "(Adjective) Reserved, modest, and shy in manner or appearance",
+      "options": [
+        {
+          "text": "Reserved, modest, and shy in manner or appearance",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Very sure of oneself and confident",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely colorful and bright",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely covered or hidden",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "amplitude",
+      "order": 7,
+      "points": 1,
+      "explanation": "(Noun) The maximum extent of a vibration or oscillation, measured from the position of equilibrium",
+      "options": [
+        {
+          "text": "The maximum extent of a vibration or oscillation, measured from the position of equilibrium",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A musical instrument that makes sounds louder",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The height of a mountain from base to peak",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A feeling of great happiness and satisfaction",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "conundrum",
+      "order": 8,
+      "points": 1,
+      "explanation": "(Noun) A confusing and difficult problem or question that is hard to solve",
+      "options": [
+        {
+          "text": "A confusing and difficult problem or question that is hard to solve",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of musical drum from Africa",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A long, confusing speech",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A puzzle with exactly one solution",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "sycophant",
+      "order": 9,
+      "points": 1,
+      "explanation": "(Noun) A person who acts obsequiously toward someone important to gain advantage",
+      "options": [
+        {
+          "text": "A person who acts obsequiously toward someone important to gain advantage",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A medical doctor who specializes in eye diseases",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A type of musical instrument from ancient Greece",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A person who studies ancient Egyptian history",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "palatial",
+      "order": 10,
+      "points": 1,
+      "explanation": "(Adjective) Resembling a palace in being spacious and splendid",
+      "options": [
+        {
+          "text": "Resembling a palace in being spacious and splendid",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Relating to the palm of the hand",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very pale in color",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Made of a special type of palace stone",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "acrid",
+      "order": 11,
+      "points": 1,
+      "explanation": "(Adjective) Having an irritatingly strong and unpleasant taste or smell",
+      "options": [
+        {
+          "text": "Having an irritatingly strong and unpleasant taste or smell",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely sweet and pleasant",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very sharp and pointy",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely tasteless and bland",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "mercurial",
+      "order": 12,
+      "points": 1,
+      "explanation": "(Adjective) Subject to sudden or unpredictable changes of mood or mind",
+      "options": [
+        {
+          "text": "Subject to sudden or unpredictable changes of mood or mind",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Containing the chemical element mercury",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Extremely fast and quick-moving",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very shiny and reflective like silver",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "ambivalent",
+      "order": 13,
+      "points": 1,
+      "explanation": "(Adjective) Having mixed feelings or contradictory ideas about something or someone",
+      "options": [
+        {
+          "text": "Having mixed feelings or contradictory ideas about something or someone",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Completely sure and certain about something",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Able to use both hands equally well",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Very ambitious and determined",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "voluptuous",
+      "order": 14,
+      "points": 1,
+      "explanation": "(Adjective) Curvaceous and sexually attractive; relating to or characterized by luxury or sensual pleasure",
+      "options": [
+        {
+          "text": "Curvaceous and sexually attractive; relating to or characterized by luxury or sensual pleasure",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Extremely loud and noisy",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very valuable and expensive",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Completely round and circular",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "alliteration",
+      "order": 15,
+      "points": 1,
+      "explanation": "(Noun) The occurrence of the same letter or sound at the beginning of adjacent or closely connected words",
+      "options": [
+        {
+          "text": "The occurrence of the same letter or sound at the beginning of adjacent or closely connected words",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A list of items in a particular order",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The repetition of vowel sounds in poetry",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A type of ancient writing system",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "iota",
+      "order": 16,
+      "points": 1,
+      "explanation": "(Noun) An extremely small amount; the ninth letter of the Greek alphabet",
+      "options": [
+        {
+          "text": "An extremely small amount; the ninth letter of the Greek alphabet",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of small boat used in Greece",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A musical instrument from India",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A unit of measurement for sound",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "censure",
+      "order": 17,
+      "points": 1,
+      "explanation": "(Verb/Noun) Express severe disapproval of someone or something, typically in a formal statement",
+      "options": [
+        {
+          "text": "Express severe disapproval of someone or something, typically in a formal statement",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "To measure something carefully",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "To ensure something is done correctly",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "To give someone a sensor to wear",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "simile",
+      "order": 18,
+      "points": 1,
+      "explanation": "(Noun) A figure of speech comparing two unlike things using 'like' or 'as'",
+      "options": [
+        {
+          "text": "A figure of speech comparing two unlike things using 'like' or 'as'",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A comparison saying one thing IS another thing",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "The use of words that imitate sounds",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Giving human qualities to non-human things",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "antic",
+      "order": 19,
+      "points": 1,
+      "explanation": "(Noun/Adjective) Grotesque or bizarre acts or postures; foolish, outrageous, or amusing behavior",
+      "options": [
+        {
+          "text": "Grotesque or bizarre acts or postures; foolish, outrageous, or amusing behavior",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "A type of very old object",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "A feeling of great excitement",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "A medical condition affecting movement",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "text": "resonant",
+      "order": 20,
+      "points": 1,
+      "explanation": "(Adjective) Deep, clear, and continuing to sound or ring; having the power to evoke images, memories, and emotions",
+      "options": [
+        {
+          "text": "Deep, clear, and continuing to sound or ring; having the power to evoke images, memories, and emotions",
+          "is_correct": true,
+          "order": 1
+        },
+        {
+          "text": "Creating an echo or repeating sound",
+          "is_correct": false,
+          "order": 2
+        },
+        {
+          "text": "Very reasonable and logical",
+          "is_correct": false,
+          "order": 3
+        },
+        {
+          "text": "Able to resolve problems quickly",
+          "is_correct": false,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

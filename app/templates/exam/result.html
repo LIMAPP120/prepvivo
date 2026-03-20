@@ -38,7 +38,8 @@ content %}
     <a href="{{ url_for('main.index') }}" class="btn-primary">
       <i class="fas fa-book"></i> More Exams
     </a>
-    {% if submission.score / submission.total_possible >= 0.7 %}
+    {% set percentage = submission.score / submission.total_possible * 100 %} {%
+    if percentage >= 70 %}
     <a
       href="{{ url_for('exam.certificate', submission_id=submission.id) }}"
       class="btn-primary"

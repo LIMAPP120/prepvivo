@@ -1,3 +1,5 @@
+from weasyprint import HTML
+from flask import make_response
 from flask import render_template, redirect, url_for, abort, request, flash
 from flask_login import login_required, current_user
 from app import db
@@ -180,7 +182,6 @@ def result(submission_id):
             correct_answer = q.correct_answer_text or 'No correct answer provided'
         elif q.type and q.type.name == 'matching':
             user_answer = ans.text_answer if ans.text_answer else 'No answer'
-            # Show matching answers in a readable format
             correct_answer = "All pairs must match correctly"
         else:
             user_answer = user_option.text if user_option else 'No answer'
@@ -195,3 +196,24 @@ def result(submission_id):
             'explanation': q.explanation
         })
     return render_template('exam/result.html', submission=submission, results=results)
+
+@bp.route('/result/<int:submission_id>/certificate')
+@login_required
+def certificate(submission_id):
+    submission = Submission.query.get_or_404(submission_id)
+    if submission.user_id != current_user.id:
+        abort(403)
+    
+    # Only allow certificate for passing scores (70% or higher)
+    percentage = (submission.score / submission.total_possible * 100) if submission.total_possible else 0
+    if percentage < 70:
+        flash('Certificate is only available for scores of 70% or higher.')
+        return redirect(url_for('exam.result', submission_id=submission.id))
+    
+    html = render_template('certificate.html', user=current_user, submission=submission)
+    pdf = HTML(string=html).write_pdf()
+    
+    response = make_response(pdf)
+    response.headers['Content-Type'] = 'application/pdf'
+    response.headers['Content-Disposition'] = f'inline; filename=certificate_{submission_id}.pdf'
+    return response

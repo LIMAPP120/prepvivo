@@ -1,7 +1,5 @@
 {% extends "base.html" %} {% block title %}My Dashboard{% endblock %} {% block
-extra_head %}
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-{% endblock %} {% block content %}
+content %}
 
 <div class="hero" style="justify-content: center; text-align: center">
   <div>
@@ -12,40 +10,73 @@ extra_head %}
   </div>
 </div>
 
+<!-- Load Chart.js directly here (no need for extra_head) -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+
 {% if chart_labels|length > 1 %}
 <div class="vocab-modules" style="margin-bottom: 2rem">
   <h2 style="margin-bottom: 1.5rem">Progress Over Time</h2>
-  <canvas id="scoreChart" width="400" height="200"></canvas>
+  <div
+    class="chart-container"
+    style="position: relative; height: 300px; width: 100%; margin: 1rem 0"
+  >
+    <canvas id="scoreChart"></canvas>
+  </div>
   <script>
-    const ctx = document.getElementById('scoreChart').getContext('2d');
-    new Chart(ctx, {
-        type: 'line',
-        data: {
-            labels: {{ chart_labels | tojson }},
-            datasets: [{
-                label: 'Score %',
-                data: {{ chart_data | tojson }},
-                borderColor: '#3b3bff',
-                backgroundColor: 'rgba(59, 59, 255, 0.1)',
-                tension: 0.3,
-                fill: true,
-                pointBackgroundColor: '#3b3bff'
-            }]
-        },
-        options: {
-            responsive: true,
-            plugins: {
-                legend: { display: false }
-            },
-            scales: {
-                y: {
-                    beginAtZero: true,
-                    max: 100,
-                    title: { display: true, text: 'Percentage' }
-                }
+    (function() {
+        // Wait for DOM and Chart.js to be ready
+        function initChart() {
+            if (typeof Chart === 'undefined') {
+                console.error('Chart.js not loaded yet, retrying in 100ms');
+                setTimeout(initChart, 100);
+                return;
             }
+            const canvas = document.getElementById('scoreChart');
+            if (!canvas) {
+                console.error('Canvas element not found');
+                return;
+            }
+            const ctx = canvas.getContext('2d');
+            const labels = {{ chart_labels | tojson }};
+            const data = {{ chart_data | tojson }};
+            console.log('Chart data:', labels, data);
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Score %',
+                        data: data,
+                        borderColor: '#3b3bff',
+                        backgroundColor: 'rgba(59, 59, 255, 0.1)',
+                        tension: 0.3,
+                        fill: true,
+                        pointBackgroundColor: '#3b3bff',
+                        pointBorderColor: '#fff',
+                        pointRadius: 5,
+                        pointHoverRadius: 7
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: { enabled: true }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            title: { display: true, text: 'Percentage' }
+                        }
+                    }
+                }
+            });
         }
-    });
+        // Start checking after page load
+        window.addEventListener('load', initChart);
+    })();
   </script>
 </div>
 {% elif chart_labels|length == 1 %}

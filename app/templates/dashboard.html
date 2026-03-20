@@ -10,7 +10,25 @@ content %}
   </div>
 </div>
 
-<!-- Load Chart.js directly here (no need for extra_head) -->
+<!-- DEBUG SECTION - Remove after testing -->
+<div
+  style="
+    background: #fff3cd;
+    border: 2px solid #ffc107;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 8px;
+  "
+>
+  <strong>Debug Info:</strong><br />
+  Submissions count: {{ submissions|length }}<br />
+  Chart labels count: {{ chart_labels|length }}<br />
+  Chart data count: {{ chart_data|length }}<br />
+  {% if submissions %} First submission: {{ submissions[0].exam.title }} {% else
+  %} No submissions found! {% endif %}
+</div>
+
+<!-- Load Chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 
 {% if chart_labels|length > 1 %}
@@ -23,23 +41,22 @@ content %}
     <canvas id="scoreChart"></canvas>
   </div>
   <script>
-    (function() {
-        // Wait for DOM and Chart.js to be ready
-        function initChart() {
+    document.addEventListener('DOMContentLoaded', function() {
+        function loadChart() {
             if (typeof Chart === 'undefined') {
-                console.error('Chart.js not loaded yet, retrying in 100ms');
-                setTimeout(initChart, 100);
+                setTimeout(loadChart, 100);
                 return;
             }
+
             const canvas = document.getElementById('scoreChart');
-            if (!canvas) {
-                console.error('Canvas element not found');
-                return;
-            }
+            if (!canvas) return;
+
             const ctx = canvas.getContext('2d');
             const labels = {{ chart_labels | tojson }};
             const data = {{ chart_data | tojson }};
-            console.log('Chart data:', labels, data);
+
+            if (labels.length === 0 || data.length === 0) return;
+
             new Chart(ctx, {
                 type: 'line',
                 data: {
@@ -74,9 +91,8 @@ content %}
                 }
             });
         }
-        // Start checking after page load
-        window.addEventListener('load', initChart);
-    })();
+        loadChart();
+    });
   </script>
 </div>
 {% elif chart_labels|length == 1 %}
@@ -85,52 +101,446 @@ content %}
 </div>
 {% endif %}
 
-<div class="features-grid">
-  {% if submissions %} {% for sub in submissions %}
+<!-- Statistics Summary -->
+<div
+  class="vocab-modules"
+  style="
+    margin-bottom: 2rem;
+    background: linear-gradient(135deg, #f0f4fe 0%, #e8edf9 100%);
+  "
+>
+  <h2 style="margin-bottom: 1rem">📊 Your Statistics</h2>
   <div
-    class="feature-card"
-    style="display: flex; flex-direction: column; height: 100%"
+    style="
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+    "
   >
-    <div class="feature-icon"><i class="fas fa-file-alt"></i></div>
-    <h3>{{ sub.exam.title }}</h3>
-    <div style="flex-grow: 1; margin: 1rem 0">
-      <p>
-        <strong>Date:</strong> {{ sub.end_time.strftime('%Y-%m-%d %H:%M') if
-        sub.end_time else 'In progress' }}
-      </p>
-      <p><strong>Score:</strong> {{ sub.score }}/{{ sub.total_possible }}</p>
-      <p>
-        <strong>Percentage:</strong>
-        {% if sub.total_possible and sub.total_possible > 0 %} {{ (sub.score /
-        sub.total_possible * 100) | round(1) }}% {% else %} - {% endif %}
-      </p>
+    <div style="text-align: center; padding: 1rem">
+      <div style="font-size: 2rem; font-weight: 700; color: #3b3bff">
+        {{ submissions|length }}
+      </div>
+      <div style="color: #475569">Total Exams Taken</div>
     </div>
-    {% if sub.status == 'completed' %}
-    <a
-      href="{{ url_for('exam.take_exam', exam_id=sub.exam.id) }}"
-      class="btn-primary"
-      style="text-align: center"
-      >Retake Exam</a
-    >
-    {% else %}
-    <span
-      class="btn-outline"
-      style="display: block; text-align: center; opacity: 0.6"
-      >In Progress</span
-    >
-    {% endif %}
+    <div style="text-align: center; padding: 1rem">
+      <div
+        style="font-size: 2rem; font-weight: 700; color: #3b3bff"
+        id="avgScore"
+      >
+        -
+      </div>
+      <div style="color: #475569">Average Score (%)</div>
+    </div>
+    <div style="text-align: center; padding: 1rem">
+      <div
+        style="font-size: 2rem; font-weight: 700; color: #3b3bff"
+        id="bestScore"
+      >
+        -
+      </div>
+      <div style="color: #475569">Best Score (%)</div>
+    </div>
+    <div style="text-align: center; padding: 1rem">
+      <div
+        style="font-size: 2rem; font-weight: 700; color: #3b3bff"
+        id="totalCorrect"
+      >
+        -
+      </div>
+      <div style="color: #475569">Total Correct Answers</div>
+    </div>
   </div>
-  {% endfor %} {% else %}
-  <div class="feature-card" style="grid-column: 1 / -1; text-align: center">
-    <p>You haven't taken any exams yet.</p>
-    <a
-      href="{{ url_for('main.index') }}"
-      class="btn-primary"
-      style="margin-top: 1rem"
-      >Browse Exams</a
-    >
-  </div>
-  {% endif %}
 </div>
+
+<!-- Search/Filter Section -->
+<div class="vocab-modules" style="margin-bottom: 2rem">
+  <h2 style="margin-bottom: 1rem">Filter Your Results</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-end">
+    <div style="flex: 2; min-width: 200px">
+      <label style="display: block; margin-bottom: 0.5rem; font-weight: 600"
+        >Search by Exam Name</label
+      >
+      <input
+        type="text"
+        id="searchExam"
+        placeholder="Type exam name..."
+        style="
+          width: 100%;
+          padding: 0.75rem;
+          border: 2px solid #e2e8f0;
+          border-radius: 0.75rem;
+        "
+      />
+    </div>
+    <div style="flex: 1; min-width: 150px">
+      <label style="display: block; margin-bottom: 0.5rem; font-weight: 600"
+        >From Date</label
+      >
+      <input
+        type="date"
+        id="dateFrom"
+        style="
+          width: 100%;
+          padding: 0.75rem;
+          border: 2px solid #e2e8f0;
+          border-radius: 0.75rem;
+        "
+      />
+    </div>
+    <div style="flex: 1; min-width: 150px">
+      <label style="display: block; margin-bottom: 0.5rem; font-weight: 600"
+        >To Date</label
+      >
+      <input
+        type="date"
+        id="dateTo"
+        style="
+          width: 100%;
+          padding: 0.75rem;
+          border: 2px solid #e2e8f0;
+          border-radius: 0.75rem;
+        "
+      />
+    </div>
+    <div style="flex: 1; min-width: 150px">
+      <label style="display: block; margin-bottom: 0.5rem; font-weight: 600"
+        >Sort By</label
+      >
+      <select
+        id="sortBy"
+        style="
+          width: 100%;
+          padding: 0.75rem;
+          border: 2px solid #e2e8f0;
+          border-radius: 0.75rem;
+        "
+      >
+        <option value="date_desc">Date (Newest First)</option>
+        <option value="date_asc">Date (Oldest First)</option>
+        <option value="score_desc">Score (Highest First)</option>
+        <option value="score_asc">Score (Lowest First)</option>
+        <option value="name_asc">Exam Name (A-Z)</option>
+        <option value="name_desc">Exam Name (Z-A)</option>
+      </select>
+    </div>
+    <div style="flex: 0 0 auto">
+      <button
+        id="clearFilters"
+        class="btn-outline"
+        style="padding: 0.75rem 1.5rem"
+      >
+        Clear Filters
+      </button>
+      <button
+        id="exportCSV"
+        class="btn-primary"
+        style="
+          padding: 0.75rem 1.5rem;
+          margin-left: 0.5rem;
+          background: #28a745;
+        "
+      >
+        <i class="fas fa-download"></i> Export CSV
+      </button>
+    </div>
+  </div>
+  <div
+    id="filterStats"
+    style="margin-top: 1rem; color: #64748b; font-size: 0.9rem"
+  ></div>
+</div>
+
+<!-- Pagination Controls -->
+<div
+  id="paginationControls"
+  style="
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+  "
+>
+  <div style="display: flex; gap: 0.5rem; align-items: center">
+    <span>Show:</span>
+    <select
+      id="perPage"
+      style="padding: 0.5rem; border: 2px solid #e2e8f0; border-radius: 0.5rem"
+    >
+      <option value="6">6 per page</option>
+      <option value="12">12 per page</option>
+      <option value="24">24 per page</option>
+      <option value="all">Show all</option>
+    </select>
+  </div>
+  <div
+    id="paginationButtons"
+    style="display: flex; gap: 0.5rem; flex-wrap: wrap"
+  ></div>
+</div>
+
+<div class="features-grid" id="examCardsContainer"></div>
+
+<script>
+  // Store all submissions data
+  const allSubmissionsData = {{ submissions | tojson }};
+
+  // DOM elements - check if they exist
+  const searchInputElem = document.getElementById('searchExam');
+  const dateFromElem = document.getElementById('dateFrom');
+  const dateToElem = document.getElementById('dateTo');
+  const sortByElem = document.getElementById('sortBy');
+  const clearBtnElem = document.getElementById('clearFilters');
+  const exportBtnElem = document.getElementById('exportCSV');
+  const filterStatsElem = document.getElementById('filterStats');
+  const perPageSelectElem = document.getElementById('perPage');
+  const containerElem = document.getElementById('examCardsContainer');
+  const paginationButtonsElem = document.getElementById('paginationButtons');
+
+  // State variables
+  let currentPageNum = 1;
+  let itemsPerPageVal = 6;
+  let currentFilteredData = [...allSubmissionsData];
+
+  // Update statistics
+  function updateStatistics(data) {
+      const avgScoreElem = document.getElementById('avgScore');
+      const bestScoreElem = document.getElementById('bestScore');
+      const totalCorrectElem = document.getElementById('totalCorrect');
+
+      if (data.length === 0) {
+          if (avgScoreElem) avgScoreElem.textContent = '-';
+          if (bestScoreElem) bestScoreElem.textContent = '-';
+          if (totalCorrectElem) totalCorrectElem.textContent = '-';
+          return;
+      }
+
+      let totalPercentage = 0;
+      let best = 0;
+      let totalCorrectAnswers = 0;
+
+      data.forEach(sub => {
+          if (sub.total_possible && sub.total_possible > 0) {
+              const percentage = (sub.score / sub.total_possible * 100);
+              totalPercentage += percentage;
+              if (percentage > best) best = percentage;
+              totalCorrectAnswers += sub.score;
+          }
+      });
+
+      const avg = totalPercentage / data.length;
+      if (avgScoreElem) avgScoreElem.textContent = avg.toFixed(1) + '%';
+      if (bestScoreElem) bestScoreElem.textContent = best.toFixed(1) + '%';
+      if (totalCorrectElem) totalCorrectElem.textContent = totalCorrectAnswers;
+  }
+
+  // Sort function
+  function sortData(data, sortByValue) {
+      const sorted = [...data];
+      switch(sortByValue) {
+          case 'date_desc':
+              return sorted.sort((a, b) => new Date(b.end_time) - new Date(a.end_time));
+          case 'date_asc':
+              return sorted.sort((a, b) => new Date(a.end_time) - new Date(b.end_time));
+          case 'score_desc':
+              return sorted.sort((a, b) => {
+                  const aPercent = a.total_possible ? (a.score / a.total_possible * 100) : 0;
+                  const bPercent = b.total_possible ? (b.score / b.total_possible * 100) : 0;
+                  return bPercent - aPercent;
+              });
+          case 'score_asc':
+              return sorted.sort((a, b) => {
+                  const aPercent = a.total_possible ? (a.score / a.total_possible * 100) : 0;
+                  const bPercent = b.total_possible ? (b.score / b.total_possible * 100) : 0;
+                  return aPercent - bPercent;
+              });
+          case 'name_asc':
+              return sorted.sort((a, b) => a.exam.title.localeCompare(b.exam.title));
+          case 'name_desc':
+              return sorted.sort((a, b) => b.exam.title.localeCompare(a.exam.title));
+          default:
+              return sorted;
+      }
+  }
+
+  // Filter function
+  function filterData() {
+      const searchTerm = searchInputElem ? searchInputElem.value.toLowerCase().trim() : '';
+      const fromDate = dateFromElem ? dateFromElem.value : '';
+      const toDate = dateToElem ? dateToElem.value : '';
+
+      let filtered = allSubmissionsData.filter(sub => {
+          let show = true;
+
+          if (searchTerm && !sub.exam.title.toLowerCase().includes(searchTerm)) {
+              show = false;
+          }
+
+          if (show && fromDate && sub.end_time) {
+              const subDate = sub.end_time.split('T')[0];
+              if (subDate < fromDate) show = false;
+          }
+
+          if (show && toDate && sub.end_time) {
+              const subDate = sub.end_time.split('T')[0];
+              if (subDate > toDate) show = false;
+          }
+
+          return show;
+      });
+
+      // Apply sorting
+      const sortValue = sortByElem ? sortByElem.value : 'date_desc';
+      filtered = sortData(filtered, sortValue);
+
+      // Update filter stats
+      const total = allSubmissionsData.length;
+      const visible = filtered.length;
+      if (filterStatsElem) {
+          filterStatsElem.innerHTML = `Showing ${visible} of ${total} exam${total !== 1 ? 's' : ''}`;
+      }
+
+      return filtered;
+  }
+
+  // Render cards with pagination
+  function renderCards() {
+      currentFilteredData = filterData();
+      updateStatistics(currentFilteredData);
+
+      const totalItems = currentFilteredData.length;
+      const totalPages = itemsPerPageVal === 'all' ? 1 : Math.ceil(totalItems / itemsPerPageVal);
+
+      if (currentPageNum > totalPages) currentPageNum = 1;
+
+      const start = itemsPerPageVal === 'all' ? 0 : (currentPageNum - 1) * itemsPerPageVal;
+      const end = itemsPerPageVal === 'all' ? totalItems : start + itemsPerPageVal;
+      const pageData = currentFilteredData.slice(start, end);
+
+      // Render cards
+      if (containerElem) {
+          if (pageData.length === 0) {
+              containerElem.innerHTML = '<div class="feature-card" style="grid-column: 1 / -1; text-align: center;"><p>No exams match your filters.</p></div>';
+          } else {
+              containerElem.innerHTML = pageData.map(sub => `
+                  <div class="feature-card" style="display: flex; flex-direction: column; height: 100%;">
+                      <div class="feature-icon"><i class="fas fa-file-alt"></i></div>
+                      <h3>${escapeHtml(sub.exam.title)}</h3>
+                      <div style="flex-grow: 1; margin: 1rem 0;">
+                          <p><strong>Date:</strong> ${sub.end_time ? new Date(sub.end_time).toLocaleString() : 'In progress'}</p>
+                          <p><strong>Score:</strong> ${sub.score}/${sub.total_possible}</p>
+                          <p><strong>Percentage:</strong> ${sub.total_possible && sub.total_possible > 0 ? ((sub.score / sub.total_possible * 100).toFixed(1)) + '%' : '-'}</p>
+                      </div>
+                      <a href="/exam/${sub.exam.id}" class="btn-primary" style="text-align: center;">Retake Exam</a>
+                  </div>
+              `).join('');
+          }
+      }
+
+      // Render pagination buttons
+      renderPaginationButtons(totalPages);
+  }
+
+  function renderPaginationButtons(totalPages) {
+      if (!paginationButtonsElem) return;
+      if (itemsPerPageVal === 'all' || totalPages <= 1) {
+          paginationButtonsElem.innerHTML = '';
+          return;
+      }
+
+      let buttons = '';
+      for (let i = 1; i <= totalPages; i++) {
+          buttons += `<button onclick="goToPage(${i})" style="padding: 0.5rem 1rem; border: 2px solid ${i === currentPageNum ? '#3b3bff' : '#e2e8f0'}; background: ${i === currentPageNum ? '#3b3bff' : 'white'}; color: ${i === currentPageNum ? 'white' : '#333'}; border-radius: 0.5rem; cursor: pointer;">${i}</button>`;
+      }
+      paginationButtonsElem.innerHTML = buttons;
+  }
+
+  window.goToPage = function(page) {
+      currentPageNum = page;
+      renderCards();
+      window.scrollTo({ top: document.querySelector('.hero').offsetTop - 100, behavior: 'smooth' });
+  };
+
+  function escapeHtml(str) {
+      if (!str) return '';
+      return str.replace(/[&<>]/g, function(m) {
+          if (m === '&') return '&amp;';
+          if (m === '<') return '&lt;';
+          if (m === '>') return '&gt;';
+          return m;
+      });
+  }
+
+  // Export to CSV
+  function exportToCSV() {
+      const data = currentFilteredData;
+      if (data.length === 0) {
+          alert('No data to export');
+          return;
+      }
+
+      const headers = ['Exam Name', 'Date', 'Score', 'Total Possible', 'Percentage'];
+      const rows = data.map(sub => [
+          sub.exam.title,
+          sub.end_time ? new Date(sub.end_time).toLocaleString() : 'In progress',
+          sub.score,
+          sub.total_possible,
+          sub.total_possible ? ((sub.score / sub.total_possible * 100).toFixed(1)) + '%' : '-'
+      ]);
+
+      const csvContent = [headers, ...rows].map(row => row.map(cell => `"${cell}"`).join(',')).join('\n');
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement('a');
+      const url = URL.createObjectURL(blob);
+      link.setAttribute('href', url);
+      link.setAttribute('download', 'exam_history.csv');
+      link.style.display = 'none';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      URL.revokeObjectURL(url);
+  }
+
+  // Event listeners - only if elements exist
+  if (searchInputElem) searchInputElem.addEventListener('input', () => { currentPageNum = 1; renderCards(); });
+  if (dateFromElem) dateFromElem.addEventListener('change', () => { currentPageNum = 1; renderCards(); });
+  if (dateToElem) dateToElem.addEventListener('change', () => { currentPageNum = 1; renderCards(); });
+  if (sortByElem) sortByElem.addEventListener('change', () => { currentPageNum = 1; renderCards(); });
+  if (clearBtnElem) {
+      clearBtnElem.addEventListener('click', () => {
+          if (searchInputElem) searchInputElem.value = '';
+          if (dateFromElem) dateFromElem.value = '';
+          if (dateToElem) dateToElem.value = '';
+          if (sortByElem) sortByElem.value = 'date_desc';
+          currentPageNum = 1;
+          renderCards();
+      });
+  }
+  if (exportBtnElem) exportBtnElem.addEventListener('click', exportToCSV);
+  if (perPageSelectElem) {
+      perPageSelectElem.addEventListener('change', () => {
+          itemsPerPageVal = perPageSelectElem.value === 'all' ? 'all' : parseInt(perPageSelectElem.value);
+          currentPageNum = 1;
+          renderCards();
+      });
+  }
+
+  // Initial render
+  renderCards();
+</script>
+
+<style>
+  @media (max-width: 768px) {
+    #paginationControls {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    #paginationButtons {
+      justify-content: center;
+    }
+  }
+</style>
 
 {% endblock %}

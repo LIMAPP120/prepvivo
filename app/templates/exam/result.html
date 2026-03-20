@@ -3,10 +3,13 @@ content %}
 
 <div class="hero" style="justify-content: center; text-align: center">
   <div>
-    <h1>Your Score: {{ submission.score }}/{{ submission.total_possible }}</h1>
-    <div class="score" style="font-size: 5rem">
-      {{ (submission.score / submission.total_possible * 100) | round }}%
+    <h1>Exam Results</h1>
+    <div class="score" style="font-size: 4rem; margin: 1rem 0">
+      {{ submission.score }}/{{ submission.total_possible }}
     </div>
+    <p class="score-text">
+      {{ "%.1f"|format(submission.score / submission.total_possible * 100) }}%
+    </p>
   </div>
 </div>
 
@@ -25,8 +28,27 @@ content %}
     {% endif %}
   </div>
   {% endfor %}
-  <a href="{{ url_for('main.index') }}" class="btn-outline"
-    ><i class="fas fa-arrow-left"></i> Back to Exams</a
+
+  <div
+    style="margin-top: 2rem; display: flex; gap: 1rem; justify-content: center"
   >
+    <a href="{{ url_for('main.dashboard') }}" class="btn-outline">
+      <i class="fas fa-chart-line"></i> Dashboard
+    </a>
+    <a href="{{ url_for('main.index') }}" class="btn-primary">
+      <i class="fas fa-book"></i> More Exams
+    </a>
+    {% if submission.score / submission.total_possible >= 0.7 %}
+    <a
+      href="{{ url_for('exam.certificate', submission_id=submission.id) }}"
+      class="btn-primary"
+      target="_blank"
+      style="background: #ff9800"
+    >
+      <i class="fas fa-certificate"></i> Download Certificate
+    </a>
+    {% endif %}
+  </div>
 </div>
+
 {% endblock %}

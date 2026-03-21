@@ -1,9 +1,8 @@
 from flask_admin.contrib.sqla import ModelView
 from flask_login import current_user
-from flask import abort, request, redirect, url_for
-from flask_admin import expose
+from flask import abort
 from app import db
-from app.models import Question
+from app.models import Question, QuestionType
 from app.forms import QuestionForm
 
 class SecureModelView(ModelView):
@@ -16,12 +15,11 @@ class SecureModelView(ModelView):
 class UserView(SecureModelView):
     column_list = ['id', 'username', 'email', 'role', 'created_at']
     column_searchable_list = ['username', 'email']
-    column_filters = ['role', 'created_at']
+    column_filters = ['role']
     form_columns = ['username', 'email', 'role']
     can_create = True
     can_edit = True
     can_delete = True
-    column_editable_list = ['role']
 
 class ExamView(SecureModelView):
     column_list = ['id', 'title', 'description', 'time_limit_minutes', 'created_at']
@@ -45,8 +43,7 @@ class QuestionView(SecureModelView):
         return QuestionForm()
     
     def edit_form(self, obj):
-        form = QuestionForm(obj=obj)
-        return form
+        return QuestionForm(obj=obj)
     
     def create_model(self, form):
         try:
@@ -92,7 +89,5 @@ class MatchingPairView(SecureModelView):
     column_filters = ['question']
     form_columns = ['question', 'left_text', 'right_text', 'order']
     form_args = {
-        'question': {'query_factory': lambda: db.session.query(Question).filter(
-            Question.type.has(name='matching')
-        )}
+        'question': {'query_factory': lambda: Question.query.filter(Question.type.has(name='matching'))}
     }

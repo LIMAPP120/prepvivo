@@ -38,6 +38,7 @@ def take_exam(exam_id):
 @bp.route('/<int:exam_id>/submit', methods=['POST'])
 @login_required
 def submit_exam(exam_id):
+    from app.utils.email import send_exam_results
     submission = Submission.query.filter_by(
         user_id=current_user.id, exam_id=exam_id, status='in_progress'
     ).first_or_404()
@@ -160,6 +161,13 @@ def submit_exam(exam_id):
     submission.status = 'completed'
     submission.end_time = datetime.utcnow()
     db.session.commit()
+    
+    # Send email notification (don't block the response if email fails)
+    #try:
+    #    send_exam_results(current_user, submission)
+    #    print(f"Email sent to {current_user.email}")
+    #except Exception as e:
+    #    print(f"Failed to send email: {e}")
 
     flash(f'Exam submitted! Your score: {score}/{total_possible}')
     return redirect(url_for('exam.result', submission_id=submission.id))
